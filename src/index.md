@@ -7,4 +7,6 @@ internalPageTypes: [ 'home' ]
 
 ![Hazard Podcast Logo](../img/HazardCover.jpg)
 
-Hazard Podcast, Coming Soon!
+# Hazard Podcast
+
+## Coming Soon!
