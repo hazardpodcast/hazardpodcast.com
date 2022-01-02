@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Hazard Podcast</title>
+	<atom:link href="https://hazardpodcast.com/rss/" rel="self" type="application/rss+xml" />
+	<link>https://hazardpodcast.com/</link>
+	<description>The Hazard Podcast</description>
+	<lastBuildDate>Sun, 02 Jan 2022 23:40:27 GMT</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://11ty.dev/</generator>
+	<managingEditor>
+		webmaster@hazardpodcast.com (Jordan Gass-Poore)
+	</managingEditor>
+	
+	<item>
+		<title>Podcast Coming Soon</title>
+		<link>https://hazardpodcast.com/posts/hazard-podcast-coming-soon/?source=rss</link>
+		<pubDate>Fri, 31 Dec 2021 02:59:43 GMT</pubDate>
+		<dc:creator>Jordan Gass-Poore</dc:creator>
+		<guid isPermaLink="true">https://hazardpodcast.com/posts/hazard-podcast-coming-soon/</guid>
+		<description>The Hazard Podcast is coming soon</description>
+		<content:encoded><![CDATA[<h2 id="coming-soon!" tabindex="-1">Coming Soon!</h2>
+<p>The Hazard Podcast, coming soon!</p>
+]]></content:encoded>
+	</item>
+	</channel>
+</rss>
