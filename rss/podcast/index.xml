@@ -7,16 +7,34 @@
 
 <channel>
 	<title>Hazard Podcast</title>
-	<atom:link href="https://hazardpodcast.com/rss/" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 31 Dec 2021 10:00:00 +0000</pubDate>
+	<atom:link href="https://hazardpodcast.com/rss/podcast" rel="self" type="application/rss+xml" />
 	<link>https://hazardpodcast.com/</link>
+    <language>en</language>
+    <copyright><![CDATA[]]></copyright>
 	<description>The Hazard Podcast</description>
-	<lastBuildDate>Sun, 02 Jan 2022 23:40:27 GMT</lastBuildDate>
-	<language>en-US</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
+	<lastBuildDate>Mon, 03 Jan 2022 00:32:18 GMT</lastBuildDate>
 	<generator>https://11ty.dev/</generator>
 	<managingEditor>
 		webmaster@hazardpodcast.com (Jordan Gass-Poore)
 	</managingEditor>
+    <itunes:summary><![CDATA[The Hazard Podcast]]></itunes:summary>
+    <image>
+		<url>https://hazardpodcast.com/img/HazardCover.jpg</url>
+		<title>Hazard Podcast</title>
+		<link><![CDATA[https://hazardpodcast.com/]]></link>
+	</image>
+    <itunes:author>Hazard Podcast</itunes:author>
+    <itunes:category text="Science">
+        <itunes:category text="Earth Sciences"/>
+    </itunes:category>
+    <itunes:image href="https://hazardpodcast.com/img/HazardCover.jpg" />
+    <itunes:explicit>clean</itunes:explicit>
+    <itunes:owner>
+        <itunes:name><![CDATA[Jordan Gass-Poore]]></itunes:name>
+        <itunes:email>webmaster@hazardpodcast.com</itunes:email>
+    </itunes:owner>
+    <itunes:subtitle><![CDATA[]]></itunes:subtitle>
+    <itunes:type>episodic</itunes:type>
 	</channel>
 </rss>

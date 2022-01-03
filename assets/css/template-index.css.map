@@ -5,9 +5,9 @@
 		"sass/file:///home/runner/work/hazardpodcast.com/hazardpodcast.com/src/_sass/template-index.sass"
 	],
 	"names": [],
-	"mappings": "AAAA,aACI,eACA,cACA,kBACA,yBACJ,IACI,eACJ,GACI,eACA,iBACJ,gBACI,aACA",
+	"mappings": "AAAA,aACI,eACA,cACA,kBACA,yBACJ,IACI,eACA,gBACJ,GACI,eACA,iBACJ,gBACI,aACA",
 	"file": "template-index.css",
 	"sourcesContent": [
-		"body, wrapper\n    max-width: 100%\n    display: block\n    text-align: center\n    background-color: #ffbc00\nimg\n    max-width: 100%\nh1\n    font-size: 60px\n    line-height: 16px\np:first-of-type\n    margin-top: 0\n    padding-top: 0\n"
+		"body, wrapper\n    max-width: 100%\n    display: block\n    text-align: center\n    background-color: #ffbc00\nimg\n    max-width: 100%\n    max-height: 85vh\nh1\n    font-size: 60px\n    line-height: 16px\np:first-of-type\n    margin-top: 0\n    padding-top: 0\n"
 	]
 }
