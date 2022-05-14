@@ -2,6 +2,15 @@
 
 {% set templateName = "index" %}
 
+{% block socialhead %}
+            {% if isBasedOn %}
+            <link rel="canonical" href="{{ isBasedOn }}" />
+            <meta http-equiv="Link" rel="canonical" content="{{ isBasedOn }}" />
+            {% else %}
+            <link rel="canonical" href="{{ site.site_url }}{{ page.url }}" />
+            {% endif %}
+{% endblock %}
+
 {% block header %}
     <h1 class="header">
         {{title}}

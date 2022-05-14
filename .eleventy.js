@@ -5,7 +5,7 @@ const path = require("path");
 const del = require("del");
 var mdProcessor = require("markdown-it");
 const sitemap = require("@quasibit/eleventy-plugin-sitemap");
-// const UpgradeHelper = require("@11ty/eleventy-upgrade-help");
+const UpgradeHelper = require("@11ty/eleventy-upgrade-help");
 
 let Nunjucks = require("nunjucks");
 const normalize = require("normalize-path");
@@ -130,6 +130,11 @@ module.exports = function (eleventyConfig) {
 	});
 	eleventyConfig.addPassthroughCopy({
 		"src/assets": "assets",
+	});
+
+	eleventyConfig.addPlugin(require("./_custom-plugins/create-audio-data"), {
+		domainName: domain_name,
+		podcastFolder: path.join(path.resolve("."), "/src/assets/podcasts"),
 	});
 
 	// Can't use this until ver 1 apparently

@@ -1,0 +1,13 @@
+{
+	"name": "podcasty",
+	"version": "0.1.0",
+	"main": ".eleventy.js",
+	"scripts": {
+		"test": "jest"
+	},
+	"keywords": [
+		"eleventy",
+		"eleventy-utility"
+	],
+	"license": "MIT"
+}
