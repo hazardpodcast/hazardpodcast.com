@@ -12,6 +12,7 @@ featuredImageLink: "https://hazardpodcast.com"
 featuredImageAlt: "Hazard Podcast Logo"
 episodeFile: Hazard_Trailer.mp3
 isBasedOn: https://www.njspotlightnews.org/podcast/trailer-hazard-nj/
+isBasedOnAudio: https://mcdn.podbean.com/mf/download/8mnfvr/Hazard_Trailera9yp5.mp3
 ---
 
 ## Coming Soon!
