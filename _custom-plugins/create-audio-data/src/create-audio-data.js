@@ -6,10 +6,10 @@ const fs = require("fs");
 const createMetadata = async (musicFile) => {
 	try {
 		const metadata = await mm.parseFile(musicFile);
-		console.log(util.inspect(metadata, { showHidden: false, depth: null }));
+		//console.log(util.inspect(metadata, { showHidden: false, depth: null }));
 		const fileData = fs.statSync(musicFile);
 		metadata.byteSize = fileData.size;
-		console.log(metadata);
+		//console.log(metadata);
 		return metadata;
 	} catch (error) {
 		console.error(error.message);

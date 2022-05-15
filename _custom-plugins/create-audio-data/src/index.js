@@ -11,7 +11,7 @@ module.exports = function (eleventyConfig, options) {
 		// let aSet = new Set();
 		let dataEpisodes = [];
 		let episodes = collection.getFilteredByTag(options.episodesCollection);
-		console.log("episode collection", episodes);
+		// console.log("episode collection", episodes);
 		dataEpisodes = episodes.map(async (aEpisode) => {
 			const file = path.join(
 				options.podcastFolder,
@@ -24,7 +24,7 @@ module.exports = function (eleventyConfig, options) {
 			return aEpisode;
 		});
 		let finalEpisodes = await Promise.all(dataEpisodes);
-		console.log("Final Episode", finalEpisodes);
+		// console.log("Final Episode", finalEpisodes);
 		return finalEpisodes;
 	});
 };
