@@ -19,7 +19,12 @@ module.exports = function (eleventyConfig, options) {
 			);
 			const audioFileData = await createAudioData.createMetadata(file);
 			aEpisode.data.episodeFile = `${options.domainName}/${options.outPath}/${aEpisode.data.episodeFile}`;
-			aEpisode.data.duration = audioFileData.format.duration;
+			var readableDuration = new Date(
+				audioFileData.format.duration * 1000
+			)
+				.toISOString()
+				.substring(11, 19);
+			aEpisode.data.duration = readableDuration;
 			aEpisode.data.length = audioFileData.byteSize;
 			return aEpisode;
 		});

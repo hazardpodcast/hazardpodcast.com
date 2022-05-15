@@ -5,6 +5,7 @@ author: "Jordan Gass-Poore'"
 date: 2022-05-13 22:59:43.10 -4
 tags:
   - Trailer
+  - Season One
 featuredImage: "HazardCover.jpg"
 featuredImageCredit: "Logo"
 featuredImageLink: "https://hazardpodcast.com"

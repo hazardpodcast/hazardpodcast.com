@@ -1,5 +1,5 @@
 #top-nav
-    height: 54px
+    height: 56px
     position: fixed
     top: 0
     left: 0
@@ -9,13 +9,16 @@
     justify-content: center
     overflow: hidden
     background-color: #ffbc00
+    border-bottom: 2px solid black
     #top-nav-inner
         display: block
         margin: 2px 8px
         height: 50px
+        clear: both
     #nav-logo
         width: 50px
         height: 50px
+        margin-top: -6px
         display: inline-block
         position: relative
         picture, img
@@ -24,13 +27,25 @@
     #nav-menu-items
         display: inline-block
         position: relative
+        border: 1px solid transparent
+        clear: both
     ul
         display: inline-block
         position: relative
-        padding: 6px 8px 10px 8px
-        margin: 0
-        height: 40px
-        border: 1px solid transparent
+        padding: 0
+        margin-left: 10px
+        margin-bottom: 4px
+        font-family: "PhosphatePro-Solid", serif
+        font-size: 24px
+        line-height: 24px
+        overflow: hidden
         li
             display: inline-block
             list-style: none
+            margin: 0
+            &::after
+                content: " / "
+                margin: 0 8px
+            &:last-of-type::after
+                content: " "
+                margin: 0 8px
