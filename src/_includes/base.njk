@@ -30,6 +30,7 @@
         </head>
         <body {% block bodytags %}{% endblock %}>
             <div class="wrapper">
+                {% include "partials/top-nav.njk" %}
                 <header>
                     {% block header %}
                         <h1 class="header">
