@@ -8,6 +8,8 @@
             {% set templateName = "base" %}
         {% endif %}
         {% block metahead %}
+            <link rel="alternate" type="application/rss+xml" title="{{site.site_name}} RSS" href="{{site.site_url}}/rss/podcast/index.xml" />
+    	    <link rel="alternate" type="application/atom+xml" title="{{site.site_name}} Feed" href="{{site.site_url}}/feed/" />
             <meta charset="utf-8" />
             <meta http-equiv="X-UA-Compatible" content="IE=edge" />
             <title>{{ title }}</title>
@@ -32,6 +34,8 @@
             <meta name="theme-color" content="#ffffff">
 
         {% endblock %}
+        {% include "partials/social-header.njk" %}
+        {% include "partials/json-ld-header.njk" %}
         {% block socialhead %}
 
         {% endblock %}
@@ -40,6 +44,9 @@
         <body {% block bodytags %}{% endblock %}>
             <div class="wrapper">
                 {% include "partials/top-nav.njk" %}
+                {% if 'post' in templateName %}
+                    <article>
+                {% endif %}
                 <header>
                     {% block header %}
                         <h1 class="header">
@@ -61,15 +68,10 @@
                     {% endblock %}
                     </section>
                 </main>
-                <footer>
-                    {% block prefooter %}{% endblock %}
-                    {% block footer %}
-                        <p>
-                            <small>Hosted on <a href="https://pages.github.com" target="_blank">GitHub Pages</a>.</small>
-                        </p>
-                    {% endblock %}
-                    {% block postfooter %}{% endblock %}
-                </footer>
+                {% if 'post' in templateName %}
+                    </article>
+                {% endif %}
+                {% include "partials/footer.njk" %}
             </div>
             <!--[if !IE]><script>fixScale(document);</script><![endif]-->
         </body>

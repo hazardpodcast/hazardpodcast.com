@@ -1,0 +1,19 @@
+@use 'variables'
+
+body
+    max-width: 1000px
+    margin-left: auto
+    margin-right: auto
+h1
+    font-size: 35px
+    line-height: 35px
+    margin: 10px 0 10px 0
+    font-family: "PhosphatePro-Solid", serif
+    font-weight: normal
+    position: relative
+    z-index: 100
+.wrapper
+    @media (max-width: variables.$large-mobile)
+        max-width: 90%
+        margin-left: auto
+        margin-right: auto

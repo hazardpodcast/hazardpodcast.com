@@ -2,9 +2,8 @@
 {
   "eleventyExcludeFromCollections": true,
   "metadata": {
-    "title": "Hazard Podcast",
+    "title": "Hazard Podcast Feed",
     "subtitle": "",
-    "summary": "Hazard is a new podcast that digs through the muck of different supperfund sites accross the US to give a clearer picture of what the threat is and what it will take to clean it up before it's too late. Hosted by journalist Jordan Gass-Poore'",
     "url": (function(){ return process.env.DOMAIN + "/" })(),
     "feedImage": (function(){ return process.env.DOMAIN + "/img/HazardCover.jpg" })(),
     "feedUrl": (function(){ return process.env.DOMAIN + "/rss/podcast" })(),
@@ -36,13 +35,13 @@
 	<link>{{ metadata.url }}</link>
     <language>en</language>
     <copyright><![CDATA[]]></copyright>
-	<description>{{ metadata.summary }}</description>
+	<description>{{ site.description }}</description>
 	<lastBuildDate>{{ metadata.lastBuildDate }}</lastBuildDate>
 	<generator>https://11ty.dev/</generator>
 	<managingEditor>
 		{{ metadata.author.email }} ({{ metadata.author.name }})
 	</managingEditor>
-    <itunes:summary><![CDATA[{{ metadata.summary }}]]></itunes:summary>
+    <itunes:summary><![CDATA[{{ site.description }}]]></itunes:summary>
     <image>
 		<url>{{ metadata.feedImage }}</url>
 		<title>{{ metadata.title }}</title>

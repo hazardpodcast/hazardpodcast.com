@@ -1,5 +1,5 @@
 ---
-title: Hazard Podcast - NJ Trailer
+title: "Hazard Podcast - New Jersey: Trailer"
 description: "New podcast series highlights the intersection of pollution and climate change in the Garden State. Coming May 18."
 author: "Jordan Gass-Poore'"
 date: 2022-05-13 22:59:43.10 -4
@@ -15,11 +15,9 @@ isBasedOn: https://www.njspotlightnews.org/podcast/trailer-hazard-nj/
 isBasedOnAudio: https://mcdn.podbean.com/mf/download/8mnfvr/Hazard_Trailera9yp5.mp3
 ---
 
-## Coming Soon!
-
-The Hazard Podcast, coming soon!
-
 <iframe title="Trailer" style="border: none;" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?from=embed&pbad=0&i=mupbp-121bf17-pb&square=1&share=1&download=1&fonts=Arial&skin=f6f6f6&font-color=auto&rtl=0&logo_link=episode_page&btn-skin=7&size=300" allowfullscreen="" width="100%" height="400"></iframe>
+
+## The Hazard Podcast, coming soon!
 
 They’re the most polluted places in the country, and no state has more than New Jersey.
 
@@ -32,4 +30,8 @@ Don’t miss a thing: Subscribe to Hazard NJ on [Apple Podcasts](https://podcast
 This episode is sponsored by:
 
 Peril and Promise is a public media initiative from The WNET Group, reporting on the human stories of climate change and its solutions. You can learn more at [pbs.org/perilandpromise](http://pbs.org/perilandpromise). Major funding for Peril and Promise is provided by Dr. P. Roy Vagelos and Diana T. Vagelos with additional funding from The Marc Haas Foundation, Sue and Edgar Wachenheim III, and the Cheryl and Philip Milstein Family.
+
+Read the episode script below or [open in a new window](https://docs.google.com/document/d/e/2PACX-1vTfCt0SSMrhpZoZc65G52IrdEJotP1I39EdU4YCeDNQPMOOFcxR5DIYr4pE02OGSDHsS3vbdxPF3tLP/pub):
+
+<iframe class="iframe-doc" src="https://docs.google.com/document/d/e/2PACX-1vTfCt0SSMrhpZoZc65G52IrdEJotP1I39EdU4YCeDNQPMOOFcxR5DIYr4pE02OGSDHsS3vbdxPF3tLP/pub?embedded=true"></iframe>
 

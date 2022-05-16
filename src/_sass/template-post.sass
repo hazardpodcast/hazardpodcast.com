@@ -1,0 +1,47 @@
+@use 'variables'
+
+body
+    background-color: var(--background)
+    max-width: 75%
+    margin: 0 auto
+    font-family: sans-serif
+    font-size: 18px
+    max-width: 1050px
+    @media (max-width: variables.$large-mobile)
+        max-width: 90%
+    iframe
+        width: 90%
+        margin: 10px auto
+        display: block
+        &.iframe-doc
+            height: 800px
+header
+    display: block
+    text-align: center
+    .title-plate
+        display: flex
+        flex-wrap: wrap
+        .title-photo
+            width: 260px
+            display: inline-block
+            flex-shrink: 0
+            margin-right: 20px
+            @media (max-width: variables.$large-mobile)
+                margin: 0 auto
+            img
+                width: 100%
+                height: auto
+        .title-text
+            width: calc(100% - 300px)
+            @media (max-width: variables.$large-mobile)
+                width: 100%
+            h1
+                font-size: xxx-large
+                font-weight: normal
+                font-family: var(--title-font)
+                margin: 40px 0 20px
+                display: inline-block
+            .description
+                font-size: 20px
+                font-weight: bold
+                display: inline-block

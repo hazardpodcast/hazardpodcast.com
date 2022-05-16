@@ -68,10 +68,10 @@ module.exports = function (eleventyConfig) {
 		},
 	};
 
-	async function imageShortcode(src, alt, sizes) {
+	async function imageShortcode(src, alt, sizes, customSize = 250) {
 		let metadata = await Image(src, {
-			widths: [300, 600, 800],
-			formats: ["png", "jpeg"],
+			widths: [parseInt(customSize), 300, 600, 800],
+			formats: ["png", "jpeg", "svg"],
 			outputDir: path.join(eleventyConfig.dir.output, "img"),
 			filenameFormat: function (id, src, width, format, options) {
 				const extension = path.extname(src);
@@ -79,6 +79,7 @@ module.exports = function (eleventyConfig) {
 
 				return `${name}-${width}w.${format}`;
 			},
+			whitespaceMode: "inline",
 		});
 
 		let imageAttributes = {
