@@ -1,0 +1,43 @@
+<nav id="top-nav">
+    <div id="top-nav-inner">
+        <div id="nav-logo">
+            <a href="{{ site.site_url }}">
+                {% smallimage "./src/img/Hazard-Logo_No-Words.png", "Hazard Logo", "50vw" %}
+            </a>
+        </div>
+        <script>
+            function opennav(e){
+                console.log(e.parentNode.parentNode); e.parentNode.parentNode.classList.toggle('open');
+            }
+        </script>
+        <div id="nav-icon" onclick="opennav(this)">
+            <img src="{{ site.site_url }}/assets/menu-icon.svg" />
+        </div>
+        <div id="nav-menu-items">
+            <ul>
+                <li class="home">
+                    <a href="{{ site.site_url }}">Hazard</a>
+                </li>
+                <li>
+                    <!-- <a href="{{ site.site_url }}/episodes">Episodes</a> -->
+                    <a href="https://www.njspotlightnews.org/podcast/" target="_blank">Episodes</a>
+                </li>
+                <li>
+                    <a href="{{ site.site_url }}/about">About</a>
+                </li>
+                <li>
+                    <a href="{{ site.site_url }}/rss/podcast/index.xml">Subscribe</a>
+                </li>
+                <li>
+                    <a href="https://podcasts.apple.com/us/podcast/hazard-nj/id1622849571" target="_blank">Apple</a>
+                </li>
+                <li>
+                    <a href="https://open.spotify.com/show/30cCzv4iuGTIdr44eyHIfS?si=3w9tD2Z-QNa5coc8l4RIYw" target="_blank">Spotify</a>
+                </li>
+                <li>
+                   <a href="{{ site.site_url }}/learn">Learn</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>

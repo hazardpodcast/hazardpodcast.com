@@ -8,6 +8,8 @@
             {% set templateName = "base" %}
         {% endif %}
         {% block metahead %}
+            <link rel="alternate" type="application/rss+xml" title="{{site.site_name}} RSS" href="{{site.site_url}}/rss/podcast/index.xml" />
+    	    <link rel="alternate" type="application/atom+xml" title="{{site.site_name}} Feed" href="{{site.site_url}}/feed/" />
             <meta charset="utf-8" />
             <meta http-equiv="X-UA-Compatible" content="IE=edge" />
             <title>{{ title }}</title>
@@ -22,7 +24,18 @@
             <!--[if lt IE 9]>
                 <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
             <![endif]-->
+
+            <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+            <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+            <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+            <link rel="manifest" href="/assets/site.webmanifest">
+            <link rel="mask-icon" href="/assets/safari-pinned-tab.svg" color="#5bbad5">
+            <meta name="msapplication-TileColor" content="#da532c">
+            <meta name="theme-color" content="#ffffff">
+
         {% endblock %}
+        {% include "partials/social-header.njk" %}
+        {% include "partials/json-ld-header.njk" %}
         {% block socialhead %}
 
         {% endblock %}
@@ -30,6 +43,10 @@
         </head>
         <body {% block bodytags %}{% endblock %}>
             <div class="wrapper">
+                {% include "partials/top-nav.njk" %}
+                {% if 'post' in templateName %}
+                    <article>
+                {% endif %}
                 <header>
                     {% block header %}
                         <h1 class="header">
@@ -51,15 +68,10 @@
                     {% endblock %}
                     </section>
                 </main>
-                <footer>
-                    {% block prefooter %}{% endblock %}
-                    {% block footer %}
-                        <p>
-                            <small>Hosted on <a href="https://pages.github.com" target="_blank">GitHub Pages</a>.</small>
-                        </p>
-                    {% endblock %}
-                    {% block postfooter %}{% endblock %}
-                </footer>
+                {% if 'post' in templateName %}
+                    </article>
+                {% endif %}
+                {% include "partials/footer.njk" %}
             </div>
             <!--[if !IE]><script>fixScale(document);</script><![endif]-->
         </body>

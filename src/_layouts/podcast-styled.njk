@@ -1,0 +1,108 @@
+---js
+{
+  "eleventyExcludeFromCollections": true,
+  "metadata": {
+    "title": "Hazard Podcast Feed",
+    "subtitle": "The Hazard Podcast",
+    "url": (function(){ return process.env.DOMAIN + "/" })(),
+    "feedImage": (function(){ return process.env.DOMAIN + "/img/HazardCover.jpg" })(),
+    "testOn": "http://xsltransform.net/",
+    "feedUrl": (function(){ return process.env.DOMAIN + "/rss/podcast" })(),
+	"lastBuildDate": (function(){
+		var date = new Date();
+		return date.toUTCString()
+	})(),
+    "author": {
+      "name": "Jordan Gass-Poore",
+      "email": "webmaster@hazardpodcast.com"
+    }
+  },
+  "internalPageTypes": [ "feed" ]
+}
+---
+<?xml version="1.0" encoding="utf-8"?>
+<xsl:stylesheet version="3.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <xsl:output method="html" version="1.0" encoding="UTF-8" indent="yes"/>
+  <xsl:template match="/">
+    <html xmlns="http://www.w3.org/1999/xhtml">
+      <head>
+        <title><xsl:value-of select="/rss/channel/title"/></title>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+        <meta charset="UTF-8"/>
+        <link rel="stylesheet" href="/assets/css/style.css"/>
+        <link rel="stylesheet" href="/assets/css/template-feed.css"/>
+        {% include "partials/social-header.njk" %}
+        {% include "partials/json-ld-header.njk" %}
+      </head>
+      <body>
+        <div class="wrapper">
+            <nav id="top-nav">
+                <div id="top-nav-inner">
+                    <div id="nav-menu-items">
+                        <ul>
+                            <li class="home">
+                                <a href="{{ site.site_url }}">Return to Home</a>
+                            </li>
+                            <li>
+                                <a href="{{ site.site_url }}/about">About</a>
+                            </li>
+                            <li>
+                                <a href="{{ site.site_url }}/learn">Learn</a>
+                            </li>
+                            <li>
+                                <a href="{{ site.site_url }}/contact">Contact Us</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+            <header>
+            <h1><svg class="rss-logo" xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 256 256"><defs><linearGradient x1=".085" y1=".085" x2=".915" y2=".915" id="a"><stop offset="0" stop-color="#E3702D"/><stop offset=".107" stop-color="#EA7D31"/><stop offset=".35" stop-color="#F69537"/><stop offset=".5" stop-color="#FB9E3A"/><stop offset=".702" stop-color="#EA7C31"/><stop offset=".887" stop-color="#DE642B"/><stop offset="1" stop-color="#D95B29"/></linearGradient></defs><rect width="256" height="256" rx="55" ry="55" fill="#CC5D15"/><rect width="246" height="246" rx="50" ry="50" x="5" y="5" fill="#F49C52"/><rect width="236" height="236" rx="47" ry="47" x="10" y="10" fill="url(#a)"/><circle cx="68" cy="189" r="24" fill="#FFF"/><path d="M160 213h-34a82 82 0 0 0-82-82V97a116 116 0 0 1 116 116z" fill="#FFF"/><path d="M184 213A140 140 0 0 0 44 73V38a175 175 0 0 1 175 175z" fill="#FFF"/></svg><xsl:value-of select="/rss/channel/title"/></h1>
+            <div class="aboutfeeds">
+                <p>This is a web feed, also known as an RSS feed that you can use to subscribe to the Hazard Podcast.</p>
+                <p><span class="big">↘️ <strong>Subscribe</strong> by <button onclick="rssToClipboard(this)"><img src="{{ site.site_url }}/assets/copy.svg" intrinsicsize="512 x 512" alt="Copy Icon" title="Copy Icon" width="15" height="15"></img> <span class="button-inner">copying the URL</span></button> into your RSS reader.</span></p>
+                <p>You can also subscribe through your favorite podcast service: </p>
+                <p><ul>
+                    <li><a href="https://open.spotify.com/show/30cCzv4iuGTIdr44eyHIfS?si=3w9tD2Z-QNa5coc8l4RIYw" target="_blank">{% include "partials/social-icons/spotify.njk" %}<span> Spotify</span></a></li>
+                    <li><a href="https://podcasts.apple.com/us/podcast/hazard-nj/id1622849571" target="_blank">{% include "partials/social-icons/apple-podcasts.njk" %}<span> Apple Podcasts</span></a></li>
+                    <li><a href="https://music.amazon.com/podcasts/f36c7ea7-0e39-48be-b9aa-a2914be8a837/hazard-nj" target="_blank">{% include "partials/social-icons/amazon.njk" %}<span> Amazon Music</span></a></li>
+                    <li><a href="https://podcasts.google.com/subscribe-by-rss-feed" target="_blank">{% include "partials/social-icons/google-podcasts.njk" %}<span> Google Podcasts</span></a></li>
+                    <li><a href="https://overcast.fm/" target="_blank">{% include "partials/social-icons/overcast.njk" %}<span> Overcast</span></a></li>
+                    <li><a href="https://support.pocketcasts.com/" target="_blank">{% include "partials/social-icons/pocket-casts.njk" %}<span> Pocket Casts</span></a></li>
+                    <li><a href="https://podcastaddict.com/" target="_blank">{% include "partials/social-icons/podcast-addict.njk" %}<span> Podcast Addict</span></a></li>
+                </ul></p>
+            </div>
+            <div class="head">
+                <div class="avatar">
+                <img src="{{ site.site_url }}/assets/android-chrome-192x192.png" alt="Hazard Logo"/>
+                </div>
+                <div class="description">
+                <p><xsl:value-of select="/rss/channel/description"/></p>
+                <p><a hreflang="en"><xsl:attribute name="href"><xsl:value-of select="/rss/channel/link"/></xsl:attribute>Visit Website &#x2192;</a></p>
+                </div>
+            </div>
+            </header>
+            <main>
+            <h2>🎙️ Recent Episodes</h2>
+            <xsl:for-each select="/rss/channel/item">
+                <article>
+                    <div class="article-text">
+                        <h3><a hreflang="en"><xsl:attribute name="href"><xsl:value-of select="link"/></xsl:attribute><xsl:value-of select="title"/></a></h3>
+                        <p><xsl:value-of select="description" /></p>
+                        <footer>Published: <time><xsl:value-of select="pubDate" /></time></footer>
+                    </div>
+                </article>
+            </xsl:for-each>
+            <p class="about"><img src="{{ site.site_url }}/assets/favicon-32x32.png" alt="Minutes to Midnight icon" width="24" height="24" /><a href="{{ site.site_url }}/about/">About the Hazard Podcast</a>.</p>
+            </main>
+        </div>
+        <script>
+            function rssToClipboard(clickedObj){
+                navigator.clipboard.writeText(`{{ site.site_url }}/rss/podcast/index.xml`);
+            }
+        </script>
+      </body>
+    </html>
+  </xsl:template>
+</xsl:stylesheet>

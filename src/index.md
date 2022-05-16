@@ -5,8 +5,7 @@ eleventyExcludeFromCollections: true
 internalPageTypes: [ 'home' ]
 ---
 
-![Hazard Podcast Logo](../img/HazardCover.jpg)
-
 # Hazard Podcast
 
-## Coming Soon!
+![Hazard Podcast Logo](../img/Hazard-Logo_No-Words.png)
+
