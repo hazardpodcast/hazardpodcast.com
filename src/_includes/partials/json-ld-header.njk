@@ -1,0 +1,23 @@
+<script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "PodcastSeries",
+        "url": "{{site.site_url}}{{ page.url }}",
+        "headline": "{{ title or site.site_name }}",
+        "about": "{{ description or site.description }}",
+        "image": [
+            "https://41.media.tumblr.com/709bb3c371b9924add351bfe3386e946/tumblr_nxdq8uFdx81qzocgko1_1280.jpg"
+        ],
+        "isAccessibleForFree": "True",
+        "isPartOf": {
+            "@type": ["CreativeWork", "Product"],
+            "name": "{{site.site_name}}",
+            "productID": "{{site.site_url}}"
+        },
+        "author": {% include "partials/json-ld-objs/person.njk" -%},
+        "editor": {% include "partials/json-ld-objs/person.njk" %},
+        "inLanguage": "en-US",
+        "additionalType": "CreativeWork",
+        "alternateName": "{{site.site_name}}",
+    }
+</script>

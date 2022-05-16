@@ -26,12 +26,14 @@
   <xsl:template match="/">
     <html xmlns="http://www.w3.org/1999/xhtml">
       <head>
-        <title><xsl:value-of select="/rss/channel/title"/>{{ site.site_name }} Feed</title>
+        <title><xsl:value-of select="/rss/channel/title"/></title>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
         <meta charset="UTF-8"/>
         <link rel="stylesheet" href="/assets/css/style.css"/>
         <link rel="stylesheet" href="/assets/css/template-feed.css"/>
+        {% include "partials/social-header.njk" %}
+        {% include "partials/json-ld-header.njk" %}
       </head>
       <body>
         <div class="wrapper">
