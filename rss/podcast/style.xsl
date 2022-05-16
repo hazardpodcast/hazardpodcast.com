@@ -8,6 +8,13 @@
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
         <meta charset="UTF-8"/>
+        <script defer="true" data-domain="hazardpodcast.com" src="https://plausible.io/js/plausible.js"></script>
+        <style>
+@font-face {
+  font-family: "PhosphatePro-Solid";
+  src: url('https://hazardpodcast.com/assets/fonts/PhosphateProSolid/font.woff2') format('woff2'), url('https://hazardpodcast.com/assets/fonts/PhosphateProSolid/font.woff') format('woff');
+}
+</style>
         <link rel="stylesheet" href="/assets/css/style.css"/>
         <link rel="stylesheet" href="/assets/css/template-feed.css"/>
         <!-- The Author meta propagates the byline in a number of social networks -->
@@ -151,7 +158,7 @@
                     </div>
                 </article>
             </xsl:for-each>
-            <p class="about"><img src="https://hazardpodcast.com/assets/favicon-32x32.png" alt="Minutes to Midnight icon" width="24" height="24" /><a href="https://hazardpodcast.com/about/">About the Hazard Podcast</a>.</p>
+            <p class="about"><img src="https://hazardpodcast.com/assets/favicon-32x32.png" alt="Hazard Podcast icon" width="24" height="24" /><a href="https://hazardpodcast.com/about/">About the Hazard Podcast</a>.</p>
             </main>
         </div>
         <script>
