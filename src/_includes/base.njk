@@ -13,6 +13,8 @@
             <meta charset="utf-8" />
             <meta http-equiv="X-UA-Compatible" content="IE=edge" />
             <title>{{ title }}</title>
+
+            {% include "partials/fonts.njk" %}
             <!-- <link rel="stylesheet" href="{{site.site_url}}/assets/css/style.css?v={{ site.github.build_revision}}" /> -->
             {% sassFile false, "?v=" + site.github.build_revision %}
             {% if templateName %}
