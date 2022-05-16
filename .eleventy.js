@@ -5,7 +5,8 @@ const path = require("path");
 const del = require("del");
 var mdProcessor = require("markdown-it");
 const sitemap = require("@quasibit/eleventy-plugin-sitemap");
-// const UpgradeHelper = require("@11ty/eleventy-upgrade-help");
+const UpgradeHelper = require("@11ty/eleventy-upgrade-help");
+const Image = require("@11ty/eleventy-img");
 
 let Nunjucks = require("nunjucks");
 const normalize = require("normalize-path");
@@ -66,6 +67,54 @@ module.exports = function (eleventyConfig) {
 			output: "docs",
 		},
 	};
+
+	async function imageShortcode(src, alt, sizes, customSize = 250) {
+		let metadata = await Image(src, {
+			widths: [parseInt(customSize), 300, 600, 800],
+			formats: ["png", "jpeg", "svg"],
+			outputDir: path.join(eleventyConfig.dir.output, "img"),
+			filenameFormat: function (id, src, width, format, options) {
+				const extension = path.extname(src);
+				const name = path.basename(src, extension);
+
+				return `${name}-${width}w.${format}`;
+			},
+			whitespaceMode: "inline",
+		});
+
+		let imageAttributes = {
+			alt,
+			sizes,
+			loading: "lazy",
+			decoding: "async",
+		};
+
+		// You bet we throw an error on missing alt in `imageAttributes` (alt="" works okay)
+		return Image.generateHTML(metadata, imageAttributes);
+	}
+
+	async function imageSmallShortcode(src, alt, sizes) {
+		let metadata = await Image(src, {
+			widths: [50, 150],
+			formats: ["png", "jpeg"],
+			outputDir: path.join(eleventyConfig.dir.output, "img"),
+			filenameFormat: function (id, src, width, format, options) {
+				const extension = path.extname(src);
+				const name = path.basename(src, extension);
+				return `${name}-${width}w.${format}`;
+			},
+		});
+
+		let imageAttributes = {
+			alt,
+			sizes,
+			loading: "eager",
+			decoding: "sync",
+		};
+
+		// You bet we throw an error on missing alt in `imageAttributes` (alt="" works okay)
+		return Image.generateHTML(metadata, imageAttributes);
+	}
 
 	// Not in place until v1
 	// eleventyConfig.addGlobalData("domain_name", domain_name);
@@ -132,6 +181,11 @@ module.exports = function (eleventyConfig) {
 		"src/assets": "assets",
 	});
 
+	eleventyConfig.addPlugin(require("./_custom-plugins/create-audio-data"), {
+		domainName: domain_name,
+		podcastFolder: path.join(path.resolve("."), "/src/assets/podcasts"),
+	});
+
 	// Can't use this until ver 1 apparently
 	/**
 	const getDirectories = source =>
@@ -185,6 +239,8 @@ module.exports = function (eleventyConfig) {
 		siteConfiguration.dir.input,
 		normalize(path.normalize(".")),
 	];
+	eleventyConfig.addNunjucksAsyncShortcode("image", imageShortcode);
+	eleventyConfig.addNunjucksAsyncShortcode("smallimage", imageSmallShortcode);
 	const njkEngine = require("nunjucks").configure(nunjucksFileSystem, {
 		autoescape: false,
 		throwOnUndefined: throwOnUndefinedSetting,
@@ -192,7 +248,6 @@ module.exports = function (eleventyConfig) {
 	});
 	console.log("other nunjucksFileSystem", nunjucksFileSystem);
 	eleventyConfig.setLibrary("njk", njkEngine); //: autoescape for CSS rules
-
 	// Get the first `n` elements of a collection.
 	eleventyConfig.addFilter("slice", (array, n) => {
 		if (!Array.isArray(array) || array.length === 0) {

@@ -1,0 +1,127 @@
+@use 'variables'
+/* filter colors generated via https://codepen.io/sosuke/pen/Pjoqqp */
+.amazon
+    filter: invert(62%) sepia(10%) saturate(6105%) hue-rotate(359deg) brightness(104%) contrast(101%)
+body
+    background-color: var(--background)
+    max-width: 75%
+    margin: 0 auto
+    font-family: sans-serif
+    font-size: 16px
+    max-width: 1050px
+    @media (max-width: variables.$large-mobile)
+        max-width: 90%
+@media (max-width: variables.$large-mobile)
+    .wrapper
+        margin-top: 90px
+    #top-nav
+        height: 90px
+        #nav-icon
+            display: none
+        &:hover, &:active
+            overflow: hidden
+    #top-nav ul
+        margin-top: 12px
+        line-height: 32px
+    #top-nav ul li
+        margin-bottom: 8px
+h1
+    font-size: 44px
+    line-height: 16px
+    font-family: "PhosphatePro-Solid", serif
+    font-weight: normal
+    @media (max-width: variables.$large-mobile)
+        line-height: 40px
+        font-size: 40px
+    svg
+        margin-right: 12px
+.aboutfeeds
+    width: 90%
+    margin: 0 auto
+    border: var(--focus-color) 0px solid
+    border-radius: 30px
+    background-color: var(--background-highlight)
+    padding: 18px
+    display: block
+    position: relative
+    .big
+        font-size: larger
+    ul
+        display: flex
+        flex-wrap: wrap
+        padding: 4px
+        margin-bottom: 10px
+        justify-content: center
+        li
+            height: 35px
+            width: 160px
+            font-color: white
+            margin: 10px 18px
+            border-radius: 5px
+            padding: 8px
+            background-color: black
+            display: inline-block
+            float: left
+            list-style: none
+            position: relative
+            font-family: Verdana
+            font-size: 14px
+            a
+                display: inline-block
+                width: 100%
+                height: 100%
+            span, svg
+                float: left
+                display: inline-block
+            span
+                margin-top: 8px
+                margin-left: 10px
+            svg
+                height: 35px
+                display: inline-block
+            a, a:visited
+                color: white
+    button
+        border-style: groove
+        border-radius: 5px
+        padding: 4px 8px
+        display: inline-block
+        img
+            display: inline-block
+            float: left
+        .button-inner
+            margin-top: -2px
+            margin-left: 4px
+            display: inline-block
+            float: left
+.head
+    display: flex
+    align-items: end
+    @media (max-width: variables.$large-mobile)
+        align-items: center
+    .avatar
+        height: 192px
+        width: 192px
+        border-radius: 50%
+        overflow: hidden
+        display: inline-block
+    .description
+        display: inline-block
+        font-family: Arial, Helvetica, sans-serif
+        font-size: 20px
+        padding: 5px 0px 5px 20px
+        width: calc(100% - 192px - 20px)
+h2
+    font-size: 36px
+article
+    padding: 20px
+    border-bottom: 2px solid #f5f5f5
+    &:first-of-type
+        padding-top: 0
+.about
+    margin-top: 14px
+    display: block
+    overflow: hidden
+    text-align: center
+    img
+        margin-right: 10px

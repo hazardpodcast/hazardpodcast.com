@@ -1,0 +1,87 @@
+@use 'variables'
+
+#top-nav
+    height: 56px
+    position: fixed
+    top: 0
+    left: 0
+    padding: 0px 10px
+    width: 100%
+    text-align: center
+    justify-content: center
+    overflow: hidden
+    background-color: var(--background)
+    border-bottom: 2px solid black
+    z-index: 1000
+    @media (max-width: variables.$large-mobile)
+        padding: 0
+    a, a:visited
+        text-decoration: underline
+        text-decoration-color: var(--focus-color)
+        -webkit-text-decoration-color: var(--focus-color)
+        color: black
+    a:hover
+        color: var(--focus-color)
+    &:hover, &.open, &:active
+        @media (max-width: variables.$large-mobile)
+            overflow: visible
+            #top-nav-inner
+                background-color: var(--background)
+                height: auto
+    #top-nav-inner
+        display: block
+        margin: 2px 8px
+        height: 50px
+        clear: both
+    #nav-logo
+        width: 50px
+        height: 50px
+        margin-top: -6px
+        display: inline-block
+        position: relative
+        -webkit-transform: scaleX(-1)
+        transform: scaleX(-1)
+        picture, img
+            width: 50px
+            height: 50px
+    #nav-icon
+        display: none
+        width: 50px
+        height: 50px
+        margin-top: -6px
+        position: relative
+        overflow: hidden
+        cursor: pointer
+        @media (max-width: variables.$large-mobile)
+            display: inline-block
+        picture, img
+            width: 25px
+            height: 25px
+            margin: 20px 10px 0px
+    #nav-menu-items
+        display: inline-block
+        position: relative
+        border: 1px solid transparent
+        clear: both
+    ul
+        display: inline-block
+        position: relative
+        padding: 0
+        margin-left: 10px
+        margin-bottom: 4px
+        font-family: "PhosphatePro-Solid", serif
+        font-size: 24px
+        line-height: 24px
+        overflow: hidden
+        @media (max-width: variables.$large-mobile)
+            line-height: 36px
+        li
+            display: inline-block
+            list-style: none
+            margin: 0
+            &::after
+                content: " / "
+                margin: 0 8px
+            &:last-of-type::after
+                content: " "
+                margin: 0 8px

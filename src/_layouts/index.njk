@@ -3,5 +3,18 @@
 {% set templateName = "index" %}
 
 {% block header %}
+    {% include "partials/season-banner.njk" %}
+{% endblock %}
+{% block postcontent %}
+    <div class="front-post">
+        <hr/>
+        {% set postslist = collections.episode | slice(-1) %}
 
+        <h3>Latest Episode: <a href="{{ postslist[0].url }}">{{ postslist[0].data.title }}</a>
+        </h3>
+        <p>{{ postslist[0].data.description | safe }}</p>
+        <p>
+            <a href="{{ postslist[0].url }}">Read the rest...</a>
+        </p>
+    </div>
 {% endblock %}

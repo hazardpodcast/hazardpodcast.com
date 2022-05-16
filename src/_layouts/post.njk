@@ -1,11 +1,28 @@
 {% extends "default.njk" %}
 
-{% set templateName = "index" %}
+{% set templateName = "post" %}
+
+{% block socialhead %}
+            {% if isBasedOn %}
+            <link rel="canonical" href="{{ isBasedOn }}" />
+            <meta http-equiv="Link" rel="canonical" content="{{ isBasedOn }}" />
+            {% else %}
+            <link rel="canonical" href="{{ site.site_url }}{{ page.url }}" />
+            {% endif %}
+{% endblock %}
 
 {% block header %}
-    <h1 class="header">
-        {{title}}
-    </h1>
+    <div class="title-plate">
+        <div class="title-photo">
+            {% image "./src/img/"+featuredImage, featuredImageAlt, "260px", 260 %}
+        </div>
+        <div class="title-text">
+            <h1 class="header">
+                {{title}}
+            </h1>
+            <p class="description">{{description}}</p>
+        </div>
+    </div>
     <div id="header__social-icons">
     </div>
 {% endblock %}
