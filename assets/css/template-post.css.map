@@ -1,0 +1,13 @@
+{
+	"version": 3,
+	"sourceRoot": "https://hazardpodcast.com",
+	"sources": [
+		"sass/file:///home/runner/work/hazardpodcast.com/hazardpodcast.com/src/_sass/template-post.sass"
+	],
+	"names": [],
+	"mappings": "AAEA,KACI,mCACA,cACA,cACA,uBACA,eACA,iBACA,yBAPJ,KAQQ,eACJ,YACI,UACA,iBACA,cACA,uBACI,aACZ,OACI,cACA,kBACA,oBACI,aACA,eACA,iCACI,YACA,qBACA,cACA,kBACA,yBALJ,iCAMQ,eACJ,qCACI,WACA,YACR,gCACI,yBACA,yBAFJ,gCAGQ,YACJ,mCACI,oBACA,mBACA,8BACA,mBACA,qBACJ,6CACI,eACA,iBACA",
+	"file": "template-post.css",
+	"sourcesContent": [
+		"@use 'variables'\n\nbody\n    background-color: var(--background)\n    max-width: 75%\n    margin: 0 auto\n    font-family: sans-serif\n    font-size: 18px\n    max-width: 1050px\n    @media (max-width: variables.$large-mobile)\n        max-width: 90%\n    iframe\n        width: 90%\n        margin: 10px auto\n        display: block\n        &.iframe-doc\n            height: 800px\nheader\n    display: block\n    text-align: center\n    .title-plate\n        display: flex\n        flex-wrap: wrap\n        .title-photo\n            width: 260px\n            display: inline-block\n            flex-shrink: 0\n            margin-right: 20px\n            @media (max-width: variables.$large-mobile)\n                margin: 0 auto\n            img\n                width: 100%\n                height: auto\n        .title-text\n            width: calc(100% - 300px)\n            @media (max-width: variables.$large-mobile)\n                width: 100%\n            h1\n                font-size: xxx-large\n                font-weight: normal\n                font-family: var(--title-font)\n                margin: 40px 0 20px\n                display: inline-block\n            .description\n                font-size: 20px\n                font-weight: bold\n                display: inline-block\n"
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"version": 3,
+	"sourceRoot": "https://hazardpodcast.com",
+	"sources": [
+		"sass/file:///home/runner/work/hazardpodcast.com/hazardpodcast.com/src/_sass/template-base-page.sass"
+	],
+	"names": [],
+	"mappings": "AAEA,KACI,iBACA,iBACA,kBACJ,GACI,eACA,iBACA,qBACA,uCACA,mBACA,kBACA,YAEA,yBADJ,SAEQ,cACA,iBACA",
+	"file": "template-base-page.css",
+	"sourcesContent": [
+		"@use 'variables'\n\nbody\n    max-width: 1000px\n    margin-left: auto\n    margin-right: auto\nh1\n    font-size: 35px\n    line-height: 35px\n    margin: 10px 0 10px 0\n    font-family: \"PhosphatePro-Solid\", serif\n    font-weight: normal\n    position: relative\n    z-index: 100\n.wrapper\n    @media (max-width: variables.$large-mobile)\n        max-width: 90%\n        margin-left: auto\n        margin-right: auto\n"
+	]
+}

@@ -1,0 +1,28 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 4850911, 2022-05-14T19:05:40-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: PhosphatePro-Solid by Red Rooster Collection
+ * URL: https://www.myfonts.com/fonts/redrooster/phosphate-pro/solid/
+ * Copyright: Copyright (c) 2010 by International TypeFounders, Inc. All rights reserved.
+ * 
+ * 
+ * 
+ * © 2022 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/4a04df");
+  
+@font-face {
+  font-family: "PhosphatePro-Solid";
+  src: url('webFonts/PhosphateProSolid/font.woff2') format('woff2'), url('webFonts/PhosphateProSolid/font.woff') format('woff');
+}
+
