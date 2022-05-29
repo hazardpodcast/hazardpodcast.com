@@ -1,12 +1,13 @@
 ---
-title: "Learn More about Superfund Sites"
-layout: index
+layout: tags
+templateName: tag
 eleventyExcludeFromCollections: true
-internalPageTypes: [ 'home' ]
+pagination:
+    data: collections.seasonOnePages
+    size: 1
+    alias: paged
+permalink: "seasons/season-one/{% if paged.number > 1 %}{{ paged.number }}/{% endif %}index.html"
+eleventyComputed:
+    title: "All Episodes from Season One{% if paged.number > 1 %} | Page {{paged.number}}{% endif %}"
+    description: "All episodes from Season One of Hazard"
 ---
-
-![Hazard Podcast Logo](../img/HazardCover.jpg)
-
-# Hazard Podcast
-
-## Coming Soon!

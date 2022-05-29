@@ -1,0 +1,30 @@
+@use 'variables'
+
+body
+    background-color: var(--background)
+    max-width: 75%
+    margin: 0 auto
+    font-family: sans-serif
+    font-size: 18px
+    max-width: 1050px
+    @media (max-width: variables.$large-mobile)
+        max-width: 90%
+a, a:visited
+    text-decoration: underline
+    text-decoration-color: var(--focus-color)
+    -webkit-text-decoration-color: var(--focus-color)
+a:visited
+    color: var(--dark-visited-link-color)
+#post-summary-list > ul
+    padding: 0
+#post-summary-list > ul > li
+    list-style-type: none
+    display: block
+    border-bottom: 3px solid black
+    .post-summary__image
+        width: 100%
+        background: linear-gradient(0.25turn, var(--background), var(--background-highlight), var(--background))
+        img
+            display: block
+            width: 80%
+            margin: 0 auto

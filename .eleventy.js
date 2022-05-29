@@ -345,6 +345,20 @@ module.exports = function (eleventyConfig) {
 		return getPostClusters(collection.getFilteredByTag("posts"), "Posts");
 	});
 
+	eleventyConfig.addCollection("episodesPages", (collection) => {
+		return getPostClusters(
+			collection.getFilteredByTag("episode"),
+			"Episodes"
+		);
+	});
+
+	eleventyConfig.addCollection("seasonOnePages", (collection) => {
+		return getPostClusters(
+			collection.getFilteredByTag("Season One"),
+			"Episodes from Season One"
+		);
+	});
+
 	// Create an array of all tags
 	eleventyConfig.addCollection("tagList", (collection) => {
 		return getAllTags(collection.getAll());

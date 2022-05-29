@@ -1,0 +1,19 @@
+{% extends "base.njk" %}
+
+{% block maincontent %}
+    <div id="post-summary-list">
+        <ul>
+            {%- for post in paged.posts %}
+                <li>
+                    {% include "partials/post-summary.njk" %}
+                </li>
+            {% endfor %}
+        </ul>
+    </div>
+{% endblock %}
+
+{% block postcontent %}
+    <div class="pagination-block">
+        {% include "partials/pagination.njk" %}
+    </div>
+{% endblock %}

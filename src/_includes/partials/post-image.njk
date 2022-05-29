@@ -1,0 +1,11 @@
+{% if featuredImageAlt %}
+    <figure class="figure preview-image">
+        <img src="{{site.site_url}}/img/{{featuredImage}}" alt="{{featuredImageAlt}}">
+        {% if featuredImageCaption or featuredImageCredit %}
+            <figcaption class="figcaption">
+                {% if featuredImageCaption %}{{featuredImageCaption}}
+                {% endif %}
+            </figcaption>
+        {% endif %}
+    </figure>
+{% endif %}

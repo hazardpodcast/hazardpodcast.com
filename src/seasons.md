@@ -1,12 +1,8 @@
 ---
-title: "Learn More about Superfund Sites"
-layout: index
+title: "All of the seasons of Hazard"
+layout: base-page
 eleventyExcludeFromCollections: true
 internalPageTypes: [ 'home' ]
 ---
 
-![Hazard Podcast Logo](../img/HazardCover.jpg)
-
-# Hazard Podcast
-
-## Coming Soon!
+### [Season One: New Jersey](https://www.njspotlightnews.org/podcast/)

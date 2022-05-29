@@ -15,6 +15,7 @@ featuredImageAlt: "Hazard Podcast Logo"
 episodeFile: Hazard-Episode-One_American-Cyanamid.mp3
 isBasedOn: https://www.njspotlightnews.org/podcast/hazard-nj-podcast-episode-1-on-thin-ice/
 isBasedOnAudio: https://mcdn.podbean.com/mf/download/m8jfsh/Hazard-Episode-One_American-Cyanamid_MB_05172022.mp3
+audioEmbed: '<iframe title="Episode 1:  On Thin Ice" style="border: none;" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=6auwc-122b5d1-pb&from=pb6admin&pbad=0&square=1&share=1&download=1&rtl=0&fonts=Arial&skin=f6f6f6&font-color=auto&logo_link=episode_page&btn-skin=7&size=300" allowfullscreen="" width="100%" height="400"></iframe>'
 ---
 
 <iframe title="Episode 1:  On Thin Ice" style="border: none;" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=6auwc-122b5d1-pb&from=pb6admin&pbad=0&square=1&share=1&download=1&rtl=0&fonts=Arial&skin=f6f6f6&font-color=auto&logo_link=episode_page&btn-skin=7&size=300" allowfullscreen="" width="100%" height="400"></iframe>

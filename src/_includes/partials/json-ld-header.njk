@@ -19,5 +19,8 @@
         "inLanguage": "en-US",
         "additionalType": "CreativeWork",
         "alternateName": "{{site.site_name}}",
+        {% if isBasedOn %}
+        "isBasedOn": "{{isBasedOn}}",
+        {% endif %}
     }
 </script>
