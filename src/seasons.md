@@ -5,4 +5,4 @@ eleventyExcludeFromCollections: true
 internalPageTypes: [ 'home' ]
 ---
 
-### [Season One: New Jersey](https://www.njspotlightnews.org/podcast/)
+### [Season One: New Jersey](/seasons/season-one)
