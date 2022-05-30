@@ -17,3 +17,4 @@ isBasedOn: https://www.thirteen.org/programs/nj-spotlight-news/jordan-gass-poore
 
 The NJ Spotlight News multi-platform series called "Hazard NJ" digs deep into some of New Jersey’s Superfund sites and the ways in which climate change threatens them. Jordan Gass-Poore', who hosts the project's podcasts, explains the genesis of the series and what is hoped it will underline about climate change's critical threats to toxic sites in New Jersey.
 
+This article [is reproduced for archival purposes from Thirteen](https://www.thirteen.org/programs/nj-spotlight-news/jordan-gass-poore-intv-1653056621/).
