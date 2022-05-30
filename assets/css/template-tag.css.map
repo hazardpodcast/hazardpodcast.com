@@ -1,0 +1,13 @@
+{
+	"version": 3,
+	"sourceRoot": "https://hazardpodcast.com",
+	"sources": [
+		"sass/file:///home/runner/work/hazardpodcast.com/hazardpodcast.com/src/_sass/template-tag.sass"
+	],
+	"names": [],
+	"mappings": "AAEA,KACI,mCACA,cACA,cACA,uBACA,eACA,iBACA,yBAPJ,KAQQ,eACR,YACI,0BACA,yCACA,iDACJ,UACI,qCACJ,sBACI,UACJ,yBACI,qBACA,cACA,6BACA,8CACI,WACA,wGACA,kDACI,cACA,UACA",
+	"file": "template-tag.css",
+	"sourcesContent": [
+		"@use 'variables'\n\nbody\n    background-color: var(--background)\n    max-width: 75%\n    margin: 0 auto\n    font-family: sans-serif\n    font-size: 18px\n    max-width: 1050px\n    @media (max-width: variables.$large-mobile)\n        max-width: 90%\na, a:visited\n    text-decoration: underline\n    text-decoration-color: var(--focus-color)\n    -webkit-text-decoration-color: var(--focus-color)\na:visited\n    color: var(--dark-visited-link-color)\n#post-summary-list > ul\n    padding: 0\n#post-summary-list > ul > li\n    list-style-type: none\n    display: block\n    border-bottom: 3px solid black\n    .post-summary__image\n        width: 100%\n        background: linear-gradient(0.25turn, var(--background), var(--background-highlight), var(--background))\n        img\n            display: block\n            width: 80%\n            margin: 0 auto\n"
+	]
+}
