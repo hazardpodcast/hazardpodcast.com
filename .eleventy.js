@@ -171,6 +171,7 @@ module.exports = function (eleventyConfig) {
 	// Copy the `img` folders to the output
 	eleventyConfig.addPassthroughCopy("src/img");
 	eleventyConfig.addPassthroughCopy("./CNAME");
+	eleventyConfig.addPassthroughCopy("./.gitattributes");
 	eleventyConfig.addPassthroughCopy({ "src/favicon.ico": "favicon.ico" });
 	// eleventyConfig.addPassthroughCopy("src/.gitignore");
 	eleventyConfig.addPassthroughCopy({ "src/_well-known": ".well-known" });
