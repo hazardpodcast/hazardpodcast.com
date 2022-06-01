@@ -1,5 +1,5 @@
 ---
-title: "Hazard Podcast - On Thin Ice"
+title: "Hazard Podcast - On Thin Ice - Season 1: Episode 1"
 description: "At the toxic American Cyanamid Superfund site in Bridgewater, floodwaters are a constant concern."
 author: "Jordan Gass-Poore'"
 date: 2022-05-18 10:59:43.10 -4
