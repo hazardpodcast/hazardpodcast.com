@@ -29,8 +29,6 @@ audioEmbed: '<iframe title="Episode 4: A Comeback on the Hackensack" style="bord
 
 <iframe title="Episode 4: A Comeback on the Hackensack" style="border: none;" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=jpcgd-126937a-pb&from=pb6admin&pbad=0&square=1&share=1&download=1&rtl=0&fonts=Arial&skin=f6f6f6&font-color=auto&logo_link=episode_page&btn-skin=7&size=300" allowfullscreen="" width="100%" height="400"></iframe>
 
-## Climate change means that cleanup of the river becomes more critical than ever
-
 The mud lining the Hackensack River is a mysterious mixture known to contain mercury, cadmium, lead, PCBs and plenty more nasty substances. Now the river is on its way to becoming New Jersey’s 115th Superfund site — and that’s not a bad thing.
 
 Superstorm Sandy slammed up the Hackensack and surrounding Meadowlands, flooding towns and wreaking widespread damage. But the area’s wetlands likely blunted the blow, and with climate change intensifying storms, cleanup efforts and restoration work in the area are becoming more critical.
