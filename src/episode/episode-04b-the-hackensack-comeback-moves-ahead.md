@@ -14,7 +14,7 @@ tags:
   - Pollution
   - Season One
   - Bonus Episode
-featuredImage: "HazardCover.jpg"
+featuredImage: "HazardAlbumCover.jpg"
 featuredImageCredit: "Logo"
 featuredImageLink: "https://hazardpodcast.com"
 featuredImageAlt: "Hazard Podcast Logo"

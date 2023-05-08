@@ -12,7 +12,7 @@ tags:
   - Dioxin
   - Cory Booker
   - Newark
-featuredImage: "HazardCover.jpg"
+featuredImage: "HazardAlbumCover.jpg"
 featuredImageCredit: "Logo"
 featuredImageLink: "https://hazardpodcast.com"
 featuredImageAlt: "Hazard Podcast Logo"

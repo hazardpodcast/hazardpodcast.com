@@ -11,7 +11,7 @@ tags:
   - Season One
   - Bonus Episode
   - Episode Swap
-featuredImage: "HazardCover.jpg"
+featuredImage: "HazardAlbumCover.jpg"
 featuredImageCredit: "Logo"
 featuredImageLink: "https://hazardpodcast.com"
 featuredImageAlt: "Hazard Podcast Logo"

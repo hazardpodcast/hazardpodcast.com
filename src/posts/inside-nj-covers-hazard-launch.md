@@ -7,7 +7,7 @@ tags:
   - New Jersey
   - Climate Change
   - Interview
-featuredImage: "HazardCover.jpg"
+featuredImage: "20220415_HazardNJ_AlbumArt_1920x1080.jpg"
 featuredImageCredit: "Logo"
 featuredImageLink: "https://hazardpodcast.com"
 featuredImageAlt: "Hazard Podcast Logo"

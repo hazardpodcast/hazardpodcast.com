@@ -6,7 +6,7 @@ date: 2022-05-13 22:59:43.10 -4
 tags:
   - Trailer
   - Season One
-featuredImage: "HazardCover.jpg"
+featuredImage: "HazardAlbumCover.jpg"
 featuredImageCredit: "Logo"
 featuredImageLink: "https://hazardpodcast.com"
 featuredImageAlt: "Hazard Podcast Logo"

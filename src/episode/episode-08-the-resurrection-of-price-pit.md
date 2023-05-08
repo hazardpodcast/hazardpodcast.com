@@ -15,7 +15,7 @@ tags:
   - Toxic Chemicals
   - EPA
   - Governor Phil Murphy
-featuredImage: "HazardCover.jpg"
+featuredImage: "HazardAlbumCover.jpg"
 featuredImageCredit: "Logo"
 featuredImageLink: "https://hazardpodcast.com"
 featuredImageAlt: "Hazard Podcast Logo"

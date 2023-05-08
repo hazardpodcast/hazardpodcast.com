@@ -17,7 +17,7 @@ tags:
   - PCBs
   - polycyclic aromatic hydrocarbon carcinogens
   - contaminated water
-featuredImage: "HazardCover.jpg"
+featuredImage: "HazardAlbumCover.jpg"
 featuredImageCredit: "Logo"
 featuredImageLink: "https://hazardpodcast.com"
 featuredImageAlt: "Hazard Podcast Logo"

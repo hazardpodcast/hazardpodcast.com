@@ -13,7 +13,7 @@ tags:
   - Pinelands
   - Wildfire
   - Toxic Dumping
-featuredImage: "HazardCover.jpg"
+featuredImage: "HazardAlbumCover.jpg"
 featuredImageCredit: "Logo"
 featuredImageLink: "https://hazardpodcast.com"
 featuredImageAlt: "Hazard Podcast Logo"
