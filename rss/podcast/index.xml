@@ -15,7 +15,7 @@
     <language>en</language>
     <copyright><![CDATA[]]></copyright>
 	<description>Hazard is a new podcast that digs through the muck of different supperfund sites accross the US to give a clearer picture of what the threat is and what it will take to clean it up before it's too late. Hosted by journalist Jordan Gass-Poore'</description>
-	<lastBuildDate>Sun, 07 May 2023 23:45:21 GMT</lastBuildDate>
+	<lastBuildDate>Mon, 08 May 2023 00:17:23 GMT</lastBuildDate>
 	<generator>https://11ty.dev/</generator>
 	<managingEditor>
 		webmaster@hazardpodcast.com (Jordan Gass-Poore)
@@ -46,7 +46,7 @@
 		<pubDate>Fri, 21 Apr 2023 14:59:43 GMT</pubDate>
 		<dc:creator>Jordan Gass-Poore</dc:creator>
 		<guid isPermaLink="true">https://hazardpodcast.com/episode/episode-08b-rewind-happy-earth-day-from-hazard/</guid>
-        <itunes:image href="https://hazardpodcast.com/img/HazardCover.jpg" />
+        <itunes:image href="https://hazardpodcast.com/img/HazardAlbumCover.jpg" />
 		<description>Happy Earth Day from Hazard NJ and NJ Spotlight News! Get ready for season 2.</description>
         <itunes:subtitle><![CDATA[Happy Earth Day from Hazard NJ and NJ Spotlight News! Get ready for season 2.]]></itunes:subtitle>
 		<content:encoded><![CDATA[<iframe title="REWIND: Happy Earth Day from Hazard NJ" allowtransparency="true" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?from=embed&pbad=0&i=jechd-13eb51b-pb&square=1&share=1&download=1&fonts=Arial&skin=f6f6f6&font-color=&rtl=0&logo_link=&btn-skin=7&size=300" allowfullscreen="" width="100%" height="300"></iframe>
@@ -65,7 +65,7 @@
 		<pubDate>Fri, 10 Mar 2023 14:59:43 GMT</pubDate>
 		<dc:creator>Jordan Gass-Poore</dc:creator>
 		<guid isPermaLink="true">https://hazardpodcast.com/episode/episode-08a-bonus-small-steps-big-money-for-passaic/</guid>
-        <itunes:image href="https://hazardpodcast.com/img/HazardCover.jpg" />
+        <itunes:image href="https://hazardpodcast.com/img/HazardAlbumCover.jpg" />
 		<description>One of the main companies on the hook for the work is pushing hard against a deal the EPA has made with other polluters.</description>
         <itunes:subtitle><![CDATA[One of the main companies on the hook for the work is pushing hard against a deal the EPA has made with other polluters.]]></itunes:subtitle>
 		<content:encoded><![CDATA[<iframe title="BONUS EPISODE: Small Steps, Big Money for the Passaic" allowtransparency="true" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?from=embed&pbad=0&i=c62nq-13b2901-pb&square=1&share=1&download=1&fonts=Arial&skin=f6f6f6&font-color=&rtl=0&logo_link=&btn-skin=7&size=300" allowfullscreen="" width="100%" height="300"></iframe>
@@ -84,7 +84,7 @@
 		<pubDate>Fri, 27 Jan 2023 17:50:43 GMT</pubDate>
 		<dc:creator>Jordan Gass-Poore</dc:creator>
 		<guid isPermaLink="true">https://hazardpodcast.com/episode/episode-08-the-resurrection-of-price-pit/</guid>
-        <itunes:image href="https://hazardpodcast.com/img/HazardCover.jpg" />
+        <itunes:image href="https://hazardpodcast.com/img/HazardAlbumCover.jpg" />
 		<description>A once-notorious Superfund site could become a key part of New Jersey’s clean-energy future.</description>
         <itunes:subtitle><![CDATA[A once-notorious Superfund site could become a key part of New Jersey’s clean-energy future.]]></itunes:subtitle>
 		<content:encoded><![CDATA[<iframe title="Episode 8: The Resurrection of Price’s Pit" style="border: none;" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=xe6x4-1374072-pb&from=pb6admin&pbad=0&square=1&share=1&download=1&rtl=0&fonts=Arial&skin=f6f6f6&font-color=&logo_link=episode_page&btn-skin=7&size=300" allowfullscreen="" width="100%" height="400"></iframe>
@@ -237,7 +237,7 @@
 		<pubDate>Fri, 16 Dec 2022 14:59:43 GMT</pubDate>
 		<dc:creator>Jordan Gass-Poore</dc:creator>
 		<guid isPermaLink="true">https://hazardpodcast.com/episode/episode-07b-polluters-pay-up-on-the-passaic/</guid>
-        <itunes:image href="https://hazardpodcast.com/img/HazardCover.jpg" />
+        <itunes:image href="https://hazardpodcast.com/img/HazardAlbumCover.jpg" />
 		<description>Last fall, the chemical tax was brought back as part of the massive federal infrastructure bill.</description>
         <itunes:subtitle><![CDATA[Last fall, the chemical tax was brought back as part of the massive federal infrastructure bill.]]></itunes:subtitle>
 		<content:encoded><![CDATA[<iframe title="BONUS Episode: Polluters Pay Up on the Passaic" allowtransparency="true" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?from=embed&pbad=0&i=4zzp3-133e0c4-pb&square=1&share=1&download=1&fonts=Arial&skin=f6f6f6&font-color=&rtl=0&logo_link=&btn-skin=7&size=300" allowfullscreen="" width="100%" height="300"></iframe>
@@ -256,7 +256,7 @@
 		<pubDate>Thu, 08 Dec 2022 14:59:43 GMT</pubDate>
 		<dc:creator>Jordan Gass-Poore</dc:creator>
 		<guid isPermaLink="true">https://hazardpodcast.com/episode/episode-07a-damages-wild-rice-goes-to-court/</guid>
-        <itunes:image href="https://hazardpodcast.com/img/HazardCover.jpg" />
+        <itunes:image href="https://hazardpodcast.com/img/HazardAlbumCover.jpg" />
 		<description>Damages host Amy Westervelt takes listeners to Minnesota, where the rights of threatened wild rice are considered in the face of efforts to build the Line 3 pipeline.</description>
         <itunes:subtitle><![CDATA[Damages host Amy Westervelt takes listeners to Minnesota, where the rights of threatened wild rice are considered in the face of efforts to build the Line 3 pipeline.]]></itunes:subtitle>
 		<content:encoded><![CDATA[<iframe title="Damages: Wild Rice Goes to Court" allowtransparency="true" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?from=embed&pbad=0&i=tdjb4-13328bc-pb&square=1&share=1&download=1&fonts=Arial&skin=f6f6f6&font-color=&rtl=0&logo_link=&btn-skin=7&size=300" allowfullscreen="" width="100%" height="300"></iframe>
@@ -274,7 +274,7 @@
 		<pubDate>Fri, 02 Dec 2022 17:50:43 GMT</pubDate>
 		<dc:creator>Jordan Gass-Poore</dc:creator>
 		<guid isPermaLink="true">https://hazardpodcast.com/episode/episode-07-a-headache-on-the-hudson-edgewater-mothballs-superfund/</guid>
-        <itunes:image href="https://hazardpodcast.com/img/HazardCover.jpg" />
+        <itunes:image href="https://hazardpodcast.com/img/HazardAlbumCover.jpg" />
 		<description>The cleanup of Edgewater drags on and the climate change threat from flooding grows.</description>
         <itunes:subtitle><![CDATA[The cleanup of Edgewater drags on and the climate change threat from flooding grows.]]></itunes:subtitle>
 		<content:encoded><![CDATA[<iframe title="Episode 7:  A Headache on the Hudson" style="border: none;" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=e4df6-132af49-pb&from=pb6admin&pbad=0&square=1&share=1&download=1&rtl=0&fonts=Arial&skin=f6f6f6&font-color=auto&logo_link=episode_page&btn-skin=7&size=300" allowfullscreen="" width="100%" height="400"></iframe>
@@ -408,7 +408,7 @@
 		<pubDate>Wed, 23 Nov 2022 14:59:43 GMT</pubDate>
 		<dc:creator>Jordan Gass-Poore</dc:creator>
 		<guid isPermaLink="true">https://hazardpodcast.com/episode/episode-06a-drilled-industry-fights-back/</guid>
-        <itunes:image href="https://hazardpodcast.com/img/HazardCover.jpg" />
+        <itunes:image href="https://hazardpodcast.com/img/HazardAlbumCover.jpg" />
 		<description>Drilled host Amy Westervelt takes a look at how the oil and gas industry has pushed to portray environmentalists as idealists detached from reality, in an effort to undercut campaigns against fossil fuels.</description>
         <itunes:subtitle><![CDATA[Drilled host Amy Westervelt takes a look at how the oil and gas industry has pushed to portray environmentalists as idealists detached from reality, in an effort to undercut campaigns against fossil fuels.]]></itunes:subtitle>
 		<content:encoded><![CDATA[<iframe title="Drilled: Industry Fights Back" allowtransparency="true" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?from=embed&pbad=0&i=7zei9-131f1a1-pb&square=1&share=1&download=1&fonts=Arial&skin=f6f6f6&font-color=&rtl=0&logo_link=&btn-skin=7&size=300" allowfullscreen="" width="100%" height="300"></iframe>
@@ -426,7 +426,7 @@
 		<pubDate>Fri, 11 Nov 2022 04:01:43 GMT</pubDate>
 		<dc:creator>Jordan Gass-Poore</dc:creator>
 		<guid isPermaLink="true">https://hazardpodcast.com/episode/episode-06-toxic-sites-in-a-tinderbox-south-jersey-pinelands-wildfire-toxic-dumping/</guid>
-        <itunes:image href="https://hazardpodcast.com/img/HazardCover.jpg" />
+        <itunes:image href="https://hazardpodcast.com/img/HazardAlbumCover.jpg" />
 		<description>Climate change is making the wildfire season in the Pinelands more unpredictable.</description>
         <itunes:subtitle><![CDATA[Climate change is making the wildfire season in the Pinelands more unpredictable.]]></itunes:subtitle>
 		<content:encoded><![CDATA[<iframe title="Episode 6: Toxic Sites in a Tinderbox" style="border: none;" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=fd88g-130f3ac-pb&from=pb6admin&pbad=0&square=1&share=1&download=1&rtl=0&fonts=Arial&skin=f6f6f6&font-color=auto&logo_link=episode_page&btn-skin=7&size=300" allowfullscreen="" width="100%" height="400"></iframe>
@@ -703,7 +703,7 @@
 		<pubDate>Wed, 19 Oct 2022 14:59:43 GMT</pubDate>
 		<dc:creator>Jordan Gass-Poore</dc:creator>
 		<guid isPermaLink="true">https://hazardpodcast.com/episode/episode-05a-the-sweaty-penguin-breaking-down-the-inflation-reduction/</guid>
-        <itunes:image href="https://hazardpodcast.com/img/HazardCover.jpg" />
+        <itunes:image href="https://hazardpodcast.com/img/HazardAlbumCover.jpg" />
 		<description>The Inflation Reduction Act narrowly passed the Senate. What is it, and how does it connect climate change with inflation?</description>
         <itunes:subtitle><![CDATA[The Inflation Reduction Act narrowly passed the Senate. What is it, and how does it connect climate change with inflation?]]></itunes:subtitle>
 		<content:encoded><![CDATA[<iframe title="The Sweaty Penguin: Breaking down the Inflation Reduction Act" allowtransparency="true" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?from=embed&pbad=0&i=ki3mb-12f11f3-pb&square=1&share=1&download=1&fonts=Arial&skin=f6f6f6&font-color=&rtl=0&logo_link=&btn-skin=7&size=300" allowfullscreen="" width="100%" height="300"></iframe>
@@ -722,7 +722,7 @@
 		<pubDate>Fri, 07 Oct 2022 01:54:43 GMT</pubDate>
 		<dc:creator>Jordan Gass-Poore</dc:creator>
 		<guid isPermaLink="true">https://hazardpodcast.com/episode/episode-05-orange-fog-and-creeping-saltwater/</guid>
-        <itunes:image href="https://hazardpodcast.com/img/HazardCover.jpg" />
+        <itunes:image href="https://hazardpodcast.com/img/HazardAlbumCover.jpg" />
 		<description>Cleanup is imminent at a site in South Jersey where for years battery acid was haphazardly drained onto the ground.</description>
         <itunes:subtitle><![CDATA[Cleanup is imminent at a site in South Jersey where for years battery acid was haphazardly drained onto the ground.]]></itunes:subtitle>
 		<content:encoded><![CDATA[<iframe title="Episode 5: Orange Fog and Creeping Saltwater" style="border: none;" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=bk5bz-12de82a-pb&from=pb6admin&pbad=0&square=1&share=1&download=1&rtl=0&fonts=Arial&skin=f6f6f6&font-color=auto&logo_link=episode_page&btn-skin=7&size=300" allowfullscreen="" width="100%" height="400"></iframe>
@@ -878,7 +878,7 @@
 		<pubDate>Fri, 30 Sep 2022 14:59:43 GMT</pubDate>
 		<dc:creator>Jordan Gass-Poore</dc:creator>
 		<guid isPermaLink="true">https://hazardpodcast.com/episode/episode-04d-remembering-jim-florio/</guid>
-        <itunes:image href="https://hazardpodcast.com/img/HazardCover.jpg" />
+        <itunes:image href="https://hazardpodcast.com/img/HazardAlbumCover.jpg" />
 		<description>We revisit an interview recorded with the former governor earlier this year</description>
         <itunes:subtitle><![CDATA[We revisit an interview recorded with the former governor earlier this year]]></itunes:subtitle>
 		<content:encoded><![CDATA[<iframe title="BONUS Episode: Remembering Jim Florio" style="border: none;" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=6d5t7-12d7db4-pb&from=pb6admin&pbad=0&square=1&share=1&download=1&rtl=0&fonts=Arial&skin=f6f6f6&font-color=auto&logo_link=episode_page&btn-skin=7&size=300" allowfullscreen="" width="100%" height="400"></iframe>
@@ -898,7 +898,7 @@
 		<pubDate>Wed, 21 Sep 2022 14:59:43 GMT</pubDate>
 		<dc:creator>Jordan Gass-Poore</dc:creator>
 		<guid isPermaLink="true">https://hazardpodcast.com/episode/episode-04c-rewind-the-best-of/</guid>
-        <itunes:image href="https://hazardpodcast.com/img/HazardCover.jpg" />
+        <itunes:image href="https://hazardpodcast.com/img/HazardAlbumCover.jpg" />
 		<description>Get ready for the new shows with a look back at some highlights from our first four episodes.</description>
         <itunes:subtitle><![CDATA[Get ready for the new shows with a look back at some highlights from our first four episodes.]]></itunes:subtitle>
 		<content:encoded><![CDATA[<iframe title="REWIND: Highlighting the Best of Hazard NJ (So Far)" allowtransparency="true" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?from=embed&pbad=0&i=cqsuv-12cb9fb-pb&square=1&share=1&download=1&fonts=Arial&skin=f6f6f6&font-color=&rtl=0&logo_link=&btn-skin=7&size=300" allowfullscreen="" width="100%" height="300"></iframe>
@@ -917,7 +917,7 @@
 		<pubDate>Thu, 08 Sep 2022 14:59:43 GMT</pubDate>
 		<dc:creator>Jordan Gass-Poore</dc:creator>
 		<guid isPermaLink="true">https://hazardpodcast.com/episode/episode-04b-the-hackensack-comeback-moves-ahead/</guid>
-        <itunes:image href="https://hazardpodcast.com/img/HazardCover.jpg" />
+        <itunes:image href="https://hazardpodcast.com/img/HazardAlbumCover.jpg" />
 		<description>Last fall, the chemical tax was brought back as part of the massive federal infrastructure bill.</description>
         <itunes:subtitle><![CDATA[Last fall, the chemical tax was brought back as part of the massive federal infrastructure bill.]]></itunes:subtitle>
 		<content:encoded><![CDATA[<iframe title="BONUS Episode: The Hackensack’s Comeback Moves Ahead" allowtransparency="true" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?from=embed&pbad=0&i=36vbq-12bb1b0-pb&square=1&share=1&download=1&fonts=Arial&skin=f6f6f6&font-color=&rtl=0&logo_link=&btn-skin=7&size=300" allowfullscreen="" width="100%" height="300"></iframe>
@@ -936,7 +936,7 @@
 		<pubDate>Tue, 16 Aug 2022 14:59:43 GMT</pubDate>
 		<dc:creator>Jordan Gass-Poore</dc:creator>
 		<guid isPermaLink="true">https://hazardpodcast.com/episode/episode-04a-funding-returns-for-the-superfund/</guid>
-        <itunes:image href="https://hazardpodcast.com/img/HazardCover.jpg" />
+        <itunes:image href="https://hazardpodcast.com/img/HazardAlbumCover.jpg" />
 		<description>Last fall, the chemical tax was brought back as part of the massive federal infrastructure bill.</description>
         <itunes:subtitle><![CDATA[Last fall, the chemical tax was brought back as part of the massive federal infrastructure bill.]]></itunes:subtitle>
 		<content:encoded><![CDATA[<iframe title="BONUS Episode: Funding Returns for the Superfund" allowtransparency="true" style="border: none; min-width: min(100%, 430px);" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?from=embed&pbad=0&i=mjwd6-129e1ce-pb&square=1&share=1&download=1&fonts=Arial&skin=f6f6f6&font-color=&rtl=0&logo_link=&btn-skin=7&size=300" allowfullscreen="" width="100%" height="300"></iframe>
@@ -957,7 +957,7 @@
 		<pubDate>Thu, 14 Jul 2022 14:59:43 GMT</pubDate>
 		<dc:creator>Jordan Gass-Poore</dc:creator>
 		<guid isPermaLink="true">https://hazardpodcast.com/episode/episode-04-a-comeback-on-the-hackensack-meadowlands-superstorm/</guid>
-        <itunes:image href="https://hazardpodcast.com/img/HazardCover.jpg" />
+        <itunes:image href="https://hazardpodcast.com/img/HazardAlbumCover.jpg" />
 		<description>Climate change means that cleanup of the river becomes more critical than ever.</description>
         <itunes:subtitle><![CDATA[Climate change means that cleanup of the river becomes more critical than ever.]]></itunes:subtitle>
 		<content:encoded><![CDATA[<iframe title="Episode 4: A Comeback on the Hackensack" style="border: none;" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=jpcgd-126937a-pb&from=pb6admin&pbad=0&square=1&share=1&download=1&rtl=0&fonts=Arial&skin=f6f6f6&font-color=auto&logo_link=episode_page&btn-skin=7&size=300" allowfullscreen="" width="100%" height="400"></iframe>
@@ -1150,7 +1150,7 @@
 		<pubDate>Wed, 18 May 2022 14:59:43 GMT</pubDate>
 		<dc:creator>Jordan Gass-Poore</dc:creator>
 		<guid isPermaLink="true">https://hazardpodcast.com/episode/episode-03-heart-of-ringwood-superfund-site-ford-motor-company-toxic-waste-ramapough-lenape-tribal/</guid>
-        <itunes:image href="https://hazardpodcast.com/img/HazardCover.jpg" />
+        <itunes:image href="https://hazardpodcast.com/img/HazardAlbumCover.jpg" />
 		<description>Ford Motor Company turned Ringwood Mines and the area around them into a toxic waste dump in the 60s and 70s. The cleanup goes on.</description>
         <itunes:subtitle><![CDATA[Ford Motor Company turned Ringwood Mines and the area around them into a toxic waste dump in the 60s and 70s. The cleanup goes on.]]></itunes:subtitle>
 		<content:encoded><![CDATA[<iframe title="Episode 3: Heart of Ringwood" style="border: none;" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=fmp2t-1256ad4-pb&from=pb6admin&pbad=0&square=1&share=1&download=1&rtl=0&fonts=Arial&skin=f6f6f6&font-color=auto&logo_link=episode_page&btn-skin=7&size=300" allowfullscreen="" width="100%" height="400"></iframe>
@@ -1486,7 +1486,7 @@
 		<pubDate>Wed, 18 May 2022 14:59:43 GMT</pubDate>
 		<dc:creator>Jordan Gass-Poore</dc:creator>
 		<guid isPermaLink="true">https://hazardpodcast.com/episode/episode-02-passaic-river-industrial-pollution-dioxin-agent-orange-diamond-alkali-americas-biggest-crime-scene/</guid>
-        <itunes:image href="https://hazardpodcast.com/img/HazardCover.jpg" />
+        <itunes:image href="https://hazardpodcast.com/img/HazardAlbumCover.jpg" />
 		<description>Toxic mud at the bottom of the lower Passaic River, from decades of industrial dumping, remains exposed to storms made increasingly severe by climate change.</description>
         <itunes:subtitle><![CDATA[Toxic mud at the bottom of the lower Passaic River, from decades of industrial dumping, remains exposed to storms made increasingly severe by climate change.]]></itunes:subtitle>
 		<content:encoded><![CDATA[<iframe title="Episode 2: America’s Biggest Crime Scene" style="border: none;" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=trgwz-123c7d3-pb&from=pb6admin&pbad=0&square=1&share=1&download=1&rtl=0&fonts=Arial&skin=f6f6f6&font-color=auto&logo_link=episode_page&btn-skin=7&size=300" allowfullscreen="" width="100%" height="400"></iframe>
@@ -1727,7 +1727,7 @@
 		<pubDate>Wed, 18 May 2022 14:59:43 GMT</pubDate>
 		<dc:creator>Jordan Gass-Poore</dc:creator>
 		<guid isPermaLink="true">https://hazardpodcast.com/episode/episode-01-bridgewater-nj-american-cyanamid/</guid>
-        <itunes:image href="https://hazardpodcast.com/img/HazardCover.jpg" />
+        <itunes:image href="https://hazardpodcast.com/img/HazardAlbumCover.jpg" />
 		<description>At the toxic American Cyanamid Superfund site in Bridgewater, floodwaters are a constant concern.</description>
         <itunes:subtitle><![CDATA[At the toxic American Cyanamid Superfund site in Bridgewater, floodwaters are a constant concern.]]></itunes:subtitle>
 		<content:encoded><![CDATA[<iframe title="Episode 1:  On Thin Ice" style="border: none;" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=6auwc-122b5d1-pb&from=pb6admin&pbad=0&square=1&share=1&download=1&rtl=0&fonts=Arial&skin=f6f6f6&font-color=auto&logo_link=episode_page&btn-skin=7&size=300" allowfullscreen="" width="100%" height="400"></iframe>
@@ -1934,7 +1934,7 @@
 		<pubDate>Sat, 14 May 2022 02:59:43 GMT</pubDate>
 		<dc:creator>Jordan Gass-Poore</dc:creator>
 		<guid isPermaLink="true">https://hazardpodcast.com/episode/trailer/</guid>
-        <itunes:image href="https://hazardpodcast.com/img/HazardCover.jpg" />
+        <itunes:image href="https://hazardpodcast.com/img/HazardAlbumCover.jpg" />
 		<description>New podcast series highlights the intersection of pollution and climate change in the Garden State. Coming May 18.</description>
         <itunes:subtitle><![CDATA[New podcast series highlights the intersection of pollution and climate change in the Garden State. Coming May 18.]]></itunes:subtitle>
 		<content:encoded><![CDATA[<iframe title="Trailer" style="border: none;" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?from=embed&pbad=0&i=mupbp-121bf17-pb&square=1&share=1&download=1&fonts=Arial&skin=f6f6f6&font-color=auto&rtl=0&logo_link=episode_page&btn-skin=7&size=300" allowfullscreen="" width="100%" height="400"></iframe>
