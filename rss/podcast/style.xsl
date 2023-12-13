@@ -24,7 +24,7 @@
     content="Hazard Podcast" ></meta>
 
 <meta property="og:description"
-    content="Hazard is a new podcast that digs through the muck of different supperfund sites accross the US to give a clearer picture of what the threat is and what it will take to clean it up before it's too late. Hosted by journalist Jordan Gass-Poore'" ></meta>
+    content="Hazard is a new podcast that digs through the muck of different superfund sites accross the US to give a clearer picture of what the threat is and what it will take to clean it up before it's too late. Hosted by journalist Jordan Gass-Poore'" ></meta>
 
 
 <meta property="og:url"
@@ -36,9 +36,9 @@
 
 <meta name="twitter:site" content="@chronotope" ></meta>
 
-<meta name="twitter:description" content="Hazard is a new podcast that digs through the muck of different supperfund sites accross the US to give a clearer picture of what the threat is and what it will take to clean it up before it's too late. Hosted by journalist Jordan Gass-Poore'" ></meta>
+<meta name="twitter:description" content="Hazard is a new podcast that digs through the muck of different superfund sites accross the US to give a clearer picture of what the threat is and what it will take to clean it up before it's too late. Hosted by journalist Jordan Gass-Poore'" ></meta>
 
-<meta name="description" content="Hazard is a new podcast that digs through the muck of different supperfund sites accross the US to give a clearer picture of what the threat is and what it will take to clean it up before it's too late. Hosted by journalist Jordan Gass-Poore'"></meta>
+<meta name="description" content="Hazard is a new podcast that digs through the muck of different superfund sites accross the US to give a clearer picture of what the threat is and what it will take to clean it up before it's too late. Hosted by journalist Jordan Gass-Poore'"></meta>
 
 <!-- I prefer the summary_large_image Twitter card for posts. -->
 <meta name="twitter:card" content="summary_large_image" ></meta>
@@ -66,7 +66,7 @@
         "@type": "PodcastSeries",
         "url": "https://hazardpodcast.com/rss/podcast/style.xsl",
         "headline": "Hazard Podcast",
-        "about": "Hazard is a new podcast that digs through the muck of different supperfund sites accross the US to give a clearer picture of what the threat is and what it will take to clean it up before it's too late. Hosted by journalist Jordan Gass-Poore'",
+        "about": "Hazard is a new podcast that digs through the muck of different superfund sites accross the US to give a clearer picture of what the threat is and what it will take to clean it up before it's too late. Hosted by journalist Jordan Gass-Poore'",
         "image": [
             "https://41.media.tumblr.com/709bb3c371b9924add351bfe3386e946/tumblr_nxdq8uFdx81qzocgko1_1280.jpg"
         ],
