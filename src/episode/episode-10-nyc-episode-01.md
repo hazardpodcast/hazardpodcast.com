@@ -1,8 +1,8 @@
 ---
 title: "Hazard NYC Podcast - Can a Contaminated Creek Come Clean? - Season 2: Episode 1"
 description: "Newtown Creek is one of the country’s most polluted waterways. Flooding from sea level rise and storms threatens to spread the creek’s contamination and bring pollution from outside the water into it. The feds are figuring out how to include climate change into the clean-up plan they’re developing. THE CITY’s senior reporter Samantha Maldonado and independent journalist Jordan Gass-Pooré dive in on episode one of Hazard NYC, a four-part FAQ NYC Presents limited series exploring the city’s Superfund sites."
-author: "Jordan Gass-Poore'"
-date: 2024-02-14 05:00:43.10 -4
+author: "Jordan Gass-Poore', FAQ NYC, THE CITY"
+date: 2024-02-13 05:00:43.10 -4
 tags:
   - Season Two
   - Superfund
@@ -13,13 +13,15 @@ featuredImage: "HAZARD_NYC_3000x3000.png"
 featuredImageCredit: "Logo"
 featuredImageLink: "https://hazardpodcast.com"
 featuredImageAlt: "Hazard Podcast Logo"
-episodeFile: Hazard-NJ_Episode-Eight.mp3
+episodeFile: Hazard-NYC-1.mp3
 isBasedOn: https://www.thecity.nyc/2024/02/14/newtown-creek-superfund-pollution-hazardnyc-faqnyc-podcast/
 isBasedOnAudio: https://aphid.fireside.fm/d/1437767933/77c0e88f-43d7-42c8-9e27-504220a0287b/71348c6f-22aa-4c9e-a62b-9f82ea9abf22.mp3
 audioEmbed: '<iframe src="https://fireside.fm/player/v2/OS-Y7tt8+lCLHYJ4L" width="100%" height="200" frameborder="0" scrolling="no"></iframe>'
 ---
 
 <iframe src="https://fireside.fm/player/v2/OS-Y7tt8+lCLHYJ4L" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
+
+This story was originally published by THE CITY. Sign up to get the latest [New York City news](https://nyc.us20.list-manage.com/subscribe?u=73d98c6dfc90032198ec7bdee&id=aa6c8f62b7) delivered to you each morning.
 
 <img width="100%" src="https://i0.wp.com/www.thecity.nyc/wp-content/uploads/2023/09/111523_newtown_creek_walk_3-scaled.jpg?fit=2560%2C1707&ssl=1" alt="A sign warns about sewage discharge in the Newtown Creek Superfund site." decoding="async" />
 
