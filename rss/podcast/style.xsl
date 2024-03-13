@@ -57,7 +57,7 @@
 
 
 <meta property="og:type" content="website" ></meta>
-
+    
 
 
         <script type="application/ld+json">
@@ -79,12 +79,12 @@
         "author": {
     "@type": "Person",
     "name": "Jordan Gass-Poore'",
-    "description": "Jordan Gass-Pooré (she/her) is an award-winning podcast producer and investigative journalist with more than a decade of journalism experience. Presently, Jordan is the creator, producer, and host of “Hazard NJ,” a limited-series podcast about the impacts of climate change on hazardous Superfund sites in New Jersey.",
+    "description": "Jordan Gass-Pooré (she/her) is an award-winning podcast producer and investigative journalist with more than a decade of journalism experience. Presently, Jordan is the creator, producer, and host of Hazard NJ, a limited-series podcast about the impacts of climate change on hazardous Superfund sites in New Jersey.",
 },
         "editor": {
     "@type": "Person",
     "name": "Jordan Gass-Poore'",
-    "description": "Jordan Gass-Pooré (she/her) is an award-winning podcast producer and investigative journalist with more than a decade of journalism experience. Presently, Jordan is the creator, producer, and host of “Hazard NJ,” a limited-series podcast about the impacts of climate change on hazardous Superfund sites in New Jersey.",
+    "description": "Jordan Gass-Pooré (she/her) is an award-winning podcast producer and investigative journalist with more than a decade of journalism experience. Presently, Jordan is the creator, producer, and host of Hazard NJ, a limited-series podcast about the impacts of climate change on hazardous Superfund sites in New Jersey.",
 },
         "inLanguage": "en-US",
         "additionalType": "CreativeWork",
