@@ -13,6 +13,7 @@ tags:
   - Manhattan Project
   - Queens
   - The Wolff-Alport Chemical Company
+  - NYC
 featuredImage: "HAZARD_NYC_3000x3000.png"
 featuredImageCredit: "Logo"
 featuredImageLink: "https://hazardpodcast.com"

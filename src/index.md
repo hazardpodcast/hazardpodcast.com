@@ -3,6 +3,7 @@ title: "Hazard Podcast"
 layout: index
 eleventyExcludeFromCollections: true
 internalPageTypes: [ 'home' ]
+tags: [ 'Hazard Podcast', 'Narrative', 'Investigative', 'Climate Crisis', 'Climate Change', 'Pollution', 'NJ', 'NYC', 'New York', 'New Jersey', 'Superfund', 'New York City', 'Jordan Gass-Pooré']
 ---
 
 # Hazard Podcast

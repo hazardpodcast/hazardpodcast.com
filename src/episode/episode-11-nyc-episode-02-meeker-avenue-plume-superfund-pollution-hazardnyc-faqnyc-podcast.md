@@ -14,6 +14,7 @@ tags:
   - Brooklyn
   - trichloroethylene
   - EPA
+  - NYC
 featuredImage: "HAZARD_NYC_3000x3000.png"
 featuredImageCredit: "Logo"
 featuredImageLink: "https://hazardpodcast.com"

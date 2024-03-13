@@ -73,5 +73,7 @@
 {% else %}
 
 <meta property="og:type" content="website" ></meta>
-
+    {% if tags %}
+<meta name="keywords" content="{{ tags | join(', ') }}" ></meta>
+    {% endif %}
 {% endif %}

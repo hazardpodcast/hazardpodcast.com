@@ -6,9 +6,11 @@ date: 2024-02-13 05:00:43.10 -4
 tags:
   - Season Two
   - Superfund
+  - Newtown Creek
   - Climate Change
   - New York City
-  - Newtown Creek
+  - NYC
+  - New York
 featuredImage: "HAZARD_NYC_3000x3000.png"
 featuredImageCredit: "Logo"
 featuredImageLink: "https://hazardpodcast.com"
