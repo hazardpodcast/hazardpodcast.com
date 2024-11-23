@@ -360,6 +360,20 @@ module.exports = function (eleventyConfig) {
 		);
 	});
 
+	eleventyConfig.addCollection("seasonTwoPages", (collection) => {
+		return getPostClusters(
+			collection.getFilteredByTag("Season Two"),
+			"Episodes from Season Two"
+		);
+	});
+
+	eleventyConfig.addCollection("seasonThreePages", (collection) => {
+		return getPostClusters(
+			collection.getFilteredByTag("Season Three"),
+			"Episodes from Season Three"
+		);
+	});
+
 	// Create an array of all tags
 	eleventyConfig.addCollection("tagList", (collection) => {
 		return getAllTags(collection.getAll());
