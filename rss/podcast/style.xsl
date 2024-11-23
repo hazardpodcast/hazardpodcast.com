@@ -14,6 +14,14 @@
   font-family: "PhosphatePro-Solid";
   src: url('https://hazardpodcast.com/assets/fonts/PhosphateProSolid/font.woff2') format('woff2'), url('https://hazardpodcast.com/assets/fonts/PhosphateProSolid/font.woff') format('woff');
 }
+@font-face {
+    font-family: 'Viafont';
+    src: url('https://hazardpodcast.com/assets/fonts/viafont/Viafont.woff2') format('woff2'),
+        url('https://hazardpodcast.com/assets/fonts/viafont/Viafont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
 </style>
         <link rel="stylesheet" href="/assets/css/style.css"/>
         <link rel="stylesheet" href="/assets/css/template-feed.css"/>
