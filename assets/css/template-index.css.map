@@ -5,9 +5,9 @@
 		"sass/file:///home/runner/work/hazardpodcast.com/hazardpodcast.com/src/_sass/template-index.sass"
 	],
 	"names": [],
-	"mappings": "AAEA,aACI,eACA,cACA,kBACA,yBACJ,IACI,eACA,gBAEA,gBACI,eACA,iBACA,qBACA,uCACA,mBACA,kBACA,YACJ,6BACI,kBACA,cACA,UACA,kBACA,iCACI,kBACZ,aACI,UACA,mBACA,gBACI,eACJ,eACI",
+	"mappings": "AAEA,aACI,eACA,cACA,kBACA,yBACJ,IACI,eACA,gBAEA,gBACI,eACA,iBACA,qBACA,uCACA,mBACA,kBACA,YACJ,6BACI,kBACA,cACA,UACA,kBACA,iCACI,kBACR,6BACI,eACR,aACI,UACA,mBACA,gBACI,eACJ,eACI",
 	"file": "template-index.css",
 	"sourcesContent": [
-		"@use 'variables'\n\nbody, wrapper\n    max-width: 100%\n    display: block\n    text-align: center\n    background-color: #ffbc00\nimg\n    max-width: 100%\n    max-height: 85vh\n#maincontent\n    h1\n        font-size: 90px\n        line-height: 90px\n        margin: 10px 0 20px 0\n        font-family: \"PhosphatePro-Solid\", serif\n        font-weight: normal\n        position: relative\n        z-index: 100\n    p:first-of-type\n        margin-top: -120px\n        padding-top: 0\n        z-index: 5\n        position: relative\n        img\n            position: relative\n#postcontent\n    width: 80%\n    margin: 10px auto 0\n    h3\n        font-size: 40px\n    p\n        font-size: 20px\n"
+		"@use 'variables'\n\nbody, wrapper\n    max-width: 100%\n    display: block\n    text-align: center\n    background-color: #ffbc00\nimg\n    max-width: 100%\n    max-height: 85vh\n#maincontent\n    h1\n        font-size: 90px\n        line-height: 90px\n        margin: 10px 0 20px 0\n        font-family: \"PhosphatePro-Solid\", serif\n        font-weight: normal\n        position: relative\n        z-index: 100\n    p:first-of-type\n        margin-top: -120px\n        padding-top: 0\n        z-index: 5\n        position: relative\n        img\n            position: relative\n    p:first-of-type\n        margin-top: 6px\n#postcontent\n    width: 80%\n    margin: 10px auto 0\n    h3\n        font-size: 40px\n    p\n        font-size: 20px\n"
 	]
 }
