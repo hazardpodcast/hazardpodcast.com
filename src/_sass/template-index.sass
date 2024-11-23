@@ -8,15 +8,25 @@ body, wrapper
 img
     max-width: 100%
     max-height: 85vh
+#season-banner
+    position: relative
+    z-index: 100
 #maincontent
     h1
         font-size: 90px
         line-height: 90px
         margin: 10px 0 20px 0
-        font-family: "PhosphatePro-Solid", serif
+        font-family: var(--title-font)
         font-weight: normal
         position: relative
         z-index: 100
+        margin-bottom: -230px
+        @media (max-width: variables.$large-mobile)
+            .podcast-header
+                visibility: hidden
+        @media (max-width: variables.$small-mobile-width)
+            font-size: 18vw
+            margin-bottom: -38vw
     p:first-of-type
         margin-top: -120px
         padding-top: 0
@@ -25,7 +35,7 @@ img
         img
             position: relative
     p:first-of-type
-        margin-top: 6px
+        margin-top: 0
 #postcontent
     width: 80%
     margin: 10px auto 0
