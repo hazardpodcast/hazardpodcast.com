@@ -363,3 +363,21 @@ THIS SEASON OF HAZARD NJ... WE'RE SERVING UP THE TOXIC TRUTH ABOUT PFAS IN NEW J
 ON EPISODE TWO... WE LOOK AT HOW PFAS ARE FUELING A PUBLIC HEALTH CRISIS.
 
 HAZARD NJ IS AN NJ SPOTLIGHT NEWS PRODUCTION... YOU CAN SUPPORT OUR REPORTING BY HEADING TO NJSPOTLIGHTNEWS.ORG/DONATE
+
+### Credits
+
+Hazard NJ is reported and written by host Jordan Gass-Pooré and producer Michael Sol Warren
+
+Executive Producer – Jamie Kraft
+
+Executive in Charge of Production – Joe Lee
+
+Production Manager – Chloe Motisi
+
+Research Assistant — Judah Duke
+
+Sound Designer & Engineer – Mark Bush
+
+Composer – Nick Pennington
+
+Art – Matthew Fleming
