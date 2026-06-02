@@ -4,8 +4,11 @@
     xmlns:atom="http://www.w3.org/2005/Atom"
     xmlns:cc="http://web.resource.org/cc/"
     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/"
-    xmlns:content="http://purl.org/rss/1.0/modules/content/"  xmlns:podcast="https://podcastindex.org/namespace/1.0"  xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
-    xmlns:dc="https://dublincore.org/schemas/xmls/qdc/2008/02/11/dc.xsd" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:podcast="https://podcastindex.org/namespace/1.0"
+    xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 
 <channel>
 	<title>Hazard Podcast Feed</title>
@@ -15,12 +18,14 @@
     <language>en</language>
     <copyright><![CDATA[]]></copyright>
 	<description>Hazard is a new podcast that digs through the muck of different superfund sites accross the US to give a clearer picture of what the threat is and what it will take to clean it up before it's too late. Hosted by journalist Jordan Gass-Poore'</description>
-	<lastBuildDate>Mon, 27 Jan 2025 19:40:01 GMT</lastBuildDate>
+	<lastBuildDate>Tue, 02 Jun 2026 04:06:46 GMT</lastBuildDate>
 	<generator>https://11ty.dev/</generator>
 	<managingEditor>
 		webmaster@hazardpodcast.com (Jordan Gass-Poore)
 	</managingEditor>
     <itunes:summary><![CDATA[Hazard is a new podcast that digs through the muck of different superfund sites accross the US to give a clearer picture of what the threat is and what it will take to clean it up before it's too late. Hosted by journalist Jordan Gass-Poore']]></itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <podcast:guid>c4e4952a-3899-5bf3-92ed-5e8d043d4f77</podcast:guid>
     <image>
 		<url>https://hazardpodcast.com/img/HazardCover.jpg</url>
 		<title>Hazard Podcast Feed</title>
@@ -32,13 +37,758 @@
     </itunes:category>
     <itunes:category text="News"/>
     <itunes:image href="https://hazardpodcast.com/img/HazardCover.jpg" />
-    <itunes:explicit>clean</itunes:explicit>
     <itunes:owner>
         <itunes:name><![CDATA[Jordan Gass-Poore]]></itunes:name>
         <itunes:email>webmaster@hazardpodcast.com</itunes:email>
     </itunes:owner>
     <itunes:subtitle><![CDATA[]]></itunes:subtitle>
     <itunes:type>episodic</itunes:type>
+	
+	<item>
+		<title>Hazard NJ Podcast - Nothing is Forever - Season 3: Episode 4</title>
+		<link>https://hazardpodcast.com/episode/episode-17-nj-s2-e4-nothing-is-forever/?source=rss</link>
+		<pubDate>Thu, 16 Jan 2025 05:07:43 GMT</pubDate>
+		<dc:creator>Jordan Gass-Poore</dc:creator>
+		<guid isPermaLink="true">https://hazardpodcast.com/episode/episode-17-nj-s2-e4-nothing-is-forever/</guid>
+        <itunes:image href="https://hazardpodcast.com/img/HazardNJ-Album-Cover.jpg" />
+		<description>Toxic “forever chemicals” became a ubiquitous part of consumer products because they largely repel water, are stain-resistant and incredibly durable. Those same properties also mean the chemicals can persist in the environment seemingly, well, forever. That’s left regulators and scientists in New Jersey and around the world grappling with how to permanently destroy the chemicals.</description>
+        <itunes:subtitle><![CDATA[Toxic “forever chemicals” became a ubiquitous part of consumer products because they largely repel water, are stain-resistant and incredibly durable. Those same properties also mean the chemicals can persist in the environment seemingly, well, forever]]></itunes:subtitle>
+        <itunes:summary><![CDATA[Toxic “forever chemicals” became a ubiquitous part of consumer products because they largely repel water, are stain-resistant and incredibly durable. Those same properties also mean the chemicals can persist in the environment seemingly, well, forever. That’s left regulators and scientists in New Jersey and around the world grappling with how to permanently destroy the chemicals.]]></itunes:summary>
+		<content:encoded><![CDATA[<iframe title="Hazard NJ Season 2, Episode 4: Nothing is “Forever”" allowtransparency="true" height="400" width="100%" style="border: none; min-width: min(100%, 430px);height:400px;" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?from=embed&pbad=0&i=vjbv5-17a0326-pb&square=1&share=1&download=1&fonts=Arial&skin=f6f6f6&font-color=auto&rtl=0&logo_link=episode_page&btn-skin=7&size=300" loading="lazy" allowfullscreen=""></iframe>
+<p>Toxic “forever chemicals” became a ubiquitous part of consumer products because they largely repel water, are stain-resistant and incredibly durable. Those same properties also mean that the chemicals can persist in the environment seemingly, well, forever. That’s left regulators and scientists in New Jersey and around the world grappling with how to permanently destroy the chemicals.</p>
+<p><em><strong>Editor's Note: &quot;Hazard NJ&quot; is an NJ Spotlight News podcast that examines serious pollution issues. Season 2 dives deep into the crisis of toxic pollution caused by PFAS, or &quot;forever chemicals,&quot; around New Jersey and beyond. Subscribe to the podcast on <a href="https://podcasts.apple.com/us/podcast/hazard-nj/id1622849571" target="_blank">Apple Podcasts</a>, <a href="https://open.spotify.com/show/30cCzv4iuGTIdr44eyHIfS?si=3w9tD2Z-QNa5coc8l4RIYw&amp;nd=1" target="_blank">Spotify</a>, <a href="https://music.amazon.com/podcasts/f36c7ea7-0e39-48be-b9aa-a2914be8a837/hazard-nj" target="_blank">Amazon Music</a> and more.</strong></em></p>
+<h3 id="read-the-episode-transcript-below:" tabindex="-1">Read the episode transcript below:</h3>
+<p>**Jordan Gass-Pooré -- Host<br />
+**THAT'S ME WALKING AROUND CAMP NO-BE-BO-SCO... MAYBE BETTER KNOWN AS CAMP CRYSTAL LAKE FROM THE ORIGINAL FRIDAY THE 13TH MOVIE.</p>
+<p>IT'S A BOY SCOUTS SUMMER CAMP IN WARREN COUNTY, NEW JERSEY.</p>
+<p>I WAS THERE ON A TOUR BECAUSE... BELIEVE IT OR NOT... I'M A FAN OF THE FRIDAY THE 13TH FRANCHISE.</p>
+<p>WALKING AROUND THIS MORE THAN 380-ACRE CAMP... I COULDN'T HELP BUT WONDER IF THE HUNTING GROUNDS OF MACHETE-WIELDING JASON VOORHEES... AND HIS MOM... WERE CONTAMINATED WITH PFAS.</p>
+<p>IF THAT LAKE JASON DROWNED IN... ACTUALLY KNOWN AS SAND POND...  CONTAINED FOREVER CHEMICALS... AND IF THAT HAD ANYTHING TO DO WITH HIS SUPERNATURAL ABILITIES.</p>
+<p>I GET IT... THESE ARE FICTIONAL CHARACTERS... AND PFAS CHEMICALS ARE REAL.</p>
+<p>BUT AS TOUGH AS IT IS FOR TEENS IN THE FRIDAY THE 13TH MOVIES TO KILL JASON... IT MAY BE HARDER TO DESTROY PFAS.</p>
+<p>THIS IS HAZARD NJ...</p>
+<p>I'M JORDAN GASS-POORÉ... AN INVESTIGATIVE JOURNALIST FROM TEXAS.</p>
+<p>WE'VE COME FULL CIRCLE THIS SEASON... FROM THE DISCOVERY OF THE FIRST KNOWN PFAS CHEMICAL... IN A LAB IN CARNEY'S POINT, NEW JERSEY...</p>
+<p>...TO THE STATE'S PROACTIVE APPROACH IN REMOVING FOREVER CHEMICALS FROM THE DRINKING WATER...</p>
+<p>...TO A UNIQUE PUBLIC HEALTH STUDY CENTERED ON ONE SOUTH JERSEY TOWN... PAULSBORO...</p>
+<p>...AND NOW... WE'LL LOOK AT HOW RESEARCHERS IN THE STATE ARE RAMPING UP EFFORTS TO DESTROY THEM... ONCE AND FOR ALL. LIKE THEY DID TO JASON IN THE SEQUELS... OR DID THEY?</p>
+<p>PFAS ARE CALLED FOREVER CHEMICALS BECAUSE... LIKE WE'VE MENTIONED BEFORE... THEY'RE NEARLY IMPOSSIBLE TO BREAK DOWN.</p>
+<p>THEIR CHEMISTRY MAKES THEM EXTREMELY DURABLE AND RESISTANT TO DEGRADING NATURALLY. THAT'S WHAT HAS MADE THEM SO USEFUL FOR SO MANY THINGS... AND IT'S ALSO WHAT MAKES THEM A THREAT TO HUMAN HEALTH.</p>
+<p>SO WHEN IT COMES TO GETTING RID OF PFAS... SIMPLY THROWING OUT THE TRASH ISN'T GOOD ENOUGH.</p>
+<p>WHEN ITEMS MADE WITH PFAS END UP IN THE DUMP... THE CHEMICALS WILL... OVER TIME... MIGRATE FROM THOSE ITEMS AND INTO THE SOIL... WATER... AND EVEN THE AIR.</p>
+<p>GRAHAM PEASLEE... THE NOTRE DAME RESEARCHER WE HEARD FROM IN EPISODE ONE... SAYS HIS BIGGEST CONCERN WITH PFAS IS THE LANDFILL PROBLEM. REMEMBER THAT BIG STUDY HE AND HIS TEAM DID TO FIND PFAS IN HUNDREDS OF FAST-FOOD WRAPPERS?</p>
+<p>**Graham Peaslee --- Professor Emeritus, Department of Physics &amp; Astronomy, University of Notre Dame<br />
+**That was published and it went viral. We had about 300 news articles from that. And everybody took home saying, 'Oh my god, my hamburger is gonna kill me.' We even got an Onion satire of our paper. But it was, in fact, the opposite. Because in my household, you know, the teenagers ate the food out of the wrapper in 30 milliseconds. There was no cross-contamination to the food. But it could, if it sat there for a few months. But where does that paper go when you're done? It goes into the landfill. And so, 100% of those chemicals on the food wrappers will come off in 60 days in an aerobic landfill, which means it gets into drinking water, passes right through the treatment centers. And it'll get into our drinking water, it will get into our agricultural water that's sprayed on fruits and vegetables that we then eat. And those PFAS will bioaccumulate into the plants or into the animals that eat them. And then we eat the animals, we will get high levels of PFAS in our blood, which we do, everybody in North America now has them.</p>
+<p>**Jordan Gass-Pooré -- Host<br />
+**THERE ARE 14 ACTIVE LANDFILLS ACROSS NEW JERSEY... AND HUNDREDS MORE KNOWN OR SUSPECTED FORMER LANDFILLS THAT ARE NO LONGER OPERATING. THAT'S A FRACTION OF THE THOUSANDS OF GARBAGE DUMPS SCATTERED ACROSS THE COUNTRY.</p>
+<p>WHEN TRASH DEGRADES IN LANDFILLS AND MIXES WITH RAINFALL... IT PRODUCES A NEW LIQUID WASTE CALLED LEACHATE THAT SEEPS OUT OF THE BOTTOM OF THE DUMP.</p>
+<p>THE U.S. ENVIRONMENTAL PROTECTION AGENCY IN 2023 ANNOUNCED PLANS TO FURTHER STUDY PFAS IN LEACHATE... AND CREATE NEW REGULATIONS TO DEAL WITH THE PROBLEM.</p>
+<p>THEY ANALYZED MULTIPLE SURVEYS AND FOUND THE CHEMICALS IN LEACHATE AT MORE THAN 95% OF MORE THAN 200 LANDFILLS SAMPLED NATIONWIDE.</p>
+<p>MODERN LANDFILLS ARE LINED AND DESIGNED TO CAPTURE LEACHATE... BUT SOME LEACHATE CAN ESCAPE UNTREATED.</p>
+<p>LEACHATE THAT IS COLLECTED IS TYPICALLY SHIPPED OFF FROM THE LANDFILL TO A WASTEWATER TREATMENT PLANT... SO IT CAN BE FILTERED AND CLEANED ALONG WITH SEWAGE AND STORMWATER BEFORE BEING RELEASED BACK INTO THE ENVIRONMENT.</p>
+<p>BUT PFAS IS STILL A NEW PROBLEM... AND MANY WASTEWATER TREATMENT PLANTS AREN'T EQUIPPED TO HANDLE THE CHEMICALS.</p>
+<p>AS REGULATORS WEIGH HOW TO BEST ADDRESS PFAS IN LANDFILL LEACHATE... THE WASTE INDUSTRY IS BRACING FOR SOME POTENTIALLY COSTLY CHANGES.</p>
+<p>**Kristyn Oldendorf --- Senior Director of Public Policy &amp; Communications, Solid Waste Association of North America<br />
+**We do see landfills as a solution. Like landfills are regulated. It's an engineered system. You know, we can kind of safely collect this material. There's a lot of proactive movement to figure out the best technologies to sort out the PFAS. You go to any waste-related conference lately, it is just full of really great technologies around PFAS.</p>
+<p>**Jordan Gass-Pooré -- Host<br />
+**THAT'S KRISTYN OLDENDORF... THE SENIOR DIRECTOR OF PUBLIC POLICY AND COMMUNICATIONS FOR THE SOLID WASTE ASSOCIATION OF NORTH AMERICA.</p>
+<p>**Kristyn Oldendorf --- Senior Director of Public Policy &amp; Communications, Solid Waste Association of North America<br />
+**The solutions are there. They're growing. We do see our industry as a solution. But at the same time, especially in the public sector, there's cost to that. So, if you have a publicly owned landfill, you know, publicly funded, and now you have to invest in all this new technology, you know, what does that mean? We'd love to see some more funding opportunities, especially for the public sector. But, you know, private as well. You have a lot of privately-run landfills that have municipal clients. So that also leads to a cost, you know, if they need to re-increase their tipping fees, that's the cost back to the public sector. So, our industry collects waste. We don't produce it. We don't really often have a say in what goes into it, you know, but whatever it is, we're collecting it. You know, we're kind of prepared to do that. We're preparing to do that with PFAS, but I think the concern or burden is that financial aspect and just being able to prepare for that long-term planning financially, and just, like, what do you need to plan for at your landfill?</p>
+<p>**Jordan Gass-Pooré -- Host<br />
+**AND THEN... THERE'S THE INCINERATORS. PLACES WHERE ALL KINDS OF TRASH IS SENT TO BE TORCHED... CREATING BOTH ELECTRICITY TO POWER LOCAL COMMUNITIES... AND AIR POLLUTION FOR THOSE COMMUNITIES TO BREATHE IN.</p>
+<p>NEW JERSEY HAS A LONG HISTORY OF BURNING ITS TRASH. BY THE 1980S THE GARDEN STATE HAD A BIG PROBLEM. LANDFILLS WERE FILLING UP AND THERE WASN'T ENOUGH SPACE FOR NEW ONES... BUT THE TRASH HAD TO GO SOMEWHERE.</p>
+<p>**Kent Manahan -- New Jersey Nightly News, 1982<br />
+**New Jersey's counties are under a state order to come up with new ways to dispose of garbage. The state's running out of dumping space, and experts say landfills and ocean dumping hurt the environment. One alternative is incinerating garbage in order to produce energy.</p>
+<p>**Jordan Gass-Pooré -- Host<br />
+**THEN-GOVERNOR TOM KEAN MADE IT CLEAR THAT IT WAS UP TO EACH OF NEW JERSEY'S 21 COUNTIES TO FIND A SOLUTION FOR THE WASTE... AND HE PUSHED FOR EVERY COUNTY TO BUILD A NEW TRASH INCINERATOR.</p>
+<p>**Gov. Tom Kean -- R, Governor of New Jersey 1982-1990<br />
+**We worked through the counties, so that each county had to agree to either in juncture, if they were small counties, or alone, if they weren't, to do incinerators, which was looked at as a way of getting rid of some of this toxic material before it went in the ground and the water. So that was our hope, and that was a theory, and we put a lot of pressure on the counties, each of them, to come up with a plan, where they were going to get rid of the solid waste. Some of them resisted like crazy.</p>
+<p>**Jordan Gass-Pooré -- Host<br />
+**GOVERNOR KEAN LEFT OFFICE AS ONE NEW JERSEY'S MOST POPULAR POLITICIANS EVER... BUT THIS PLAN FOR AN INCINERATOR IN EVERY COUNTY? WELL... IT WASN'T ONE OF HIS MOST WELL-RECEIVED.</p>
+<p>**Brenda Flanagan -- New Jersey Nightly News, 1982<br />
+**Demonstrators from all over New Jersey marched in front of the Wheelabrator-Frye company office in New Brunswick. County freeholders last month amended their solid waste master plan to let the company build a resource recovery incinerator. The Statewide Movement Opposing Killer Environments, called SMOKE, says the incinerator will spew poisons into the atmosphere, and warns no incinerator should be built until the state establishes strict criteria.</p>
+<p>**Jordan Gass-Pooré -- Host<br />
+**KEAN'S PLAN WAS NEVER FULLY REALIZED. TODAY THERE ARE FOUR INCINERATORS BURNING TRASH IN NEW JERSEY... EACH IN RELATIVELY LOW-INCOME COMMUNITIES... WESTVILLE... CAMDEN... RAHWAY... AND NEWARK.</p>
+<p>THE ONE IN NEWARK WAS BUILT IN THE IRONBOUND NEIGHBORHOOD DESPITE INTENSE PUBLIC PUSHBACK.</p>
+<p>ANA BAPTISTA... A LONG-TIME ENVIRONMENTAL JUSTICE ADVOCATE... GREW UP IN THE IRONBOUND. SHE REMEMBERS THE PROTESTS AND THE PUBLIC MEETINGS AGAINST THE INCINERATOR THAT HER PARENTS TOOK HER TO.</p>
+<p>**Ana Baptista -- Trustee, Ironbound Community Corporation<br />
+**It was really widely reviled by the by the residents, and it was seen really as like an insult to the community, like, you're dumping on us, and you're going to continue to dump on us, and now the whole county, and, you know, all the areas around us can dump on us. And so people were really angry about it. I remember as a kid, it was a pretty, pretty unifying sentiment against the incinerator and the politicians who were supporting it. But, unfortunately, politics of the moment did not allow an opening to really challenge the facility siting there and the creation of the plant.</p>
+<p>**Jordan Gass-Pooré -- Host<br />
+**TODAY... THE NEWARK INCINERATOR IS THE LARGEST IN NEW JERSEY. IN 2023... IT BURNED 960,000 TONS OF MUNICIPAL SOLID WASTE... AND USED THAT TO CREATE ENOUGH ELECTRICITY TO POWER 41,000 HOMES FOR A YEAR.</p>
+<p>INCINERATORS MUST HAVE AIR POLLUTION PERMITS TO OPERATE. THOSE PERMITS SET GUIDELINES FOR WHAT THE FACILITIES ARE... AND ARE NOT... ALLOWED TO SPEW FROM THEIR STACKS.</p>
+<p>STUFF LIKE CARBON MONOXIDE... SULFUR DIOXIDE... PARTICULATE MATTER... VOLATILE ORGANIC COMPOUNDS... DIOXIN... LEAD... MERCURY... ARE SOME OF THE THINGS THAT ARE REGULATED THROUGH THESE PERMITS. BUT PFAS ARE NOT.</p>
+<p>**Ana Baptista -- Trustee, Ironbound Community Corporation<br />
+**The incinerator is a, you know, a huge source of dioxin, lead, mercury. And, you know, I think the incinerator in Newark, at one point, was the largest single source of lead in the region. So it has a whole bundle of really toxic emissions that people are concerned about. I don't know that PFAS is the one that is the one of most concern, but it's certainly part of the mix.</p>
+<p>**Jordan Gass-Pooré -- Host<br />
+**THAT COULD CHANGE... IF NEW JERSEY... NEW MEXICO... AND NORTH CAROLINA GET THEIR WAY.</p>
+<p>THESE THREE STATES PETITIONED THE EPA LAST YEAR TO HAVE SOME OF THE MOST COMMON PFAS CLASSIFIED AS HAZARDOUS SUBSTANCES UNDER THE FEDERAL CLEAN AIR ACT.</p>
+<p>SHAWN LATOURETTE... COMMISSIONER OF THE NEW JERSEY DEPARTMENT OF ENVIRONMENTAL PROTECTION... EXPLAINS.</p>
+<p>**Shawn LaTourette -- Commissioner, New Jersey Department of Environmental Protection<br />
+**Then we can execute on the Clean Air Act and get it controlled as an air emissions matter, too, right? What about the garbage incinerators, and there's PFAS in everything, and they're burning the trash. That's not being captured in the smokestack now.</p>
+<p>**Jordan Gass-Pooré -- Host<br />
+**FOR NOW... TRASH CONTAINING PFAS IS BEING BURNED BY GARBAGE INCINERATORS WITHOUT ANY SPECIFIC REGULATIONS.</p>
+<p>SO HOW EFFECTIVE ARE INCINERATORS AT DESTROYING PFAS? WELL... IT'S COMPLICATED. THE EPA DID NOT MAKE ANY SCIENTISTS OR OFFICIALS AVAILABLE FOR AN INTERVIEW... BUT THEY DID SEND US LENGTHY ANSWERS TO OUR WRITTEN QUESTIONS ABOUT INCINERATION.</p>
+<p>BASICALLY... THERE ARE THREE MAIN FACTORS TO CONSIDER: THE TEMPERATURE THE INCINERATOR BURNS AT... THE AMOUNT OF TIME THAT A GIVEN MATERIAL IS EXPOSED TO THE HIGHEST TEMPERATURE... AND THE AMOUNT OF TURBULENCE THAT OCCURS INSIDE THE INCINERATOR.</p>
+<p>EVERY INCINERATOR IS UNIQUE... SO THOSE THREE FACTORS MAY BE DIFFERENT IN EACH ONE.</p>
+<p>THE EPA SAYS THAT MUCH MORE RESEARCH NEEDS TO BE DONE TO SEE HOW EFFECTIVE INCINERATORS ARE FOR PFAS DESTRUCTION.</p>
+<p>GENERALLY... THE EPA BELIEVES THE TYPICAL INCINERATOR IS ABLE TO BREAK DOWN THE ORIGINAL PFAS IN TRASH... LIKE THE COMMON CHEMICALS PFOA AND PFOS.</p>
+<p>THE TRICKY PART COMES AFTER THAT. IF THOSE ORIGINAL PFAS AREN'T EXPOSED TO A HIGH ENOUGH HEAT FOR A LONG-ENOUGH AMOUNT OF TIME THEY MAY SIMPLY BREAKDOWN INTO DIFFERENT KINDS OF PFAS... WHICH MAY POSE SIMILAR HEALTH THREATS.</p>
+<p>THERE ARE SOME INCINERATORS AROUND THE COUNTRY THAT ARE DESIGNED TO HANDLE HAZARDOUS MATERIALS... THOSE ARE THE KINDS OF PLACES WHERE OLD STOCKS OF FIREFIGHTING FOAM ARE SENT FOR DISPOSAL. THESE FACILITIES ARE DESIGNED TO BURN HOTTER THAN A TYPICAL INCINERATOR... AND ACCORDING TO THE EPA ARE LIKELY MORE EFFECTIVE FOR DESTROYING PFAS.</p>
+<p>BUT THE FOUR MUNICIPAL SOLID WASTE INCINERATORS IN NEW JERSEY ARE NOT MEANT FOR HAZARDOUS MATERIALS... AND IT'S UNCLEAR IF THEY ARE CAPABLE OF FULLY DESTROYING PFAS COMPOUNDS... BECAUSE... ACCORDING TO THE EPA... 1,000 DEGREES CELSIUS IS ON THE UPPER EDGE OF HOW HOT THESE PLACES TYPICALLY BURN. THAT'S A KEY THRESHOLD EPA SAYS IS GENERALLY NEEDED TO BREAK DOWN PFAS... AND THESE FACILITIES MAY NOT ALWAYS BE REACHING IT.</p>
+<p>REWORLD... THE COMPANY FORMERLY CALLED COVANTA... OPERATES THREE OF THE INCINERATORS IN NEW JERSEY... INCLUDING THE ONE IN NEWARK.</p>
+<p>THE COMPANY DIDN'T MAKE ANYONE AVAILABLE FOR AN INTERVIEW... BUT IN A STATEMENT THE COMPANY SAID... THAT WHILE IT DOESN'T EXPLICITLY ACCEPT PFAS WASTE... IT IS AWARE THAT THE CHEMICALS ARE PRESENT IN MANY PRODUCTS THAT END UP IN THE WASTE STREAM... AND IT IS CONFIDENT THAT ITS INCINERATORS BURN HOT ENOUGH TO DESTROY PFAS.</p>
+<p>WITH SO MANY UNKNOWNS... AND WITH GROWING CONCERN ABOUT PFAS EMISSIONS FROM INCINERATORS... WE ASKED GOVERNOR KEAN WHAT HE THINKS ABOUT THE PROBLEM.</p>
+<p>**Gov. Tom Kean -- R, Governor of New Jersey 1982-1990<br />
+**Listen to the science. If the science dictates that it's a danger, then you have to do things differently or do things in conjunction with that scientific inquiry. I don't think there's any other choice. Science is much better now than it was in my day, and we've got to listen to it.</p>
+<p>**Jordan Gass-Pooré -- Host<br />
+**SCIENTISTS IN THE GARDEN STATE AND AROUND THE WORLD ARE HARD AT WORK TRYING TO FIND THE BEST... AND SAFEST... WAYS TO DESTROY PFAS.</p>
+<p>ONE PROMISING METHOD COMBINES HEAT AND PRESSURE TO DESTROY NEARLY ALL OF SOME PFAS CHEMICALS IN WATER. REMEMBER... THERE'S THOUSANDS OF CHEMICALS IN THE PFAS FAMILY.</p>
+<p>IT'S CALLED SUPER CRITICAL WATER OXIDATION... OR SCWO... AND IT WORKS BY USING A SMALL REACTOR TO PRESSURIZE AND HEAT WATER AT EXTREMELY HIGH TEMPERATURES TO RIP APART THE CARBON FLUORINE BONDS... CHARACTERISTIC OF FOREVER CHEMICALS.</p>
+<p>THINK OF IT AS A PFAS PRESSURE COOKER.</p>
+<p>**Zhiming Zhang -- Assistant Professor, College of Engineering, Rowan University<br />
+**For the water to be super critical means the water is at a temperature, a certain temperature and a pressure above its critical point where the water can act like both a gas and a liquid.</p>
+<p>**Jordan Gass-Pooré -- Host<br />
+**THAT'S ZHIMING ZHANG... AN ASSISTANT PROFESSOR OF CIVIL AND ENVIRONMENTAL ENGINEERING AT ROWAN UNIVERSITY IN GLASSBORO, NEW JERSEY.</p>
+<p>HE'S WORKING ON WAYS TO USE THIS TECHNIQUE TO BREAK DOWN DANGEROUS PFAS CHEMICALS INTO HARMLESS BYPRODUCTS.</p>
+<p>OVERALL... THIS TECHNIQUE TAKES JUST SECONDS OR MINUTES... DEPENDING ON THE AMOUNT OF PFAS IN THE WATER. ZHANG AND HIS TEAM THEN CHECK TO MAKE SURE ALL OF THE CHEMICALS HAVE BEEN DESTROYED.</p>
+<p>VERSIONS OF THIS TECHNIQUE HAD BEEN PREVIOUSLY DEVELOPED TO BREAK DOWN OTHER TYPES OF CHEMICALS.</p>
+<p>BUT HE SAYS DESTROYING PFAS IS MORE CHALLENGING.</p>
+<p>**Zhiming Zhang -- Assistant Professor, College of Engineering, Rowan University<br />
+**The carbon fluorine bond is one of the strongest bonds in chemistry. That makes the PFAS resistant to heat, to chemical reactions, to environmental degradation.</p>
+<p>**Jordan Gass-Pooré -- Host<br />
+**THAT MEANS TRYING TO DESTROY PFAS THROUGH INCINERATION MAY BE INEFFECTIVE... ENERGY INTENSIVE... AND EXPENSIVE.</p>
+<p>ZHANG'S METHOD COULD BE AN ALTERNATIVE TO THIS.</p>
+<p>BACK IN EPISODE TWO... WE VISITED RIDGEWOOD, NEW JERSEY... WHERE THE VILLAGE'S WATER COMPANY IS REMOVING PFAS CONTAMINATION BY ABSORBING THE CHEMICALS INTO GRANULAR ACTIVATED CARBON FILTERS.</p>
+<p>THESE FILTERS WORK WELL TO CAPTURE THE PFAS FROM THE WATER. BUT THE PROBLEM IS THAT ONCE IT'S CAPTURED... THE CHEMICALS DON'T GO AWAY.</p>
+<p>WHEN RIDGEWOOD'S USED FILTERS ARE NO LONGER EFFECTIVE... THEY GET SENT BACK TO THE MANUFACTURER AND BLASTED WITH EXTREME HEAT IN AN INCINERATOR TO BE CLEANED FOR REUSE.</p>
+<p>ZHANG SEES A FUTURE WHERE WATER SYSTEMS LIKE RIDGEWOOD SEND THEIR USED... PFAS-LADEN FILTERS TO SUPER CRITICAL WATER OXIDATION FACILITIES FOR CLEANING SO THEY CAN BE REUSED... INSTEAD OF RELYING ON INCINERATION.</p>
+<p>**Zhiming Zhang -- Assistant Professor, College of Engineering, Rowan University<br />
+**In most of the drinking water treatment facilities are still using activated carbon in most cases. So, once they use the activated carbon to filter the water through, to retain the PFAS on the activated carbon, they get clean water to be distributed to the water network. Well, the retained PFAS on the activated carbon can be transported to, like, for SCWO treatment. Otherwise, if those are going to be disposed of they have to be disposed of in the hazardous landfill, which is also costly. So, I think it would be a good combination using both activated carbon as the first step and then treat this activated carbon using SCWO as a second step.</p>
+<p>**Jordan Gass-Pooré -- Host<br />
+**AT THE NEW JERSEY INSTITUTE OF TECHNOLOGY IN NEWARK... ARJUN VENKATESAN IS ALSO TRYING TO FIGURE OUT HOW TO DEAL WITH USED WATER FILTERS.</p>
+<p>NOT JUST THE BIG WATER FILTERS THAT PUBLIC WATER SYSTEMS USE TO SERVE WHOLE COMMUNITIES... BUT ALSO THE LITTLE CARTRIDGES THAT GO IN HOME FILTERS IN KITCHENS AROUND THE COUNTRY.</p>
+<p>**Arjun Venkatesan -- Associate Professor, Department of Civil &amp; Environmental Engineering, New Jersey Institute of Technology<br />
+**I've known people who use Brita filters who never replace the filter. So, you're kind of accumulating these chemicals in your filter, and eventually it's going to leach out. So, you're in much more danger than drinking tap water directly. So, you need to replace these filters very frequently.</p>
+<p>**Jordan Gass-Pooré -- Host<br />
+**MOST PEOPLE END UP THROWING THESE FILTERS IN THE TRASH... WHERE THEY END UP IN EITHER LANDFILLS OR INCINERATORS.</p>
+<p>**Arjun Venkatesan -- Associate Professor, Department of Civil &amp; Environmental Engineering, New Jersey Institute of Technology<br />
+**We have created a PFAS cycle. So, we use them, we concentrate them, we put it back into the environment, and it's eventually going to come back to us again.</p>
+<p>**Jordan Gass-Pooré -- Host<br />
+**THE ONLY WAY TO BREAK THIS CYCLE... IS TO DESTROY PFAS. RIGHT NOW.</p>
+<p>VENKATESAN AND HIS TEAM ARE USING TWO TECHNIQUES TO DESTROY PFAS... ONE CALLED ELECTROCHEMICAL OXIDATION.</p>
+<p>ESSENTIALLY... THIS METHOD USES ELECTRICAL CURRENTS THAT ARE PASSED THROUGH A SOLUTION THAT... WHEN COMBINED WITH OXYGEN... DESTROYS SOME PFAS AND OTHER CHEMICALS.</p>
+<p>THE OTHER... AN ELECTRON BEAM ACCELERATOR. FOR THIS PROCESS...</p>
+<p>**Arjun Venkatesan -- Associate Professor, Department of Civil &amp; Environmental Engineering, New Jersey Institute of Technology<br />
+**We're just bombarding the contaminated water with a beam of electron. And what we have seen is this is actually quite effective in breaking down PFAS molecules, although, right now, at this stage, it's maybe energy intensive, but, like, there's active research by national labs to look at more efficient electron beam accelerators to do that.</p>
+<p>**Jordan Gass-Pooré -- Host<br />
+**BUT VENKATESAN SAYS THERE ARE CHALLENGES.</p>
+<p>**Arjun Venkatesan -- Associate Professor, Department of Civil &amp; Environmental Engineering, New Jersey Institute of Technology<br />
+**We are seeing the disappearance of PFOA and PFOS, but we don't know what they are transforming into. So, they may be forming into other PFAS molecules that we are unable to currently detect.</p>
+<p>**Jordan Gass-Pooré -- Host<br />
+**EVENTUALLY... THE ELECTRON BEAM ACCELERATOR COULD BE USED AS A TOOL FOR ZAPPING TRAPPED PFAS OFF OF USED WATER FILTERS... LARGE AND SMALL. THE TECHNIQUE COULD EVEN BE A KEY TOOL FOR LANDFILLS TO DEAL WITH PFAS IN THEIR LEACHATE.</p>
+<p>**Peter Jaffé -- Professor, Department of Civil &amp; Environmental Engineering, Princeton University<br />
+**This is the engineering quadrangle, and we are in the part that civil environmental engineering in the department focuses both on structural engineering and has a large component of environmental engineering and water resources.</p>
+<p>**Jordan Gass-Pooré -- Host<br />
+**I MET UP WITH PETER JAFFÉ AT HIS LAB ON PRINCETON UNIVERSITY'S CAMPUS.</p>
+<p>IT'S HERE THAT JAFFÉ AND HIS TEAM ARE USING A SOIL BACTERIA FOUND ACROSS SOUTH JERSEY TO DESTROY PFAS IN THE ENVIRONMENT.</p>
+<p>JAFFÉ HAS SPENT YEARS STUDYING HOW THE BACTERIA... SCIENTIFIC NAME... ACIDIMICROBIUM A6... BREAKS DOWN THESE CHEMICALS.</p>
+<p>**Peter Jaffé -- Professor, Department of Civil &amp; Environmental Engineering, Princeton University<br />
+**We did our experiments over and over and we sent it to multiple different labs. We did everything in duplicate or triplicate, just to be sure that there was nothing strange happening. And, lo and behold, it's true -- they are degradable.</p>
+<p>**Jordan Gass-Pooré -- Host<br />
+**THE BACTERIA IS COMMON IN THE ACIDIC... IRON-RICH SOILS OF CENTRAL AND SOUTHERN NEW JERSEY. BUT IT'S VERY SLOW GROWING IN THE WILD.</p>
+<p>UNDER THE RIGHT LAB CONDITIONS THOUGH... THE ROD-SHAPED BACTERIA CAN REPLICATE MORE RAPIDLY. DOWN THE LINE... JAFFÉ SAYS THERE ARE A VARIETY OF WAYS THE BACTERIA COULD BE USEFUL.</p>
+<p>ONE WAY HARKENS BACK TO THIS SHOW'S FIRST SEASON... ABOUT THE NATION'S MOST POLLUTED PLACES... SUPERFUND SITES.</p>
+<p>THE ENZYME THAT ENABLES THE BACTERIA TO GOBBLE UP PFAS COULD BE ISOLATED AND CONCENTRATED IN A WAY THAT COULD BE USED TO CLEAN UP SITES WITH CONTAMINATED SOIL.</p>
+<p>FOR NOW... JAFFÉ AND HIS TEAM ARE RUNNING A PILOT PROGRAM WITH THE U.S. DEPARTMENT OF DEFENSE AND OTHER GOVERNMENT AGENCIES.</p>
+<p>ONE OF THE SITES THEY'RE TESTING IS JOINT BASE MCGUIRE-DIX-LAKEHURST IN THE PINELANDS. WE TALKED ABOUT THIS SITE IN EPISODE TWO BECAUSE OF ITS PFAS POLLUTION CAUSED BY DECADES OF USING AFFF FIRE FIGHTING FOAM.</p>
+<p>**Peter Jaffé -- Professor, Department of Civil &amp; Environmental Engineering, Princeton University<br />
+**The Pine Barrens are low pH soils and iron rich. We saw the bacterium here.</p>
+<p>**Jordan Gass-Pooré -- Host<br />
+**THE DOD IS ONE OF THE MAIN FUNDERS OF RESEARCH ON PFAS DESTRUCTION. MOST OF THE AGENCY'S WORK IS AROUND CLEANING UP THAT FIREFIGHTING FOAM CONTAMINATION ON MILITARY SITES.</p>
+<p>THERE ARE THOUSANDS OF DIFFERENT PFAS... AND MOST HAVEN'T BEEN WELL-STUDIED OR TESTED. SO FOR NOW... IT'S UNCLEAR IF ANY OF THESE DESTRUCTION OPTIONS WILL WORK FOR ALL OF THEM.</p>
+<p>WHILE SCIENTISTS GRAPPLE WITH HOW TO LITERALLY DESTROY PFAS... GOVERNMENT OFFICIALS ARE DECIDING HOW FAR POLLUTERS WILL HAVE TO GO TO CLEAN UP THE MESS.</p>
+<p>LAST YEAR... THE EPA LISTED TWO OF THE MOST COMMON PFAS CHEMICALS... PFOA AND PFOS... AS HAZARDOUS SUBSTANCES UNDER THE FEDERAL SUPERFUND LAW.</p>
+<p>THIS MEANS THAT SITES WITH MAJOR PFAS POLLUTION COULD BE ADDED TO THE NATION'S SUPERFUND LIST... AND ALLOW FEDERAL AUTHORITIES TO TAKE POLLUTERS TO COURT TO FORCE THEM TO PAY FOR THE CLEAN UP.</p>
+<p>IT ALSO MAKES IT EASIER FOR THE AGENCY TO TRACK THE SITES... AND PLAN CLEANUP MEASURES.</p>
+<p>BUT THE U.S. MILITARY... CHEMICAL... AND OIL COMPANIES AREN'T HUGE FANS OF THIS. AND A MAJOR SUPREME COURT DECISION LAST YEAR MIGHT HAVE CREATED A LEGAL OPENING TO UNDERCUT THE NEW SUPERFUND RULES.</p>
+<p>BACK IN JUNE... THE SUPREME COURT'S CONSERVATIVE MAJORITY DECIDED TO OVERTURN THE SO-CALLED CHEVRON DOCTRINE.</p>
+<p>THAT'S A LEGAL PRECEDENT THE COURT SET IN 1984 THAT GAVE FEDERAL AGENCIES... LIKE THE EPA... LEEWAY TO INTERPRET LAWS THAT CONGRESS HAD LEFT VAGUE.</p>
+<p>**Steve Gold -- Professor of Law, Rutgers Law School<br />
+**The justification for it that was presented by conservative legal thinkers and conservative judges was, &quot;Hey, we're only a court. It's not our job to make policy. Congress makes the policy.&quot; Here, Congress made the policy and said to EPA, &quot;We're setting general goals. You figure out exactly how to do it. You figure out exactly what we meant, where we were not clear.&quot; And the court said, &quot;We're just judges. We're not experts, we're not elected. We're not accountable to an elected president. So, we shouldn't be interpreting this. We should be deferring to agencies.&quot; It was viewed as a case of judicial restraint that was viewed as pro-democratic and pro-conservative with a little &quot;c.&quot;</p>
+<p>**Jordan Gass-Pooré -- Host<br />
+**THAT'S STEVE GOLD. HE'S A PROFESSOR AT RUTGERS LAW SCHOOL IN NEWARK. AND HE SPENT ALMOST TWO DECADES ENFORCING FEDERAL ENVIRONMENTAL LAW FOR THE U.S. JUSTICE DEPARTMENT.</p>
+<p>THE NEW DECISION TAKES MUCH OF THAT LEEWAY AWAY... LEAVING AGENCIES MUCH MORE TIGHTLY BOUND TO ONLY TAKING ACTIONS DIRECTLY SPELLED OUT BY CONGRESS.</p>
+<p>THOSE IN FAVOR OF THE STRICT PFAS REGULATIONS FEAR THE DECISION COULD EVENTUALLY INTRODUCE MORE LEGAL COMPLEXITY AROUND THINGS LIKE WHAT THE EPA CAN CONSIDER A HAZARDOUS SUBSTANCE... OR HOW FAR THE EPA CAN GO IN SETTING NEW DRINKING WATER STANDARDS.</p>
+<p>HERE'S GOLD AGAIN.</p>
+<p>**Steve Gold -- Professor of Law, Rutgers Law School<br />
+**The bigger issue that implicates Chevron is: Can it somehow be said that EPA has acted beyond the authority Congress gave it? I think for the hazardous substance designation that would be very, very difficult. The Superfund law, quite clearly, grants EPA the authority to add new hazardous substances to the list if EPA determines that those substances, when released into the environment, may present substantial danger to the public health or welfare or the environment. With a straight-shooting court, it would be very, very hard to say that EPA exceeded its authority that way. The Safe Drinking Water Act standards are a little bit trickier, because in addition to regulating individual compounds, EPA has regulated mixtures, and there's a debate about whether the Safe Drinking Water Act grants EPA that power.</p>
+<p>**Jordan Gass-Pooré -- Host<br />
+**AND THE COURTS AREN'T THE ONLY PLACE WHERE THE EPA'S NEWEST PFAS POLICIES MIGHT BE AT RISK.</p>
+<p>THE LATEST WAVE OF FEDERAL PFAS ACTION... DRINKING WATER STANDARDS... THE SUPERFUND UPDATE AND MORE... WERE PUT IN PLACE BY PRESIDENT JOE BIDEN'S ADMINISTRATION.</p>
+<p>BUT BIDEN LOST NOVEMBER'S ELECTION... AND NOW DONALD TRUMP IS SET TO RETURN TO THE WHITE HOUSE IN JANUARY.</p>
+<p>THE HERITAGE FOUNDATION... WHICH IS A HIGHLY INFLUENTIAL CONSERVATIVE THINK TANK... CREATED A POLICY BLUEPRINT FOR THE TRUMP ADMINISTRATION CALLED PROJECT 2025.</p>
+<p>IT'S A SWEEPING SET OF CONSERVATIVE GOALS FOR ALL SORTS OF POLICIES... NOT JUST ENVIRONMENTAL. BUT ONE PART OF IT CALLS FOR REMOVING PFOA AND PFOS FROM THE HAZARDOUS SUBSTANCES LIST.</p>
+<p>DURING HIS FIRST TERM... THE TRUMP ADMINISTRATION TOUTED IT'S PFAS ACTION PLAN... WHICH TRIED TO TAKE ON THE PFAS PROBLEM IN MULTIPLE WAYS. THAT INCLUDED PROPOSALS TO REGULATE PFAS IN DRINKING WATER... AND THE HAZARDOUS SUBSTANCE DESIGNATION THAT THE BIDEN ADMINISTRATION WOULD LATER REFINE AND FINALIZE.</p>
+<p>**Andrew Wheeler -- Former Administrator, U.S. Environmental Protection Agency. 2019<br />
+**This is the first time we've utilized all of our program offices to deal with an emerging chemical of concern. It is the first time we've put together a multimedia, multiprogram national research and risk communication plan to address a challenge like PFAS. It is also the first time we have held press conferences in all ten of our regions simultaneously on the same topic, and we're doing that because of the importance of this issue in so many communities around the entire country.</p>
+<p>**Jordan Gass-Pooré -- Host<br />
+**THAT'S ANDREW WHEELER... WHO LED THE EPA UNDER THE FIRST TRUMP ADMINISTRATION. HE UNVEILED THAT BIG PLAN IN 2019.</p>
+<p>**Andrew Wheeler -- Former Administrator, U.S. Environmental Protection Agency. 2019<br />
+**This action plan represents a pivotal moment in the history of the agency, and a pivotal moment for public health and environmental protection.</p>
+<p>**Jordan Gass-Pooré -- Host<br />
+**BUT MANY ENVIRONMENTAL ADVOCATES CRITICIZED THE EPA UNDER TRUMP... LED BY POLITICAL APPOINTEES WITH DEEP TIES TO POLLUTING INDUSTRIES... FOR DRAGGING ITS FEET ON PFAS ISSUES.</p>
+<p>IN ONE CASE FOUND BY THE NEW YORK TIMES... A TRUMP-SELECTED DEPUTY IN THE EPA'S TOXIC CHEMICALS UNIT ORDERED CAREER STAFF TO REWRITE A RULE TO MAKE IT HARDER TO TRACK THE HEALTH IMPACTS OF PFOA.</p>
+<p>MEMBERS OF CONGRESS WHO FELT THE TRUMP EPA WAS TAKING TOO LONG TO ACT COMPLAINED THAT TRUMP THREATENED TO VETO BIPARTISAN LEGISLATION AIMED AT DEALING WITH PFAS.</p>
+<p>CONGRESSMAN FRANK PALLONE... THE POWERFUL NEW JERSEY DEMOCRAT... SAID AS MUCH IN A 2020 SPEECH ON THE HOUSE FLOOR.</p>
+<p>**Rep. Frank Pallone -- D, NJ 6th Congressional District. 2020<br />
+**The EPA has known about these risks for decades and has allowed this contamination to spread. Last year, EPA announced its PFAS Action Plan --- it was woefully inadequate and since that time we've learned that EPA is not even keeping the weak commitments it made in that plan. The Trump administration is failing hundreds of impacted communities, and Congress must act for communities like Hoosick Falls, New York; Parchment, Michigan; Parkersburg, West Virginia; and far too many more. We need to act on behalf of states like my own, New Jersey, that are doing everything they can: adopting protective state drinking water standards, pursuing natural resource damage cases, but facing strong opposition from federal agencies under the Trump administration.</p>
+<p>**Jordan Gass-Pooré -- Host<br />
+**THE MAN WHO WILL TAKE THE LEAD ON PFAS ISSUES FOR TRUMP'S SECOND TERM WILL BE HIS PICK TO RUN THE EPA... FORMER CONGRESSMAN LEE ZELDIN... WHO PREVIOUSLY REPRESENTED MUCH OF LONG ISLAND.</p>
+<p>ZELDIN TOOK A KEEN INTEREST IN PFAS POLLUTION AT NAVAL WEAPONS INDUSTRIAL RESERVE PLANT CALVERTON... A NOW DEFUNCT FACILITY IN HIS DISTRICT WHERE GRUMMAN CORPORATION USED TO TEST FIGHTER JETS.</p>
+<p>LIKE AT SO MANY OTHER AIRPORTS AND MILITARY BASES... PAST USE OF FIREFIGHTING FOAM IS THE SOURCE OF CALVERTON'S PFAS PROBLEM.</p>
+<p>AS A CONGRESSMAN... ZELDIN TRIED TO HOLD THE U.S. NAVY ACCOUNTABLE FOR PFAS POLLUTION AT THE BASE.</p>
+<p>HERE HE IS SPEAKING AT A PRESS CONFERENCE IN 2021.</p>
+<p>**Lee Zeldin -- Nominee for U.S. EPA Administrator. 2021<br />
+**When it comes to Long Islanders' drinking water, there is no room for error. And there are many individuals in this area who have been suffering as a result of decades-long activity at the Naval Weapons Industrial Reserve Plant. Now, originally, the Navy didn't want to do any of the surrounding testing at all. In 2018, they agreed to do it for a one-mile radius. In light of new developments, we are urging the Navy to step-up and not only to expand testing, but to cover the costs of remediation. A failure to act is not an option. But every step of the way, the Navy, with regards to this effort, has dragged its feet.</p>
+<p>**Jordan Gass-Pooré -- Host<br />
+**ON CAPITOL HILL... ZELDIN VOTED FOR BILLS TO REQUIRE PFAS STANDARDS IN DRINKING WATER... LIMIT PFAS AIR POLLUTION... REQUIRE PFAS CLEAN UP ON MILITARY BASES... STOP INDUSTRIAL PFAS DUMPING INTO WATERWAYS... CREATE NEW RESTRICTIONS ON PFAS INCINERATION... AND REQUIRE NEW HEALTH TESTING PROGRAMS FOR THE CHEMICALS.</p>
+<p>BUT OUTSIDE OF PFAS ISSUES... ZELDIN HAD A MUCH LESS ENVIRONMENTALLY FRIENDLY RECORD.</p>
+<p>HE HAS A LIFETIME SCORE OF JUST 14% FROM THE LEAGUE OF CONSERVATION VOTERS FOR HIS VOTES AS A CONGRESSMAN.</p>
+<p>AND AFTER TRUMP ANNOUNCED ZELDIN WAS HIS PICK TO RUN THE EPA... ZELDIN PLEDGED TO RUN THE AGENCY IN A WAY THAT WOULD FOCUS ON BOOSTING INDUSTRY.</p>
+<p>THAT TYPE OF RHETORIC IN THE PAST HAS MEANT ROLLING BACK ENVIRONMENTAL PROTECTIONS... BUT ONLY TIME WILL TELL.</p>
+<p>HERE'S WHAT ZELDIN SAID ON FOX NEWS THE DAY TRUMP ANNOUNCED HIS NOMINATION.</p>
+<p>**Lee Zeldin -- Nominee for U.S. EPA Administrator.<br />
+**One of the biggest issues for so many Americans was the economy, and the president was talking about unleashing economic prosperity. Through the EPA, we have the ability to pursue energy dominance, to be able to make the United States the artificial intelligence capital of the world, to bring back American jobs to the auto industry, and so much more.</p>
+<p>**Jordan Gass-Pooré -- Host<br />
+**WHATEVER HAPPENS AT THE FEDERAL LEVEL UNDER TRUMP... NEW JERSEY LEADERS HAVE PLEDGED TO HAVE THE STATE REMAIN A LEADER IN DEALING WITH PFAS.</p>
+<p>**Shawn LaTourette -- Commissioner, New Jersey Department of Environmental Protection<br />
+**It is not the case that we, the royal we, the societal we, on either the national or the state level, have gotten our arms around every tentacle of the PFAS problem. We have not. Not on the state level, and most certainly not on the federal level. And there's a good question as to whether over the next four years we will make any more progress on the federal level. We'll see. We'll see, I remain hopeful, because everyone should be interested in the public health.</p>
+<p>**Jordan Gass-Pooré -- Host<br />
+**SHAWN LATOURETTE... COMMISSIONER OF THE NEW JERSEY DEPARTMENT OF ENVIRONMENTAL PROTECTION... IS CLEAR-EYED ABOUT THE PFAS CHALLENGE.</p>
+<p>A CAREER ENVIRONMENTAL LAWYER WITH A FOCUS ON TOXIC POLLUTION... HE WAS FIRST BROUGHT INTO THE DEPARTMENT TO SHAPE THE GARDEN STATE'S PLAN TO HOLD BIG CHEMICAL COMPANIES ACCOUNTABLE.</p>
+<p>**Shawn LaTourette -- Commissioner, New Jersey Department of Environmental Protection<br />
+**What we had to do was sue all of them, ultimately. Solvay was the first to settle. Arkema will come next. The next domino will fall. DuPont will come to that table. So will Chemours. So will 3M. And when we first started this, after I had then become commissioner, I took meetings with executives from some of these companies, and I was very clear with them, there's not a question about whether or not they pay for what they have done, there is only the question of when.</p>
+<p>**Jordan Gass-Pooré -- Host<br />
+**DEALING WITH PFAS REMAINS A TOP PRIORITY IN NEW JERSEY.</p>
+<p>THE STATE IS STILL ON THE CUTTING EDGE OF RESEARCH... IS OFTEN AHEAD OF THE CURVE IN CREATING NEW REGULATIONS... AND HAS HAD NO HESITATION IN TAKING PFAS CASES TO COURT.</p>
+<p>FOR THE PAST FOUR YEARS... LATOURETTE AND HIS DEPARTMENT HAVE BEEN ALIGNED WITH THE BIDEN EPA.</p>
+<p>BUT LATOURETTE KNOWS THAT THE NEXT FOUR YEARS MAY BE A DIFFERENT EXPERIENCE.</p>
+<p>**Shawn LaTourette -- Commissioner, New Jersey Department of Environmental Protection<br />
+**I think they'll ignore me. I won't let them. What I've told folks about a change in administration, is number one: I'm not scared. New Jersey has led the nation in this subject matter, PFAS and environmental protection, generally, and we will just keep doing that, and whether it's to my colleagues at the DEP, folks in the sector of environmental, non-government organizations, and even folks at the EPA, what I would tell them is: I am not giving up, and neither should you.</p>
+<p>**Jordan Gass-Pooré -- Host<br />
+**I'M NOT PSYCHIC... I CAN'T TELL THE FUTURE... BELIEVE IT OR NOT... BUT WHAT I'VE LEARNED OVER THE PAST TWO YEARS WORKING ON HAZARD NJ IS THAT AS BAD AS THINGS GET... THERE ARE ALWAYS PEOPLE WHO WILL STAND UP FOR WHAT'S RIGHT...</p>
+<p>...PEOPLE WHO REFUSE TO ALLOW COMPANIES OR GOVERNMENTS TO DUMP HAZARDOUS CHEMICALS INTO THEIR DRINKING WATER... WHO QUESTION WHY THEIR NEIGHBORHOOD HAS SUPERFUND SITES... A LANDFILL... AND AN INCINERATOR... WHILE OTHERS DON'T.</p>
+<p>IT'S HARD FOR ME TO NOT LIVE IN THE DOOM AND GLOOM. AND BEING THE HUGE HORROR FAN THAT I AM... I KNOW THAT LIKE JASON... THE VILLAIN ALWAYS RETURNS.</p>
+<p>BUT AS FAR AS I KNOW... PFAS HASN'T BEEN FOUND AT THE CAMP IN WARREN COUNTY I TOURED EARLIER IN THIS EPISODE. AND NEITHER HAS JASON.</p>
+<p>THAT DOESN'T MEAN THIS SEASON ABOUT PFAS HASN'T CHANGED HOW I GO ABOUT MY DAY.</p>
+<p>IT'S GOT ME THINKING TWICE ABOUT DRINKING MY COFFEE FROM ANYTHING OTHER THAN A STAINLESS-STEEL MUG... AND ORDERING TAKE OUT.</p>
+<p>FOR THE PAST TWO YEARS... I'VE TALKED ABOUT TOXIC SITES... WITH YOU... AND WITH MY FRIENDS AND FAMILY. TRUST ME... I AM THE LIFE OF THE PARTY.</p>
+<p>I'LL CATCH MYSELF ASKING MY AUNT IN TEXAS IF THEY'VE TESTED HER WELL WATER... AND THAT I KNOW A GUY WHO CAN GET HER A CHEAP WATER TESTING KIT.</p>
+<p>OKAY... YOU'VE HEARD ME TALK NOW FOR MORE THAN 30 MINUTES. I'LL GET RIGHT TO THE POINT... THIS IS THE FINAL EPISODE OF THE HAZARD NJ PODCAST. I'M NOT GOOD AT GOODBYES. SO... I'LL LEAVE YOU WITH THIS... A CLIP FROM THE MOVIE GARDEN STATE.</p>
+<p>HAZARD NJ IS AN NJ SPOTLIGHT NEWS PRODUCTION... YOU CAN SUPPORT OUR REPORTING BY HEADING TO <a href="http://njspotlightnews.org/DONATE" target="_blank">NJSPOTLIGHTNEWS.ORG/DONATE</a>.</p>
+<h3 id="credits" tabindex="-1">Credits</h3>
+<p>Hazard NJ is reported and written by host Jordan Gass-Pooré and producer Michael Sol Warren</p>
+<p>Executive Producer – Jamie Kraft</p>
+<p>Executive in Charge of Production – Joe Lee</p>
+<p>Production Manager – Chloe Motisi</p>
+<p>Research Assistant — Judah Duke</p>
+<p>Sound Designer &amp; Engineer – Mark Bush</p>
+<p>Composer – Nick Pennington</p>
+<p>Art – Matthew Fleming</p>
+]]></content:encoded>
+        <enclosure length="95906048" type="audio/mpeg" url="https://mcdn.podbean.com/mf/web/euavkxw4j9fj4w9m/Hazard-NJ_S2E4_MB_01082025.mp3" />
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>00:39:57</itunes:duration>
+	</item>
+	
+	<item>
+		<title>Hazard NJ Podcast - Tainted Blood - Season 3: Episode 3</title>
+		<link>https://hazardpodcast.com/episode/episode-16-nj-s2-e3-tainted-blood/?source=rss</link>
+		<pubDate>Wed, 04 Dec 2024 05:07:43 GMT</pubDate>
+		<dc:creator>Jordan Gass-Poore</dc:creator>
+		<guid isPermaLink="true">https://hazardpodcast.com/episode/episode-16-nj-s2-e3-tainted-blood/</guid>
+        <itunes:image href="https://hazardpodcast.com/img/HazardNJ-Album-Cover.jpg" />
+		<description>'Forever chemicals' have been so widely used, for so many purposes, for so many decades, that they are now in all of our blood. But what does that mean for our health? A team of Rutgers University researchers is trying to help answer that question by studying the blood of residents in Paulsboro, New Jersey, where a high-profile pollution incident left the town’s water supply contaminated for years.</description>
+        <itunes:subtitle><![CDATA['Forever chemicals' have been so widely used, for so many purposes, for so many decades, that they are now in all of our blood]]></itunes:subtitle>
+        <itunes:summary><![CDATA['Forever chemicals' have been so widely used, for so many purposes, for so many decades, that they are now in all of our blood. But what does that mean for our health? A team of Rutgers University researchers is trying to help answer that question by studying the blood of residents in Paulsboro, New Jersey, where a high-profile pollution incident left the town’s water supply contaminated for years.]]></itunes:summary>
+		<content:encoded><![CDATA[<iframe title="Hazard NJ Season 2, Episode 3: Tainted Blood" allowtransparency="true" height="400" width="100%" style="border: none; min-width: min(100%, 430px);height:400px;" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?from=embed&pbad=0&i=qatbu-174ab65-pb&square=1&share=1&download=1&fonts=Arial&skin=f6f6f6&font-color=auto&rtl=0&logo_link=episode_page&btn-skin=7&size=300" loading="lazy" allowfullscreen=""></iframe>
+<p>“Forever chemicals” have been so widely used, for so many purposes, for so many decades, that they are now in all of our blood. But what does that mean for our health? A team of Rutgers University researchers is trying to help answer that question by studying the blood of residents in Paulsboro, New Jersey, where a high-profile pollution incident left the town’s water supply contaminated for years.</p>
+<p><em><strong>Editor's Note: &quot;Hazard NJ&quot; is an NJ Spotlight News podcast that examines serious pollution issues. Season 2 dives deep into the crisis of toxic pollution caused by PFAS, or &quot;forever chemicals,&quot; around New Jersey and beyond. Subscribe to the podcast on <a href="https://podcasts.apple.com/us/podcast/hazard-nj/id1622849571" target="_blank">Apple Podcasts</a>, <a href="https://open.spotify.com/show/30cCzv4iuGTIdr44eyHIfS?si=3w9tD2Z-QNa5coc8l4RIYw&amp;nd=1" target="_blank">Spotify</a>, <a href="https://music.amazon.com/podcasts/f36c7ea7-0e39-48be-b9aa-a2914be8a837/hazard-nj" target="_blank">Amazon Music</a> and more.</strong></em></p>
+<h3 id="read-the-episode-transcript-below:" tabindex="-1">Read the episode transcript below:</h3>
+<p>**Jordan Gass-Pooré -- Host<br />
+**YOU CAN'T SEE IT...</p>
+<p>...SMELL IT...</p>
+<p>...OR TASTE IT.</p>
+<p>BUT IT'S INSIDE NEARLY ALL OF US.</p>
+<p>PFAS ARE THE FOREVER CHEMICALS THAT LURK IN OUR BLOOD. HOW THEY GOT THERE... WELL... IN THIS HORROR STORY... THE EVIL LIES IN OUR TAP WATER.</p>
+<p>THIS IS HAZARD NJ... A LIMITED SERIES THAT SERVES UP THE TOXIC TRUTH ABOUT PFAS IN NEW JERSEY'S WATER... ONE GLASS AT A TIME.</p>
+<p>ON THIS EPISODE... WE LOOK TO ONE NEW JERSEY TOWN'S POLLUTED PAST TO BETTER UNDERSTAND ITS MURKY FUTURE.</p>
+<p>I'M JORDAN GASS-POORÉ... AN INVESTIGATIVE JOURNALIST FROM TEXAS.</p>
+<p>THE FIRST RATED R MOVIE I EVER SAW IN THEATERS WAS ERIN BROCKOVICH. FOR THOSE UNFAMILIAR WITH THE MOVIE... IT'S BASED ON A TRUE STORY... ABOUT A WOMAN IN THE '90S WHO DROPS A LOT OF F-BOMBS AND HELPS INVESTIGATE WATER CONTAMINATION IN A SMALL CALIFORNIA TOWN.</p>
+<p>I'M SURE I'M NOT THE ONLY MILLENNIAL CLIMATE JOURNALIST WHO CITES THIS MOVIE... AND THE REAL-LIFE ERIN BROCKOVICH... AS A REASON FOR GETTING INTO THIS BEAT.</p>
+<p>NOW... ERIN BROCKOVICH IS SOUNDING THE ALARM ABOUT PFAS. AND I AM TOO.</p>
+<p>THIS EPISODE HAS PARALLELS TO THAT CASE IN CALIFORNIA. IT'S ABOUT A SMALL TOWN WHOSE WATER WAS CONTAMINATED BY A BIG COMPANY. BUT THERE'S UNIQUE TWISTS AND TURNS.</p>
+<p>WELCOME TO PAULSBORO, NEW JERSEY... WHERE PFAS HAS SEEPED INTO THE LIVES OF THE TOWN'S RESIDENTS.</p>
+<p>**Patricia Puntier -- Paulsboro resident<br />
+**I never trust the water. I don't recommend it for folks.</p>
+<p>**Carmen Costa -- Former Paulsboro resident<br />
+**You're consuming this stuff. And it was always something in the back of your mind. And then people who weren't from town who would come to town, they'd be like, 'What is that smell?' And it was always, like, 'Welcome to Paulsboro.' And for a while, it was kind of a joke: That's why our athletes were so good, because of the water and the smog.</p>
+<p>**Jordan Gass-Pooré -- Host<br />
+**THERE'S SOMETHING IN THE WATER IN PAULSBORO... SAYS MANY OF THE PEOPLE WHO LIVE THERE.</p>
+<p>NO ONE KNOWS WHEN IT STARTED.</p>
+<p>BUT IT WAS FIRST FOUND IN A PUBLIC WATER WELL IN 2009. AND REMAINED THERE FOUR YEARS LATER.</p>
+<p>THIS SOUNDS LIKE THE STUFF OF LEGEND... A CAMPFIRE TALE.</p>
+<p>AND I WISH IT WAS.</p>
+<p>PFNA... A COMMON PFAS CHEMICAL... DOESN'T QUITE HAVE THE SAME RING TO IT AS SAY JASON OR MICHAEL MYERS... BUT THE NAME STILL STRIKES FEAR IN THE COMMUNITIES WHERE THE CHEMICAL HIDES.</p>
+<p>PAULSBORO IS A SMALL INDUSTRIAL TOWN ON THE BANKS OF THE DELAWARE RIVER.</p>
+<p>BEFORE 2013... THE TOWN WAS KNOWN FOR THE LOCAL HIGH SCHOOL'S POWERHOUSE WRESTLING TEAM... A SPRAWLING REFINERY... ITS LIGHTHOUSE AND BEING FEATURED IN KEVIN SMITH'S MOVIE... JERSEY GIRL.</p>
+<p>BUT FOR DECADES THE CHEMICAL PERFLUORONONANOIC ACID... A MEMBER OF THE PFAS FAMILY... KNOWN SIMPLY AS PFNA... HAD UNKNOWINGLY BEEN TAINTING PAULSBORO'S WATER.</p>
+<p>PFNA WAS DISCOVERED AT HIGH LEVELS IN PUBLIC DRINKING WATER SOURCES AROUND NEW JERSEY BY STATE RESEARCHERS IN 2009... BUT THE STUDY WAS NOT MADE PUBLIC UNTIL FIVE YEARS LATER.</p>
+<p>AT THAT TIME... THERE WEREN'T STANDARDS FOR PFNA OR ANY OTHER PFAS CHEMICALS IN GROUNDWATER... OR DRINKING WATER. SO... THE CHEMICAL REMAINED THERE FOR YEARS.</p>
+<p>ACTIVISTS FROM THE DELAWARE RIVERKEEPER NETWORK KNEW A STUDY HAD BEEN DONE... BUT HAD TO FIGHT WITH STATE AUTHORITIES TO GAIN ACCESS TO THE PUBLIC RECORDS WITH THE RESULTS.</p>
+<p>EVENTUALLY IN 2013 THE ACTIVISTS GOT A HOLD OF THE STATE'S DATA... AND FOUND THAT PAULSBORO WAS ONE OF 22 WATER SYSTEMS IN NEW JERSEY THAT HAD ITS SOURCE TAINTED BY PFAS.</p>
+<p>**Christie Duffy -- NJTV News<br />
+**The chemical is a perfluorinated compound known as PFNA. It's potentially dangerous and it's not regulated. DEP findings point to this plastics company as a probable source.</p>
+<p>STATE OFFICIALS WOULD LATER SAY THAT THE LEVELS OF PFNA FOUND IN PAULSBORO'S DRINKING WATER SYSTEM WERE THE HIGHEST EVER DETECTED IN DRINKING WATER... ANYWHERE IN THE WORLD.</p>
+<p>AS THE SCOPE OF THE POLLUTION BECAME CLEAR... THE STATE BEGAN PAYING TO INSTALL FILTERS ON PRIVATE WELLS THROUGHOUT THE AREA.</p>
+<p>BUT PAULSBORO'S WATER UTILITY HAD A UNIQUE PROBLEM.</p>
+<p>THE WATER SYSTEM WAS SUPPLIED BY THREE WELLS... AND WHEN NEWS OF THE CONTAMINATION BROKE... TWO OF THOSE WELLS WERE ALREADY OFFLINE BECAUSE THEY WERE BEING UPGRADED TO DEAL WITH A NATURALLY OCCURRING RADIUM PROBLEM.</p>
+<p>THAT LEFT ONE WELL SUPPLYING THE ENTIRE PAULSBORO SYSTEM... AND THAT WELL WAS THE ONE MOST AFFECTED BY THE PFNA POLLUTION. IT WOULD BE MONTHS BEFORE THE BOROUGH WAS ABLE TO SHUT THAT WELL DOWN AND SWITCH TO THE OTHER TWO.</p>
+<p>IN THE MEANTIME... PAULSBORO RESIDENTS WERE URGED TO AVOID DRINKING THEIR TAP WATER... AND STATE AUTHORITIES WARNED THAT CHILDREN UNDER ONE YEAR OLD WERE PARTICULARLY AT RISK. THE LOCAL HARDWARE STORE HANDED OUT BOTTLED WATER.</p>
+<p>NEWS ABOUT THE CONTAMINATION IMMEDIATELY SPARKED CONCERN IN PAULSBORO AND SURROUNDING TOWNS. WHEN THEN-GOVERNOR CHRIS CHRISTIE VISITED THE AREA TO TOUT NEW INVESTMENT IN THE PORT OF PAULSBORO... A PAIR OF LOCAL PROTESTORS AND THEIR CHILDREN WERE WAITING FOR HIM WITH PITCHERS OF TAP WATER AND PAPER CUPS.</p>
+<p>THEY WANTED TO OFFER CHRISTIE A DRINK.</p>
+<p>ALIYAH JONES...ONE OF THE PROTESTORS... TOLD THE SOUTH JERSEY TIMES THAT DAY QUOTE... IF HE DRINKS IT... I'LL DRINK IT.</p>
+<p>POLICE REMOVED THE PROTESTORS FROM THE EVENT MINUTES BEFORE CHRISTIE ARRIVED. HE DID NOT DRINK THE WATER.</p>
+<p>FILTERS WERE EVENTUALLY INSTALLED IN THE PROBLEM WELL TO REMOVE THE PFNA... AND THE WELL REOPENED IN 2016.</p>
+<p>**Dr. Robert Laumbach -- Associate Professor, Rutgers University Environmental and Occupational Health Sciences Institute<br />
+**Since then, the water has been treated and it's tested and PFAS levels are within standards. They're below detectable levels. But there's concern that because PFAS stay in the body for a long period of time and has long-term health effects potentially.</p>
+<p>**Jordan Gass-Pooré -- Host<br />
+**THAT'S DOCTOR ROBERT LAUMBACH. HE'S AN ASSOCIATE PROFESSOR AT RUTGERS UNIVERSITY WHO IS LEADING A STUDY IN PAULSBORO INTO THE HEALTH EFFECTS OF LONG-TERM PFAS EXPOSURE.</p>
+<p>AN EARLIER STUDY CONDUCTED IN 2017 BY LAUMBACH AND OTHER RESEARCHERS FOUND THAT OUT OF THE 186 PAULSBORO RESIDENTS THAT VOLUNTEERED TO SHARE THEIR PFAS RESULTS... ALL OF THEM HAD PFNA IN THEIR BLOOD AT LEVELS ABOUT FOUR TIMES HIGHER THAN THE NATIONAL RATE.</p>
+<p>THE RESEARCHERS ALSO FOUND THAT EXPOSURE TO PFNA WAS ASSOCIATED WITH HIGH CHOLESTEROL.</p>
+<p>LAUMBACH SAYS THE 2017 RESEARCH MADE CLEAR THAT MORE STUDIES ARE NEEDED TO BETTER UNDERSTAND THE POTENTIAL HEALTH RISKS OF PFNA AND OTHER PFAS.</p>
+<p>**Dr. Robert Laumbach -- Associate Professor, Rutgers University Environmental and Occupational Health Sciences Institute<br />
+**So, certainly the cholesterol connection. But then also reproductive effects, thyroid conditions, other hormonal conditions, other health conditions, cardiovascular pulmonary. Essentially, just about any organ system, and there have been reports in the literature, especially among animal studies where most of the work has been done showing that there are a lot of associations with a lot of different health effects.</p>
+<p>**Jordan Gass-Pooré -- Host<br />
+**PFNA HAS BEEN FOUND IN THE TAP WATER OF AT LEAST 13 STATES... . THE KICKER IS THAT UNLIKE OTHER PFAS CHEMICALS... PFNA ISN'T AS COMMONLY USED IN CONSUMER PRODUCTS. BUT IT DOES HAVE OTHER USES.</p>
+<p>ABOUT A TEN-MINUTE DRIVE FROM PAULSBORO IS THE TOWN OF WEST DEPTFORD... HOME TO A PLASTICS FACTORY OWNED AND OPERATED BY SOLVAY SPECIALTY POLYMERS.</p>
+<p>THE COMPANY WAS A SUBSIDIARY OF THE BELGIUM-BASED CHEMICAL GIANT SOLVAY UNTIL LATE LAST YEAR... WHEN SOLVAY CREATED A SPIN-OFF COMPANY CALLED SYENSQO... ALSO BASED IN BELGIUM.</p>
+<p>**Geoff Pass -- Former site manager, Solvay Specialty Polymers<br />
+**First, let me tell you a little bit about what we do here at Solvay, we manufacture plastics. Not just any plastics, but high-tech plastics made predominately from fluorine chemistry. And what's special about fluorine chemistry is that it's very durable, very reliable. So, it's used a lot in applications that require long durability, resistance to chemicals from the environment, resistance to sunlight. Resistance to heat. So, a lot of what we manufacture for goes into automotive applications, construction, architectural coatings. It goes into alternative energies, such as solar panels. So, we manufacture into a lot of different industries from this plant.</p>
+<p>**Jordan Gass-Pooré -- Host<br />
+**THAT WAS GEOFF PASS... THE FORMER SITE MANAGER OF THE SOLVAY PLANT IN WEST DEPTFORD... TALKING TO &quot;EYE ON PAULSBORO&quot; IN 2014. WHEN PASS SAID SOLVAY USED &quot;FLUORINE CHEMISTRY&quot; ... HE WAS TALKING ABOUT PFAS CHEMICALS LIKE PFNA. SOLVAY USED TO USE PFNA TO MAKE SPECIALTY PLASTICS... AND TODAY PFNA HAS BEEN FOUND IN THE GROUNDWATER NEAR THE WEST DEPTFORD PLANT. ABOUT 50 PRIVATE WELLS IN THAT TOWN WERE ALSO FOUND TO HAVE HIGH PFAS LEVELS.</p>
+<p>**Geoff Pass -- Former site manager, Solvay Specialty Polymers<br />
+**It is important for me to say that certainly our action is not an admission of fault or liability, but rather motivated from our values. So, it's important that we say that, thank you.</p>
+<p>**Jordan Gass-Pooré -- Host<br />
+**STATE OFFICIALS BLAME THE TOWN'S PFAS PROBLEMS ON SOLVAY.</p>
+<p>THEY SUED THE COMPANY IN 2020... ACCUSING SOLVAY OF EMITTING OLD AND NEW PFAS CHEMICALS INTO THE ENVIRONMENT FROM ITS WEST DEPTFORD PLANT.</p>
+<p>THE STATE ALSO NAMED ARKEMA IN THAT LAWSUIT. ARKEMA IS THE CHEMICAL COMPANY THAT OWNED THE PLANT BEFORE SOLVAY AND HAD ITS OWN HISTORY OF PFAS USE.</p>
+<p>SOLVAY EVENTUALLY AGREED TO PAY THE STATE NEARLY $393 MILLION TO CLEAN UP CURRENT AND FUTURE PFAS CONTAMINATION FROM ITS WEST DEPTFORD PLANT AS PART OF A SETTLEMENT APPROVED IN STATE COURT EARLIER THIS YEAR. THE STATE HAS PROPOSED A SEPARATE SETTLEMENT WITH ARKEMA FOR ROUGHLY $34 MILLION. THAT DEAL STILL NEEDS COURT APPROVAL.</p>
+<p>**Shawn LaTourette -- Commissioner, New Jersey Department of Environmental Protection<br />
+**What we're here today to mark, is our taking the next steps in implementing the settlement that has been achieved with this facility.</p>
+<p>**Jordan Gass-Pooré -- Host<br />
+**THAT'S SHAWN LATOURETTE... NEW JERSEY'S COMMISSIONER OF ENVIRONMENTAL PROTECTION. HE'S SPEAKING AT AN INFORMATION SESSION ON THE SOLVAY SETTLEMENT THE DEP HOSTED IN NOVEMBER IN WEST DEPTFORD.</p>
+<p>NO ONE FROM SOLVAY ATTENDED THIS COMMUNITY MEETING. BUT THE DEP SAID THE COMPANY MAY HOST THEIR OWN MEETING IN JANUARY.</p>
+<p>ABOUT $100 MILLION OF THE SETTLEMENT MONEY WILL COVER THE COSTS OF FILTERING PFAS FROM LOCAL WATER SYSTEMS WHERE IT'S BEEN DETECTED AND TESTING OTHERS. THIS INCLUDES REIMBURSING HOMEOWNERS FOR OUT-OF-POCKET EXPENSES RELATED TO THE CONTAMINATION.</p>
+<p>HERE'S LATOURETTE AGAIN.</p>
+<p>**Shawn LaTourette -- Commissioner, New Jersey Department of Environmental Protection<br />
+**What we have before us now is a process for implementing the settlement that has been achieved, that they clean up their contamination in a timely manner pursuant to the directions of the DEP, and that they provide resources that will be used to help the residents of the communities that have been harmed by their actions. Particularly in ensuring access to funding for our water providers.</p>
+<p>**Jordan Gass-Pooré -- Host<br />
+**BUT MOST OF THE MONEY... AN ESTIMATED $214 MILLION... WILL BE SPENT ON REMOVING PFAS POLLUTION FROM FACTORY SITES AND SURROUNDING PARTS OF WEST DEPTFORD. LATOURETTE ACKNOWLEDGED THIS COST COULD EVENTUALLY BE MUCH HIGHER THAN THE FUNDS AGREED TO IN THE SETTLEMENT.</p>
+<p>**Shawn LaTourette -- Commissioner, New Jersey Department of Environmental Protection<br />
+**It is not uncommon to begin a cleanup and to find out that that contamination incident has tentacles that spread a little further than you originally thought it did, and so that makes the cost increase. And if that happens here, then the funding source will increase, too.</p>
+<p>**Jordan Gass-Pooré -- Host<br />
+**OTHER SETTLEMENT FUNDS WILL GO TOWARD IMPROVING NATURAL RESOURCES IN THE AREA... INCLUDING WETLANDS... TO COMPENSATE FOR SOLVAY'S DAMAGE.</p>
+<p>SOLVAY VOLUNTARILY STOPPED USING PFOA... WHICH IS A DIFFERENT KIND OF PFAS CHEMICAL... AT THE WEST DEPTFORD PLANT IN 2003... AND PFNA IN 2010.  BUT THE DAMAGE WAS ALREADY DONE. MORE THAN 100,000 POUNDS OF THE CHEMICAL HAD BEEN DUMPED INTO THE AIR AND WATER IN WEST DEPTFORD AND SURROUNDING AREAS.</p>
+<p>INSTEAD OF... NOW REGULATED... PFAS CHEMICALS... SOLVAY BEGAN USING DIFFERENT PFAS AS A PFNA REPLACEMENT.</p>
+<p>A STUDY PUBLISHED BY FEDERAL AND STATE SCIENTISTS IN 2020 FOUND THE COMPOUND IN SEVERAL SOIL SAMPLES COLLECTED AROUND SOUTH JERSEY... AND EVEN SOME FROM THE NORTHERN EDGE OF THE STATE.</p>
+<p>LATER RESEARCH ALSO FOUND THE CHEMICALS IN THE DELAWARE RIVER... AND GROUNDWATER AROUND WEST DEPTFORD.</p>
+<p>THE SCIENTISTS DETERMINED THAT AIR EMISSIONS FROM SOLVAY'S PLANT WAS THE MOST LIKELY SOURCE OF THE NEW POLLUTION.</p>
+<p>IT'S UNCLEAR WHEN SOLVAY STARTED USING THESE REPLACEMENT CHEMICALS. BUT THEY'VE ALREADY BEEN FOUND IN THE BLOOD OF COMPANY EMPLOYEES... AND HEALTH STUDIES MADE PUBLIC BY THE ONLINE NEWS SOURCE... THE INTERCEPT... SHOW THE CHEMICALS TO BE TOXIC TO RATS AND GUINEA PIGS. THEY'RE ALSO ASSOCIATED WITH CHANGES TO HUMAN BLOOD CHEMISTRY.</p>
+<p>SCIENTISTS AND ENVIRONMENTAL REGULATORS HAVE WARNED FOR YEARS THAT SOME OF THESE REPLACEMENT CHEMICALS MAY BE JUST AS DANGEROUS... IF NOT MORE... THAN THE CHEMICALS THEY'RE TRYING TO REPLACE.</p>
+<p>LIKE PFNA... THESE REPLACEMENT CHEMICALS ARE PART OF THE PFAS FAMILY... BUT AREN'T REGULATED.</p>
+<p>AND IF YOU THOUGHT THE SCIENTIFIC NAME FOR PFAS WAS HARD TO PRONOUNCE... JUST YOU WAIT. THE SCIENTIFIC NAME FOR THESE NEW CHEMICALS? CHLOROPERFLUOROPOLYETHER CARBOXYLATES... BETTER KNOWN AS Cl-P-F-P-E-C-A.</p>
+<p>SOLVAY SAYS IT PHASED OUT THE USE OF ALL PFAS AT THE WEST DEPTFORD PLANT IN JUNE 2021.</p>
+<p>AS A RESULT OF THE SOLVAY PFAS SCARE... PAULSBORO WAS AMONG THE FIRST TOWNS IN NEW JERSEY TO UPGRADE ITS WATER SYSTEM TO HANDLE THE CHEMICALS.</p>
+<p>NEW JERSEY BECAME THE FIRST STATE TO REGULATE PFAS IN DRINKING WATER IN THE YEARS AFTER. BY THEN PAULSBORO'S PROBLEMS HAD BEEN FIXED... AND THE TOWN HAS NEVER VIOLATED THE STATE'S PFAS STANDARDS.</p>
+<p>EVEN THOUGH PAULSBORO'S DRINKING WATER NO LONGER HAS HIGH LEVELS OF PFAS... ITS RESIDENTS LIKELY STILL HAVE THE CHEMICALS SWIMMING AROUND IN THEIR BLOOD.</p>
+<p>THEY WANT TO KNOW FOR SURE IF THEY'VE BEEN EXPOSED TO PFAS. AND... IF SO... HOW THE CHEMICALS HAVE IMPACTED THEIR HEALTH.</p>
+<p>RIGHT NOW... THE ONLY WAY TO KNOW IF YOU HAVE HIGH LEVELS OF PFAS IN YOUR BLOOD IS TO HAVE IT TESTED.</p>
+<p>THAT'S WHERE DOCTOR LAUMBACH COMES IN. HE'S LEADING THE PAULSBORO STUDY. IT'S ONE OF EIGHT STUDIES OF ITS KIND NATIONWIDE... PART OF AN EFFORT ORGANIZED BY THE CDC THAT SCIENTISTS HOPE WILL SHED MORE LIGHT ON THE WAYS PFAS IMPACTS OUR HEALTH.</p>
+<p>LAUMBACH AND HIS TEAM HAVE BEEN TESTING THE BLOOD OF PEOPLE WHO LIVED IN PAULSBORO ANY TIME BETWEEN JANUARY 2005 AND APRIL 2014... WHEN THE CONTAMINATED WELL CLOSED.</p>
+<p>HE'S HOPING THE BLOOD TESTS WILL HELP SCIENTISTS DETERMINE HOW THESE CHEMICALS ARE IMPACTING OUR HEALTH... AND WHAT WE CAN DO ABOUT THEM.</p>
+<p>SINCE THE WATER FILTERS WERE INSTALLED IN PAULSBORO... THE LEVEL OF PFNA IN RESIDENTS' BLOOD HAS DECREASED.</p>
+<p>I MET HIM IN HIS OFFICE LAST SUMMER TO FIND OUT MORE ABOUT THE STUDY.</p>
+<p>A FEW RESIDENTS WAITED TO HAVE THEIR BLOOD TESTED.</p>
+<p>ONE OF THOSE RESIDENTS WAS PATRICIA PUNTIER. SHE'S LIVED IN PAULSBORO FOR MORE THAN A DECADE.</p>
+<p>**Patricia Puntier -- Paulsboro resident<br />
+**My uncle bought a house here a long time ago and we would come and visit him. And we thought this was like the greatest suburbs because we're so used to, like, the city. And so my mom bought a house here first, and then we just always stay around each other. So, I ended up buying a house here, too. And now we have about, my family, we have about six, seven, eight houses here. Everybody just, like, let's go to Paulsboro.</p>
+<p>**Jordan Gass-Pooré -- Host<br />
+**YEARS BEFORE PATRICIA EVER HEARD OF PFAS... SHE EXPERIENCED A DIFFERENT KIND OF CHEMICAL FEAR... ONE THAT SHE AND OTHER PAULSBORO RESIDENTS COULD ACTUALLY SEE AND SMELL.</p>
+<p>ON THE MORNING OF NOVEMBER 30, 2012... SEVEN FREIGHT CARS DERAILED WHILE CROSSING A BRIDGE IN PAULSBORO IN THE MIDST OF A THICK FOG. ONE OF THE CARS WAS RIPPED OPEN AFTER CRASHING INTO THE MANTUA CREEK BELOW... SPILLING ABOUT 20,000 GALLONS OF A COLORLESS FLAMMABLE GAS CALLED VINYL CHLORIDE.</p>
+<p>PUNTIER WAS ASLEEP WHEN THE POLICE KNOCKED ON HER DOOR.</p>
+<p>**Patricia Puntier -- Paulsboro resident<br />
+**They were telling everyone, 'Get out. Everyone's got to go.' Like, what do you mean it was happening? So I'm grabbing my baby.</p>
+<p>**Jordan Gass-Pooré -- Host<br />
+**THE ACCIDENT LED TO THE EVACUATION OF HUNDREDS OF RESIDENTS... INCLUDING PUNTIER.</p>
+<p>**Patricia Puntier -- Paulsboro resident<br />
+**And I'm leaving and I'm, like, 'Where are we going?' They're putting us up in hotels. And they're, like, 'Well, that train derailed' is what they're saying. 'The train derailed and there's something in the air, some chemicals and stuff in the water.' So, I actually had to grab my child and go and we stayed at a hotel for a few days that they paid for and everything. So, once they, like, evacuated us, that's when I knew, I was like yeah, this is pretty serious. I would never forget that day.</p>
+<p>**Jordan Gass-Pooré -- Host<br />
+**PUNTIER SAYS SHE KNEW ALMOST NOTHING ABOUT AIR POLLUTION PRIOR TO THE TRAIN DERAILMENT.</p>
+<p>AND SHE DIDN'T KNOW ABOUT PFAS AND THEIR POTENTIAL HEALTH RISKS UNTIL 2014... WHEN SOLVAY STARTED PAYING THE LOCAL HARDWARE STORE TO DISTRIBUTE BOTTLED WATER.</p>
+<p>**Patricia Puntier -- Paulsboro resident<br />
+**I remember getting my bottled waters. We had to go to a certain spot. And then you get like I think it was like two cases per week or something like that. And they were like, just don't drink the water. Here, take your cases. So I would go there with my stroller. I take my case of water, I put it in the bottom, and I go walking back home.</p>
+<p>**Jordan Gass-Pooré -- Host<br />
+**PUNTIER AND OTHER RESIDENTS WERE WARNED BACK THEN TO ONLY DRINK BOTTLED WATER.</p>
+<p>HIGH LEVELS OF PFNA HAD BEEN DISCOVERED IN THE TOWN'S DRINKING WATER. MANY PEOPLE BLAMED SOLVAY FOR CONTAMINATING THEIR WATER... BUT THE COMPANY DENIED THEY HAD ANYTHING TO DO WITH IT.</p>
+<p>SOLVAY HAS TRIED TO SHIFT AT LEAST SOME OF THE BLAME. IN A 2020 LAWSUIT... THE CHEMICAL COMPANY ACCUSED THE NEARBY PAULSBORO REFINERY OF CONTRIBUTING TO THE AREA'S PFAS PROBLEM THROUGH ITS HISTORIC USE OF FIREFIGHTING FOAM... THAT'S THE PROBLEM WE TALKED ABOUT IN EPISODE TWO.</p>
+<p>SOLVAY POINTED TO AN OIL SPILL IN 2012 AS A SPECIFIC EXAMPLE. THAT CASE HAS SINCE BEEN DISMISSED.</p>
+<p>THE STATE... HOWEVER... DIDN'T BUY IT... AND IS HOLDING SOLVAY RESPONSIBLE FOR THE CLEAN UP. AUTHORITIES HAVE NOTED THAT SOLVAY HAS BEEN THE DOMINANT USER OF PFNA IN THE AREA.</p>
+<p>PUNTIER SAYS ALL THESE YEARS LATER SHE STILL DOESN'T TRUST PAULSBORO'S DRINKING WATER.</p>
+<p>**Patricia Puntier -- Paulsboro resident<br />
+**Before this happened, I would drink water from the sink, tap water. Now, I only cook with the tap water. I won't actually drink it. It's a whole thing in town like that Paulsboro water is dirty and then we're gonna be mutants, things like that. So I rather not take my chances. It's been too many crazy incidents.</p>
+<p>**Jordan Gass-Pooré -- Host<br />
+**PFAS HAS BEEN A PART OF PUNTIER'S LIFE NOW FOR MORE THAN A DECADE.</p>
+<p>SHE AND HER FAMILY ALL DRANK WATER THAT EXPOSED THEM TO PFAS... AND WANTED TO KNOW HOW MUCH OF THE CHEMICALS WERE IN THEIR BLOOD. THAT'S WHY THEY'RE TAKING PART IN THE RUTGERS HEALTH STUDY.</p>
+<p>THIS IS HOW PUNTIER DESCRIBES HER FAMILY'S RESULTS...</p>
+<p>**Patricia Puntier -- Paulsboro resident<br />
+**Everything looks pretty normal, except for my one son, Dimir. Dimir is my middle son, and he has something called 4q deletion syndrome. And that is a rare chromosome disorder. So not a lot is known about it. So, his numbers were wacky. When the derailment happened, I was actually pregnant with Dimir. And then when Solvay happened, he was an infant. So, I'm always thinking in my head, you know, it's a rare chromosomal disorder, but could this have affected him? And seeing that his numbers are, like, high in some places, and I don't really understand it, it's hard to determine could this be something that came from environmental factors? Or is this something that just happened?</p>
+<p>**Jordan Gass-Pooré -- Host<br />
+**PUNTIER STILL QUESTIONS THE SAFETY OF THE AIR SHE AND HER FAMILY BREATHES AND THE WATER THEY DRINK. BUT IT'S FAMILY THAT KEEPS HER IN PAULSBORO.</p>
+<p>ANOTHER STUDY PARTICIPANT... IRMA STEVENSON... CITED THE SAME REASON FOR REMAINING IN TOWN.</p>
+<p>STEVENSON IS A FORMER NURSE... A LIFELONG PAULSBORO RESIDENT... AND THE MOTHER OF THE TOWN'S FORMER MAYOR.</p>
+<p>SHE DESCRIBES WHAT LIFE WAS LIKE IN PAULSBORO WHEN HER KIDS WERE GROWING UP...</p>
+<p>**Irma Stevenson -- Paulsboro resident<br />
+**My husband is also a Paulsboro guy. He's lived here all his life, he's my childhood sweetheart. When we were raising our five children over on Thompson Avenue they were outside all the time playing baseball, football, street hockey, roller skating, riding bikes. They had paper routes. They only came in when the Mobil whistle blew at 4:30 to eat supper and they came in at night when the streetlights went on.</p>
+<p>**Jordan Gass-Pooré -- Host<br />
+**BACK THEN... PEOPLE CAME TO PAULSBORO FROM NEW YORK CITY... SEARCHING FOR A QUIETER... SLOWER PACE OF LIVING... AND JOBS.</p>
+<p>**Irma Stevenson -- Paulsboro resident<br />
+**Oil. It was the oil business. Refinery, gas oil. Great jobs. I mean, a lot of the, mostly were gentlemen, like, the women that retired from Mobil was 30, 40 years they've been in that job. Their sons or daughters at that time, nephews would work. It was a family tradition. You'd have sometimes three generations of families working at Mobil.</p>
+<p>**Jordan Gass-Pooré -- Host<br />
+**PAULSBORO HAS BEEN A REFINERY TOWN FOR MORE THAN A HUNDRED YEARS... AND HEAVY INDUSTRY HAS LONG BEEN PART OF THE REGION'S ECONOMY.</p>
+<p>SOLVAY... OF COURSE... IS PART OF THAT.</p>
+<p>STEVENSON SAYS RESIDENTS KNEW SOLVAY WAS USING CHEMICALS... BUT THE COMPANY PROVIDED WELL-PAYING JOBS FOR MANY PEOPLE IN THE AREA. BUT FEELINGS CHANGED WHEN PFNA WAS FOUND IN THE TOWN'S DRINKING WATER.</p>
+<p>**Irma Stevenson -- Paulsboro resident<br />
+**I mean, no one was really getting sick. Then all heck broke loose.</p>
+<p>**Jordan Gass-Pooré -- Host<br />
+**AUTHORITIES LAUNCHED AN INVESTIGATION INTO THE AREA'S PFAS CONTAMINATION.</p>
+<p>PAULSBORO RESIDENTS STARTED LISTING THEIR HOMES FOR SALE.</p>
+<p>AND... EVENTUALLY... 12 PAULSBORO RESIDENTS FILED A CLASS ACTION LAWSUIT AGAINST SOLVAY THAT WAS SETTLED IN 2016 FOR $1.8 MILLION.</p>
+<p>**Irma Stevenson -- Paulsboro resident<br />
+**Of course, people were very concerned, which you should be. I mean, how much did it get into our water system?</p>
+<p>**Jordan Gass-Pooré -- Host<br />
+**THE ANSWER TO THAT QUESTION MAY NEVER BE KNOWN. BUT THAT HASN'T STOPPED STEVENSON FROM DRINKING PAULSBORO'S TAP WATER.</p>
+<p>**Irma Stevenson -- Paulsboro resident<br />
+**I've been drinking water all my life here in Paulsboro. My mother lived to be almost 100, born and raised in Paulsboro, right on Commerce Street, drank the water.</p>
+<p>**Jordan Gass-Pooré -- Host<br />
+**EVEN THOUGH STEVENSON SAYS SHE ISN'T WORRIED ABOUT DRINKING FROM THE TAP... SHE PARTICIPATED IN THE RUTGERS STUDY TO HELP RESEARCHERS BETTER UNDERSTAND THE HEALTH RISKS OF PFAS.</p>
+<p>SHE SAYS HER TEST RESULTS DIDN'T SURPRISE HER.</p>
+<p>**Irma Stevenson -- Paulsboro resident<br />
+**It says, 'Look like I'm gonna live for longer.' Maybe. I'm trying 100. And it's good to know. Now they compare mine to other people, to the town, and it helps get the final results.</p>
+<p>**Jordan Gass-Pooré -- Host<br />
+**THE GOAL OF THE STUDY IS TO SEE IF THERE'S A LINK BETWEEN PFAS EXPOSURE AND HEALTH ISSUES. BUT RESEARCHERS ALSO WANT TO TRACE THE LEVELS OF PFAS IN PEOPLE'S BLOOD GOING BACK OVER TIME TO SEE HOW LONG THE CHEMICALS STAY IN THE BODY.</p>
+<p>THERE ARE CURRENTLY NO HEALTH GUIDELINES FOR PFAS AND BLOOD... AND NO TREATMENT FOR IT.</p>
+<p>I WALKED AROUND PAULSBORO... PAST THE TRAIN TRACKS... AND THE HARDWARE STORE THAT DISTRIBUTED BOTTLED WATER DURING THE CRISIS...</p>
+<p>...AND I DROVE OUT TO WEST DEPTFORD AND SAW PART OF THE SOLVAY SITE... WITH ITS ZIGZAGGING PIPES. IT SITS ON THE EDGE OF TOWN NEAR THE DELAWARE RIVER... SEPARATED FROM HOMES AND BUSINESSES BY TRAIN TRACKS AND A HIGHWAY.</p>
+<p>THE TOP OF THE FACTORY PEAKS OVER SOME OF THE TREES... BUT IF IT WEREN'T FOR THE SIGN MARKING AN ACCESS ROAD... THE CASUAL PASSERBY WOULD PROBABLY NEVER NOTICE IT.</p>
+<p>ABOUT A 20-MINUTE DRIVE SOUTH OF THE SOLVAY PLANT IS PEDRICKTOWN... WHERE CHRISTINA BOND HAS LIVED SINCE SHE WAS BORN IN 1978.</p>
+<p>I ASKED HER ABOUT SOME OF HER FAVORITE THINGS.</p>
+<p>**Christina Bond -- Pedricktown resident<br />
+**I like to watch Disney, go to work and sometimes play on my tablet and listen to my Backstreet Boys.</p>
+<p>**Jordan Gass-Pooré -- Host<br />
+**THE BONDS HAVE LIVED IN PEDRICKTOWN EVEN LONGER THAN THAT. HER DAD... RICHARD... SAYS THE HOME THEY LIVE IN NOW WAS BUILT BY HIS FAMILY IN THE 1960S.</p>
+<p>HE AND HIS WIFE KIM MOVED THERE IN THE '70S AFTER THEY GOT MARRIED.</p>
+<p>**Richard Bond -- Pedricktown resident<br />
+**Every one of my friends were here. I grew up and everybody here. And my father, he had a small snowball business. Everything was here, pretty much, that's why we stayed here.</p>
+<p>**Jordan Gass-Pooré -- Host<br />
+**SOON AFTER CHRISTINA WAS BORN... KIM SAYS THEY NOTICED SHE WASN'T WALKING AND TALKING LIKE OTHER KIDS HER AGE.</p>
+<p>**Kim Bond -- Pedricktown resident<br />
+**When she was born, all ten toes, all ten fingers. You figure everything was good. Came home, just thought everything was good until maybe, like, the milestones: Walking, talking. And then looked more into it and they said she had a delayed and from there it was just finding out different things and wondering why.</p>
+<p>**Jordan Gass-Pooré -- Host<br />
+**THEN... WHEN CHRISTINA WAS EIGHT... SHE WAS DIAGNOSED WITH SHPRINTZEN GOLDBERG SYNDROME... A RARE DISORDER OFTEN CAUSED BY A GENE MUTATION. BUT THAT WAS JUST THE BEGINNING.</p>
+<p>YEARS LATER... ONE OF CHRISTINA'S SISTERS GOT PREGNANT. THE FAMILY DECIDED THEY SHOULD ALL HAVE GENETIC TESTING DONE TO PREPARE FOR THE NEW BABY. THAT TESTING REVEALED THAT CHRISTINA ACTUALLY HAD CHROMOSOME ONE DELETION... A CONDITION THAT IS ASSOCIATED WITH DEVELOPMENTAL DISABILITIES.</p>
+<p>KIM SAID NO ONE ELSE IN THE FAMILY WAS FOUND TO HAVE THE SAME ISSUE.</p>
+<p>OTHER MEMBERS OF THE BOND FAMILY WOULD LATER HAVE HEALTH CONDITIONS THAT DEFIED EXPLANATION.</p>
+<p>**Richard Bond -- Pedricktown resident<br />
+**It'd be better ask me what I don't have. Yeah, I got sarcoidosis and diabetes and cholesterol. I got it all. Tou know, deforms my bones. And I got this sarcoidosis is supposed to be what turns my skin brown. I got Charcot foot, that's when my foot just sort of bend in this way.</p>
+<p>**Jordan Gass-Pooré -- Host<br />
+**RICHARD IS A 72-YEAR-OLD RETIRED TRUCK DRIVER. HE HAS KIDNEY FAILURE AND NEEDS DIALYSIS EVERY DAY.</p>
+<p>**Richard Bond -- Pedricktown resident<br />
+**It just takes your life away from you. That was the worst thing that ever happened to me, I think.</p>
+<p>**Jordan Gass-Pooré -- Host<br />
+**RICHARD SAYS HE DOESN'T QUALIFY FOR A KIDNEY TRANSPLANT BECAUSE OF HIS OTHER HEALTH ISSUES.</p>
+<p>KIM IS 65 YEARS OLD. SHE'S GOT HER OWN HEALTH ISSUES... MOSTLY GASTROINTESTINAL PROBLEMS.</p>
+<p>SHE BALANCES TAKING CARE OF HER FAMILY AND SHIFTS AS A PATIENT TECH AT A NEARBY HOSPITAL. SHE SAYS LIFE CAN BE VERY STRESSFUL AT TIMES.</p>
+<p>**Kim Bond -- Pedricktown resident<br />
+**You know, making sure I'm home to take him to appointments, her to appointments. You know, there's days I have to call out or try to make it all in one day. So... busy.</p>
+<p>**Jordan Gass-Pooré -- Host<br />
+**THE BONDS LIVE IN A QUIET RURAL COMMUNITY BETWEEN THE SOLVAY PLANT IN WEST DEPTFORD... AND THE CHAMBERS WORKS PLANT IN CARNEY'S POINT THAT WE TALKED ABOUT IN EPISODE ONE.</p>
+<p>THAT MEANS THEIR HOME IN THE MIDDLE OF A TOXIC VENN DIAGRAM OF POLLUTION FROM TWO NOTORIOUS FACILITIES... WITH DECADES OF POSSIBLE EXPOSURE TO PFAS THROUGH THE WATER THEY DRINK... THE GROUND THEY TOUCH... OR THE AIR THEY BREATHE.</p>
+<p>IN THE SUMMER OF 2020... THE BOND FAMILY SUED SOLVAY AND OTHER CHEMICAL COMPANIES... OVER CHRISTINA'S HEALTH ISSUES. THE COMPANIES DISPUTE THEIR CLAIMS.</p>
+<p>IT'S JUST ONE OF MORE THAN TWO DOZEN LAWSUITS FILED SINCE THAT TIME BY RESIDENTS IN THE AREA... MAKING SIMILAR CLAIMS AGAINST THE SAME COMPANIES.</p>
+<p>FOUR YEARS LATER... THE BOND FAMILY'S CASE IS STILL GOING.</p>
+<p>CHRISTINA TOLD ME A LITTLE BIT ABOUT WHAT SHE DOES AT WORK.</p>
+<p>SHE'S THRIVING AT WORK... BUT WILL STILL NEED SUPPORT AND CARE FOR HER ENTIRE LIFE.</p>
+<p>STEVEN PHILLIPS... THE FAMILY'S LAWYER... SAYS THE BOND'S HEALTH ISSUES ARE THE RESULT OF LARGE CORPORATIONS MOTIVATED BY GREED.</p>
+<p>**Steven Phillips -- Founding partner, Phillips &amp; Paolicelli, LLP<br />
+**All of this was avoidable. The law can't make Christina or Richard's health different. What it can do is award dollars that will compensate them for their suffering. There should be an end to this. What happened to this family should not happen to families in the future, not only with respect to this chemical, but with respect to whatever comes next.</p>
+<p>**Jordan Gass-Pooré -- Host<br />
+**PEDRICKTOWN... PAULSBORO... WEST DEPTFORD... THESE SOUTH JERSEY COMMUNITIES ARE JUST A FEW THAT HAVE FOUND THEMSELVES AT THE FRONTLINES OF A NATIONAL CRISIS.</p>
+<p>AND ALTHOUGH THE BLOOD TESTS BEING DONE IN PAULSBORO... OR ANYWHERE ELSE IN THE COUNTRY... CAN'T PREDICT IF SOMEONE'S GOING TO GET A DISEASE DOWN THE ROAD... IT WILL TELL YOU THE LEVEL OF EACH CHEMICAL THAT'S IN YOUR BLOOD. THAT INFORMATION MAY BE ABLE TO HELP YOU AND YOUR DOCTOR BETTER UNDERSTAND YOUR HEALTH RISKS.</p>
+<p>I HAVEN'T HAD MY BLOOD TESTED FOR PFAS YET. I'M RELYING ON A WATER FILTER RIGHT NOW TO REMOVE THE CHEMICALS FROM THE TAP... AND I GUESS KEEPING MY HEAD IN THE SAND ABOUT ANY PAST EXPOSURE. I LIVE IN NEW YORK CITY... WHERE PFAS HASN'T BEEN FOUND IN THE DRINKING WATER.</p>
+<p>BUT IF MY HOMETOWN OF SEGUIN, TEXAS DECIDES TO DO SOMETHING SIMILAR TO WHAT PAULSBORO'S DOING... I'LL SIGN MYSELF UP... JUST TO BE ON THE SAFE SIDE.</p>
+<p>ON THE FINAL EPISODE OF HAZARD NJ... WE LOOK AT SOME OF THE WAYS PEOPLE ARE TRYING TO PUT AN END TO FOREVER CHEMICALS... ONCE AND FOR ALL.</p>
+<p>HAZARD NJ IS AN NJ SPOTLIGHT NEWS PRODUCTION... YOU CAN SUPPORT OUR REPORTING BY HEADING TO <a href="http://njspotlightnews.org/DONATE" target="_blank">NJSPOTLIGHTNEWS.ORG/DONATE</a>.</p>
+<h3 id="credits" tabindex="-1">Credits</h3>
+<p>Hazard NJ is reported and written by host Jordan Gass-Pooré and producer Michael Sol Warren</p>
+<p>Executive Producer – Jamie Kraft</p>
+<p>Executive in Charge of Production – Joe Lee</p>
+<p>Production Manager – Chloe Motisi</p>
+<p>Research Assistant — Judah Duke</p>
+<p>Sound Designer &amp; Engineer – Mark Bush</p>
+<p>Composer – Nick Pennington</p>
+<p>Art – Matthew Fleming</p>
+]]></content:encoded>
+        <enclosure length="80787008" type="audio/mpeg" url="https://mcdn.podbean.com/mf/web/dfqhf44m7r6yzmxk/Hazard-NJ_S2E3_MB_11292024.mp3" />
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>00:33:39</itunes:duration>
+	</item>
+	
+	<item>
+		<title>Hazard NJ Podcast - Soaked in Foam - Season 3: Episode 2</title>
+		<link>https://hazardpodcast.com/episode/episode-15-nj-s2-e2-soaked-in-foam/?source=rss</link>
+		<pubDate>Mon, 25 Nov 2024 09:00:43 GMT</pubDate>
+		<dc:creator>Jordan Gass-Poore</dc:creator>
+		<guid isPermaLink="true">https://hazardpodcast.com/episode/episode-15-nj-s2-e2-soaked-in-foam/</guid>
+        <itunes:image href="https://hazardpodcast.com/img/HazardNJ-Album-Cover.jpg" />
+		<description>In 1967, explosions and fire erupted on an aircraft carrier off the coast of Vietnam in what would become one of the deadliest blazes in U.S. Navy history — and ushered in a new kind of firefighting tool. Chemical foams made with PFAS became a critical part of dealing with intense fires for decades, saving countless lives. But the toxic mess left behind after that foam was sprayed is now contaminating water systems around New Jersey and beyond.</description>
+        <itunes:subtitle><![CDATA[In 1967, explosions and fire erupted on an aircraft carrier off the coast of Vietnam in what would become one of the deadliest blazes in U.S. Navy history — and ushered in a new kind of firefighting tool]]></itunes:subtitle>
+        <itunes:summary><![CDATA[In 1967, explosions and fire erupted on an aircraft carrier off the coast of Vietnam in what would become one of the deadliest blazes in U.S. Navy history — and ushered in a new kind of firefighting tool. Chemical foams made with PFAS became a critical part of dealing with intense fires for decades, saving countless lives. But the toxic mess left behind after that foam was sprayed is now contaminating water systems around New Jersey and beyond.]]></itunes:summary>
+		<content:encoded><![CDATA[<iframe title="Hazard NJ Season 2, Episode 2: Soaked in Foam" allowtransparency="true" height="400" width="100%" style="border: none; min-width: min(100%, 430px);height:400px;" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?from=embed&pbad=0&i=nuib8-1746d94-pb&square=1&share=1&download=1&fonts=Arial&skin=f6f6f6&font-color=auto&rtl=0&logo_link=episode_page&btn-skin=7&size=300" loading="lazy" allowfullscreen=""></iframe>
+<p>In 1967, explosions and fire erupted on an aircraft carrier off the coast of Vietnam in what would become one of the deadliest blazes in U.S. Navy history --- and ushered in a new kind of firefighting tool. Chemical foams made with PFAS became a critical part of dealing with intense fires for decades, saving countless lives. But the toxic mess left behind after that foam was sprayed is now contaminating water systems around New Jersey and beyond.</p>
+<p><em><strong>Editor's Note: &quot;Hazard NJ&quot; is an NJ Spotlight News podcast that examines serious pollution issues. Season 2 dives deep into the crisis of toxic pollution caused by PFAS, or &quot;forever chemicals,&quot; around New Jersey and beyond. Subscribe to the podcast on <a href="https://podcasts.apple.com/us/podcast/hazard-nj/id1622849571" target="_blank">Apple Podcasts</a>, <a href="https://open.spotify.com/show/30cCzv4iuGTIdr44eyHIfS?si=3w9tD2Z-QNa5coc8l4RIYw&amp;nd=1" target="_blank">Spotify</a>, <a href="https://music.amazon.com/podcasts/f36c7ea7-0e39-48be-b9aa-a2914be8a837/hazard-nj" target="_blank">Amazon Music</a> and more.</strong></em></p>
+<h3 id="read-the-episode-transcript-below:" tabindex="-1">Read the episode transcript below:</h3>
+<p>**Jordan Gass-Pooré -- Host<br />
+**NOTHING STRIKES MORE FEAR IN A SAILOR THAN A FIRE AT SEA.</p>
+<p>THERE'S NO ESCAPE. SPACE IS TIGHT. AND SAILORS ARE FORCED TO COMPETE WITH THE FIRE FOR OXYGEN AS IT SPREADS THROUGHOUT THE SHIP.</p>
+<p>ON THE MORNING OF JULY 29, 1967... THE SAILORS ABOARD THE USS FORRESTAL BATTLED THIS ENEMY.</p>
+<p>THE AIRCRAFT CARRIER WAS STATIONED OFF THE COAST OF NORTH VIETNAM WHEN ONE OF ITS JETS ACCIDENTALLY FIRED A ROCKET INTO THE FUEL TANK OF ANOTHER PLANE... RAINING DOWN FIERY CONFETTI ON THE SAILORS ABOARD THE SHIP.</p>
+<p>FIRE QUICKLY SPREAD... DETONATING BOMBS AND IGNITING JET FUEL... THAT DRIPPED DOWN THROUGH HOLES IN THE FLIGHT DECK TO THE SHIP'S LOWER LEVELS.</p>
+<p>THIS DEADLY CHAIN REACTION BECAME ONE OF THE WORST NAVAL DISASTERS IN AMERICAN HISTORY. THE FIRE ON DECK RAGED FOR NEARLY AN HOUR BEFORE IT WAS BROUGHT UNDER CONTROL WITH THE HELP OF WATER CANNONS FROM OTHER SHIPS. BELOW DECK... THE FIRE CONTINUED TO BURN FOR HOURS.</p>
+<p>ALL TOLD... THE FIRE KILLED 134 SAILORS... AND FOREVER CHANGED THE WAY THE NAVY OPERATED.</p>
+<p>THE DAMAGE COST MILLIONS OF DOLLARS... AND SET THE NAVY ON A QUEST TO IMPROVE FIRE SAFETY.</p>
+<p>BUT IN THEIR EFFORT TO HELP PROTECT THE LIVES OF MILITARY PERSONNEL... THEY ENDED UP FUELING A PUBLIC HEALTH CRISIS.</p>
+<p>THIS IS HAZARD NJ... AND I'M JORDAN GASS-POORÉ... AN INVESTIGATIVE JOURNALIST FROM TEXAS.</p>
+<p>ON THIS SEASON WE'RE TAKING A LOOK AT THE THREAT OF PFAS.</p>
+<p>THEY'RE OFTEN CALLED FOREVER CHEMICALS... AND THEY'RE IN OUR TOILET PAPER... OUR CLOTHES... OUR FAST-FOOD WRAPPERS... AND EVEN OUR BLOOD.</p>
+<p>IF YOU'VE HEARD OF PFAS BEFORE THIS PODCAST... CHANCES ARE YOU HEARD ABOUT THEM BEING FOUND IN DRINKING WATER SYSTEMS AROUND THE COUNTRY.... MAYBE EVEN YOUR OWN WATER SYSTEM.</p>
+<p>IN THIS EPISODE... WE'RE GOING TO TALK ABOUT HOW THOSE CHEMICALS GOT IN THE WATER IN THE FIRST PLACE... AND WHAT CAN BE DONE TO REMOVE THEM.</p>
+<p>THE MASSIVE FIRE ON THE USS FORRESTAL LED TO THE WIDESPREAD USE OF FIREFIGHTING FOAM THAT CONTAINS PFAS.</p>
+<p>NEARLY 60 YEARS LATER... THIS FOAM HAS BEEN A MAJOR SOURCE OF PFAS CONTAMINATION.</p>
+<p>IT STARTED WITH THE U.S. NAVY'S COLLABORATION WITH 3M. THE COMPANY THAT'S BEST KNOWN TO ME AS THE MANUFACTURER OF THE SHIPPING TAPE THAT GETS STUCK TO ITSELF.</p>
+<p>BESIDES THAT TAPE... 3M ALSO PRODUCED FOAMS THAT HAVE BEEN USED TO PUT OUT EMERGENCY FIRES AND... MORE OFTEN... SPRAYED IN ROUTINE FIREFIGHTING DRILLS AROUND THE COUNTRY.</p>
+<p>THE FOAM WAS ALSO WIDELY ADOPTED BY THE DEPARTMENT OF DEFENSE AND LATER THE FEDERAL AVIATION ADMINISTRATION TO FIGHT FIRES AT COMMERCIAL AIRPORTS.</p>
+<p>**Jordan Gass-Pooré -- Host<br />
+**NAVY SCIENTISTS AND 3M HAD BEEN DEVELOPING THIS WONDER FOAM SINCE THE EARLY 1960s... BUT THE NAVY DIDN'T SECURE THE FOAM'S PATENT UNTIL 1966. THAT'S LESS THAN A YEAR BEFORE THE FORRESTAL DISASTER.</p>
+<p>IT DIDN'T TAKE LONG FOR PEOPLE TO BECOME CONCERNED THAT THE FOAM WAS HARMING THE ENVIRONMENT. IN THE EARLY 1970s THERE WERE REPORTS OF THE FOAM RELEASING INTO WATERWAYS IN AND AROUND MILITARY BASES.</p>
+<p>BUT THE FOAM DID ITS JOB... THANKS TO A KEY INGREDIENT... PFAS. FIREFIGHTERS USED THIS FOAM TO EXTINGUISH FIRES QUICKLY... AND SAVE LIVES. THERE WAS JUST ONE CATCH... THE CHEMICALS MAY ACTUALLY BE HARMING THEIR HEALTH... AND AN UNTOLD NUMBER OF COMMUNITIES THEY SERVE.</p>
+<p>THIS WOULD BE ONE FIRE THE MILITARY WOULD HAVE A HARD TIME PUTTING OUT.</p>
+<p>I INITIALLY THOUGHT THIS FOAM WOULD LOOK MORE LIKE SLIMER FROM GHOSTBUSTERS... BUT I WAS WRONG. IT'S NOT EVEN GREEN.</p>
+<p>**Glenn Corbett -- Associate Professor of Fire Science, John Jay College of Criminal Justice<br />
+**Foam is not unlike your dishwashing detergent under your kitchen sink. Basically, that material that's used for washing dishes and stuff, you know, a pan, you basically take the bottle, you squeeze out a certain amount of the dishwashing liquid and you mix it with the water and you get this sort of fluffy, soapy kind of arrangement.</p>
+<p>**Jordan Gass-Pooré -- Host<br />
+**THAT'S GLENN CORBETT. HE'S AN ASSOCIATE PROFESSOR OF FIRE SCIENCE AND PUBLIC MANAGEMENT AT JOHN JAY COLLEGE IN NEW YORK. HE'S ALSO A FORMER ASSISTANT FIRE CHIEF FOR THE WALDWICK FIRE DEPARTMENT... AND HAS BEEN FIGHTING FIRES IN NEW JERSEY FOR MORE THAN 40 YEARS.</p>
+<p>**Glenn Corbett -- Associate Professor of Fire Science, John Jay College of Criminal Justice<br />
+**Well, it's sort of the same thing for foam. Basically, you know, foam comes in a concentrate form, in a big jug, that we in the fire service mix with the water to create that foam blanket.</p>
+<p>**Jordan Gass-Pooré -- Host<br />
+**FIREFIGHTING FOAM HAS BEEN AROUND FOR NEARLY 100 YEARS.</p>
+<p>AND OVER THAT TIME... ITS PURPOSE HAS REMAINED THE SAME... TO EXTINGUISH FIRES... BUT ITS <em>CHEMICAL MAKEUP</em> HAS CHANGED.</p>
+<p>THE AQUEOUS FILM FORMING FOAM... OR AFFF... IS THE TYPE OF FOAM WE'RE CONCERNED WITH. IT'S USUALLY MADE WITH PERFLUOROOCTANE SULFONIC ACID... OR PFOS... AND PERFLUOROOCTANOIC ACID... BETTER KNOWN AS PFOA... TWO CHEMICALS IN THE PFAS FAMILY.</p>
+<p>THIS TYPE OF FOAM... WHEN SPRAYED... CREATES A THIN LAYER OVER A BURNING LIQUID... SMOTHERING THE FLAMES.</p>
+<p>**Glenn Corbett -- Associate Professor of Fire Science, John Jay College of Criminal Justice<br />
+**If I put my boot in AFFF foam, what happens is I pull my boot out and immediately reseals itself, right? There's a very thin layer of protective foam literally right on top of the burning liquid.</p>
+<p>**Jordan Gass-Pooré -- Host<br />
+**GLENN SAYS THE AFFF FOAM PUTS FIRES OUT MORE EFFECTIVELY AND IS EASIER TO APPLY.</p>
+<p>BUT CLEANING UP <em>AFTER</em> THE FIRE IS OUT? THAT CAN BE A REAL HEADACHE... ONE THAT CAN LEAD TO LONG-TERM PROBLEMS...</p>
+<p>**Glenn Corbett -- Associate Professor of Fire Science, John Jay College of Criminal Justice<br />
+**When we were done, we would do what we call the wash down. That was a typical kind of thing that every fire department in America did this, like, 'Okay, now the accidents over with, we've dealt with the problem, let's wash the stuff off the side of the road and into the the storm sewer system, basically to get rid of it off the roadway.</p>
+<p>**Jordan Gass-Pooré -- Host<br />
+**ALL OF THAT FOAM CONTAINING PFAS EVENTUALLY FINDS ITS WAY INTO STREAMS... LAKES... RIVERS... RESERVOIRS... GROUNDWATER... THE KINDS OF PLACES THAT DRINKING WATER COMES FROM.</p>
+<p>**Glenn Corbett -- Associate Professor of Fire Science, John Jay College of Criminal Justice<br />
+**We understood that this was something that, you know, is not particularly healthy for the environment, for the water supply, and things like that. But understand that, you know, we've been using this foam for over almost 50 years now, basically. And so, all that PFAS from the '70s, '80s, '90s, it's all found its way into the water supply. And now we started looking for it, and we found it. And so that's why we're in a position where we are today.</p>
+<p>**Jordan Gass-Pooré -- Host<br />
+**NEW JERSEY FIRE DEPARTMENTS... AS WELL AS THE U.S. MILITARY ... ARE NOW IN A PERIOD OF TRANSITIONING FROM THIS FIREFIGHTING FOAM THAT CONTAINS PFAS TO ONE THAT... WELL... DOESN'T.</p>
+<p>GLENN SAYS WE'RE AT THE BEGINNING STAGES OF THIS TRANSITION... WE WANT A FOAM THAT'S SIMILAR TO AFFF... WITHOUT THE ENVIRONMENTAL IMPACT.</p>
+<p>**Glenn Corbett -- Associate Professor of Fire Science, John Jay College of Criminal Justice<br />
+**So, I think, you know, it'll just be one of those things where over time, we'll end up with a new material that we don't have to worry about as much of the environmental impact, and maybe we can, in fact, wash it down again.</p>
+<p>**Jordan Gass-Pooré -- Host<br />
+**BUT THAT'S EASIER SAID THAN DONE. THERE'S STILL STOCK OF AFFF FOAM SITTING ON THE SHELVES AT FIRE DEPARTMENTS ACROSS THE COUNTRY.</p>
+<p>**Glenn Corbett -- Associate Professor of Fire Science, John Jay College of Criminal Justice<br />
+**When it comes to foam, you know, it is an essential tool, the only tool that we really have for flammable and combustible liquids.</p>
+<p>**Jordan Gass-Pooré -- Host<br />
+**AFTER DECADES OF MAKING FIREFIGHTING FOAM FOR THE NAVY... 3M ANNOUNCED IN 2022 THAT IT WOULD STOP PRODUCING THE FOAM... AND ANY OTHER PFAS PRODUCTS... BY THE END OF 2025... AFTER FACING A WAVE OF LITIGATION AND NEW REGULATIONS RELATED TO THE CHEMICALS.</p>
+<p>HERE'S HOW JOHN BANOVETZ... THE COMPANY'S TOP OFFICIAL FOR ENVIRONMENTAL RESPONSIBILITY... EXPLAINED THAT DECISION IN A 3M-PRODUCED ANNOUNCEMENT VIDEO.</p>
+<p>**John Banovetz -- Chief Technology Officer, 3M<br />
+**Our strategy has been to proactively manage PFAS within our portfolio. And in doing so, in advance our environmental stewardship efforts. PFAS continue to be essential for modern life and can be safely made and used. They are critical for medical devices, smartphones, automobiles, airplanes and even the green economy. Our teams have made valuable contributions in creating products important to these industries and our customers. At the same time, a hallmark of 3M has always been our ability to apply our science to enter new markets. Moving forward, 3M continues to be a global material science leader. Our innovation is more important than ever.</p>
+<p>**Jordan Gass-Pooré -- Host<br />
+**BUT THE MILITARY CONTINUED TO USE OTHER FORMULATIONS OF THE FOAM... WITH OTHER PFAS CHEMICALS.</p>
+<p>THE DEPARTMENT OF DEFENSE BOUGHT THIS PRODUCT UNTIL 2023... AND PLAN TO PHASE IT OUT ENTIRELY BY OCTOBER.</p>
+<p>THE MILITARY ANNOUNCED LAST FALL THAT IT'S REPLACEMENT FOAM... OFFICIALLY CALLED FLOURINE FREE FOAM... OR F3... HAD BEEN APPROVED FOR USE.</p>
+<p>CORBETT SAYS IT'S AN IMPORTANT STEP... NOT JUST FOR THE MILITARY... BUT FOR FIREFIGHTING AGENCIES OF ALL SHAPES AND SIZES WHO WILL BE WATCHING CLOSELY TO SEE HOW THE REPLACEMENT FOAM PERFORMS.</p>
+<p>I'M NOT THE ONLY PERSON WHO HAS A HARD TIME PRONOUNCING THE SCIENTIFIC NAME FOR PFAS.</p>
+<p>THAT WAS THE NEW JERSEY ASSEMBLY LAST YEAR ... CLEARING THE WAY FOR GOVERNOR PHIL MURPHY TO SIGN A LAW THAT... IN TWO YEARS... WILL BAN THE USE OF FIREFIGHTING FOAM THAT CONTAINS PFAS. NEW JERSEY IS NOW ONE OF MORE THAN A DOZEN STATES WITH SUCH A BAN ON THE BOOKS... BUT THERE ARE SOME CAVEATS.</p>
+<p>SOME INDUSTRIAL FACILITIES IN NEW JERSEY THAT USED FIREFIGHTING FOAM... LIKE CHEMICAL FACTORIES... HAVE FOUR YEARS TO FIND AN ALTERNATIVE.</p>
+<p>THERE'S ALSO A CONTROVERSIAL CARVE OUT FOR OIL REFINERIES AND PETROLEUM TERMINALS IN THE STATE. THESE COMPANIES HAVE AN EIGHT YEAR GRACE PERIOD WITH THE POSSIBILITY OF AN ADDITIONAL FOUR-YEAR EXTENSION.</p>
+<p>THE BILL ALSO PROVIDES FUNDS TO THE STATE DEPARTMENT OF ENVIRONMENTAL PROTECTION TO CREATE A GRANT TO HELP SMALL FIRE DEPARTMENTS DISPOSE OF EXISTING PFAS FOAM.</p>
+<p>THE TWO MOST COMMON TYPES OF PFAS... PFOS AND PFOA... HAVE BEEN DETECTED IN DRINKING WATER ON OR NEAR AT LEAST 455 MILITARY SITES AROUND THE U.S.... INCLUDING NINE IN NEW JERSEY. THIS IS ACCORDING TO ANALYSIS BY THE ADVOCACY NONPROFIT... ENVIRONMENTAL WORKING GROUP.</p>
+<p>IT'S A PROBLEM SO WIDESPREAD THAT THE GARDEN STATE SUED THE MILITARY OVER IT'S PAST USE OF AFFF IN 2021. THAT CASE IS ONGOING.</p>
+<p>JOINT BASE MCGUIRE-DIX-LAKEHURST IN THE PINELANDS IS THE STATE'S LARGEST MILITARY BASE... AND A PRIME EXAMPLE OF PFAS POLLUTION CAUSED BY DECADES OF USING AFFF.</p>
+<p>I WENT OUT TO THE JOINT BASE.</p>
+<p>IT WAS ONE OF THOSE BEAUTIFUL NORTHEASTERN DAYS WHERE IT'S NOT TOO COLD OR TOO HOT.</p>
+<p>AS I WALKED AROUND THE BASE... PLANES OCCASIONALLY DARTED ACROSS THE BLUE SKY.</p>
+<p>JIM RICHMAN... THE RESTORATION PROJECT MANAGER FOR THE BASE... TOOK ME OUT TO WHAT LOOKED LIKE JUST A NORMAL RETENTION POND.</p>
+<p>**Jim Richman -- Remediation Program Manager, Joint Base McGuire-Dix-Lakehurst<br />
+**This is what we refer to as our AFFF release area number two.</p>
+<p>**Jordan Gass-Pooré -- Host<br />
+**THERE'S TWO RETENTION PONDS ON THE BASE THAT CAUGHT DISCHARGES OF AFFF WHEN IT WAS USED IN NEARBY HANGARS.</p>
+<p>IF I WOULD HAVE TAKEN GROUNDWATER SAMPLES FROM THESE PONDS... RICHMAN'S TEAM ESTIMATES THE AMOUNT OF PFAS WOULD HAVE BEEN SEVERAL THOUSAND PARTS PER TRILLION.</p>
+<p>TO PUT THAT INTO PERSPECTIVE... A PART PER TRILLION IS BASICALLY ONE DROP OF WATER IN AN OLYMPIC SWIMMING POOL.</p>
+<p>THIS PFAS HITCHES A RIDE ON UNDERGROUND STREAMS AND MIGRATES VERTICALLY DOWN TO THE WATER TABLE.</p>
+<p>ONCE IT'S THERE... IT MOVES WITH THE FLOW OF THE GROUNDWATER.</p>
+<p>RICHMAN AND HIS TEAM STARTED LOOKING FOR PFAS AT THE JOINT BASE IN 2015. AND THERE'S STILL A DECENT AMOUNT OF WORK TO GO.</p>
+<p>HE SAYS IT'S STILL TOO SOON TO KNOW WHAT THE FINAL CLEANUP'S GOING TO BE.</p>
+<p>**Jim Richman -- Remediation Program Manager, Joint Base McGuire-Dix-Lakehurst<br />
+**We're programming for 30 years for the groundwater cleanup. That's until we get further along in our investigation, until we figure out what our remedy is going to be, until it starts implementing, and what we're going to do with that remedy will we have an idea of how long it's going to take.</p>
+<p>**Jordan Gass-Pooré -- Host<br />
+**OF COURSE THE JOINT BASE ISN'T THE ONLY PLACE WHERE THE MILITARY IS TRYING TO GET A HANDLE ON PFAS.</p>
+<p>JUST LAST YEAR... ABOUT 40 MILES AWAY... THE NAVY TESTED 87 DRINKING WATER WELLS AT HOMES NEAR NAVAL WEAPONS STATION EARLE IN COLTS NECK... WHERE FIREFIGHTING FOAM IS... AGAIN... THE SOURCE OF PFAS PROBLEMS. BUT JUST TO BE CLEAR... THOSE PROBLEMS AREN'T CONNECTED TO THE CONTAMINATION AT THE JOINT BASE.</p>
+<p>THE TESTING IN COLTS NECK FOUND THAT 12 OF THOSE WELLS HAD SOME LEVEL OF PFAS PRESENT.</p>
+<p>IN 2023... I WENT OUT TO FREEHOLD TO ATTEND A PUBLIC MEETING ORGANIZED BY THE NAVY.</p>
+<p>OFFICIALS FROM THE DOD... EPA... AND THE NEW JERSEY DEPARTMENT OF ENVIRONMENTAL PROTECTION WERE THERE TO ENCOURAGE RESIDENTS USING WELLS IN THE AREA TO GET THEIR WATER TESTED FOR PFAS.</p>
+<p>NAVY CAPTAIN EDWARD CALLAHAN... WHO WAS THE COMMANDING OFFICER OF EARLE AT THE TIME... WAS AT THE MEETING ASKING RESIDENTS IN THE TEST AREA TO SIGN UP FOR SAMPLING.</p>
+<p>**Capt. Edward Callahan -- Former Commanding Officer, Naval Weapons Station Earle<br />
+**I would absolutely ask to have my well tested because, at the end of the day, you want to make sure that your drinking water is safe, whether it's something the Navy's done at all, it's a free test and it's available for you.</p>
+<p>**Jordan Gass-Pooré -- Host<br />
+**THIS PAST JUNE... OFFICIALS FROM THE JOINT BASE HELD A SIMILAR MEETING IN PEMBERTON TO HELP RESIDENTS UNDERSTAND THE SITUATION IN THAT PART OF THE STATE.</p>
+<p>**Sheri Menhalo -- Pemberton resident<br />
+**It's nice to feel safe living next to the bases, always makes a person feel safe, but at the same time, something like this, it's a catch-22, isn't it? Do I have people that I love that are very near to me, that are sick right now? With big illnesses? Yes.</p>
+<p>**Jordan Gass-Pooré -- Host<br />
+**SHERI MENHALO WAS AT THAT MEETING. SHE LIVES IN PEMBERTON... RIGHT OUTSIDE THE AREA THE AIR FORCE WANTS TO TEST FOR PFAS.</p>
+<p>SHE AND HER OTHER NEIGHBORS WERE INVITED TO ATTEND AND ASK QUESTIONS ABOUT WHAT'S BEING DONE... AND HOW THE PFAS CONTAMINATION COULD AFFECT THEIR HEALTH.</p>
+<p>**Sheri Menhalo -- Pemberton resident<br />
+**Do we know why? I don't know. Nobody seems to know. But I saw some things on the boards today that were concerning. Thyroid cancer, kidney cancer, my husband has had run-ins with them.</p>
+<p>**Jordan Gass-Pooré -- Host<br />
+**THE AIR FORCE BEGAN TESTING WELL WATER FOR PEOPLE WHO LIVE CLOSE TO THE JOINT BASE IN 2016.</p>
+<p>MORE RECENTLY... MILITARY OFFICIALS HAVE STARTED TRACKING PFAS LEVELS IN NEARBY CREEKS AND STREAMS.</p>
+<p>THE AIR FORCE MAY EXPAND TESTING BASED ON WHAT THEY FIND. BUT IT'S GOING TO TAKE A WHILE BEFORE WE KNOW ANYTHING.</p>
+<p>IN THE MEANTIME... THE MILITARY AND EPA ARE WORKING ON A PLAN TO CLEAN UP THE CONTAMINATION AT BOTH BASES.</p>
+<p>NAVAL WEAPONS STATION EARLE... JOINT BASE MCGUIRE-DIX-LAKEHURST... THEY'RE JUST TWO DROPS IN A VERY LARGE BUCKET.</p>
+<p>50 COMMUNITY WATER SYSTEMS... SERVING MORE THAN 600,000 CUSTOMERS ACROSS NEW JERSEY... ARE KNOWN TO HAVE BEEN TAINTED BY THE MOST COMMON PFAS AT LEVELS HIGHER THAN WHAT THE STATE ALLOWS.</p>
+<p>SOME OF THOSE SYSTEMS HAVE BEEN ABLE TO EFFECTIVELY DEAL WITH THE PROBLEM... OTHERS CONTINUE TO STRUGGLE WITH HIGH PFAS LEVELS.</p>
+<p>IN APRIL... THE EPA SET MAXIMUM CONTAMINANT LEVELS FOR SIX TYPES OF PFAS CHEMICALS IN DRINKING WATER. THE NEW EPA RULES ARE NOT YET IN EFFECT.</p>
+<p>INDUSTRY GROUPS REPRESENTING CHEMICAL COMPANIES HAVE SUED TO BLOCK THEM... ARGUING THE FEDERAL GOVERNMENT HAS GONE TOO FAR BY CREATING EXTREMELY STRICT STANDARDS.</p>
+<p>BUT IF THE EPA'S RULES DO GO INTO EFFECT... THEY WILL APPLY TO THE ENTIRE COUNTRY... AND SURPASS EXISTING REGULATIONS IN NEW JERSEY AND ELSEWHERE.</p>
+<p>MICHAEL REGAN... HEAD OF THE EPA... FIRST PROPOSED THE NEW WATER STANDARDS LAST YEAR. HE ANNOUNCED THE RULES IN NORTH CAROLINA... WHERE HE ONCE GRAPPLED WITH PFAS POLLUTION IN WATER SUPPLIES WHILE SERVING AS THAT STATE'S TOP ENVIRONMENTAL OFFICIAL.</p>
+<p>**Michael Regan -- Administrator, U.S. Environmental Protection Agency<br />
+**We anticipate that when fully implemented, this rule will prevent thousands of deaths and reduce tens of thousands of serious PFAS-related illnesses.</p>
+<p>**Jordan Gass-Pooré -- Host<br />
+**ZACHARY SCHAFER... A SENIOR ADVISOR IN THE EPA'S OFFICE OF WATER... SAYS THE SCIENCE IS CLEAR... THAT LONG TERM EXPOSURE TO PFAS IS LINKED TO SIGNIFICANT HEALTH RISKS.</p>
+<p>**Zachary Schafer -- Senior Advisor, Office of Water, U.S. Environmental Protection Agency<br />
+**These are six of the most widely studied PFAS, and science is the backbone to all of the work that we do, and so we are using the latest science on both the health effects of what we understand health effects to be of these PFAS and on how to monitor for them, how to treat water to remove them.</p>
+<p>**Jordan Gass-Pooré -- Host<br />
+**THE EPA'S NEW RULES WILL APPLY TO MILITARY BASES... PUTTING NEW PRESSURE FOR THE PENTAGON TO DEAL WITH ITS LEGACY OF PFAS POLLUTION.</p>
+<p>AFTER THE EPA FINALIZED ITS PFAS STANDARDS... THE DOD LAUNCHED INVESTIGATIONS INTO 707 FACILITIES SUSPECTED OF HAVING PFAS CONTAMINATION IN THE GROUNDWATER.</p>
+<p>FROM THE U.S. MILITARY SPREADING PFAS IN FIREFIGHTING FOAM... TO ITS USE IN LOCAL FIRE DEPARTMENTS... PFAS IS BECOMING A MAJOR SOURCE OF CONTAMINATION NATIONWIDE... ULTIMATELY AFFECTING THOUSANDS OF PEOPLE IN NEW JERSEY... AND MILLIONS OF OTHER AMERICANS.</p>
+<p>CITIES ACROSS THE COUNTRY ARE GRAPPLING WITH HOW TO TURN OFF THE TAP ON FOREVER CHEMICALS... ONCE AND FOR ALL.</p>
+<p>THE EPA ESTIMATES IT'LL COST ABOUT $1.5 BILLION A YEAR TO REMOVE PFAS FROM U.S. DRINKING WATER.</p>
+<p>3M AND DUPONT ARE SUPPOSED TO HELP COVER SOME OF THESE COSTS.</p>
+<p>LAST YEAR... 3M OFFERED TO PAY AT LEAST $10 BILLION TO SETTLE LAWSUITS OVER THE CONTAMINATION OF THOUSANDS OF PUBLIC DRINKING WATER SYSTEMS ACROSS THE U.S.</p>
+<p>ALSO... DUPONT... AND ITS SPIN OFFS... CHEMOURS... WHICH WE TALKED ABOUT IN EPISODE ONE... AND CORTEVA... REACHED A BILLION-DOLLAR DEAL TO RESOLVE PFAS COMPLAINTS IN HUNDREDS OF CITIES.</p>
+<p>RIDGEWOOD NEW JERSEY IS A SLEEPY VILLAGE IN SUBURBAN BERGEN COUNTY. PEOPLE MOVE HERE FOR THE SCHOOLS... THE EASY ACCESS TO NEW YORK CITY... AND THE QUAINT DOWNTOWN.</p>
+<p>BUT IN 2018... RESIDENTS WERE SURPRISED TO LEARN THAT FOREVER CHEMICALS WERE FOUND IN THEIR DRINKING WATER.</p>
+<p>THE VILLAGE'S WATER COMPANY... RIDGEWOOD WATER... IS PUBLICLY OWNED... AND SERVES OVER 60,000 PEOPLE IN RIDGEWOOD AND SURROUNDING TOWNS.</p>
+<p>**Richard Calbi Jr. -- Director, Ridgewood Water<br />
+**We, unfortunately, detected that PFOA and PFOS are compounds in all 52 of our wells. PFOA exceeds New Jersey DEP standards in all of our wells.</p>
+<p>**Jordan Gass-Pooré -- Host<br />
+**RICHARD CALBI JUNIOR IS THE UTILITY'S OPERATIONS MANAGER.</p>
+<p>I MET UP WITH HIM AT THEIR OFFICE... A FORMER ELKS CLUB... IN THE HEART OF RIDGEWOOD.</p>
+<p>**Richard Calbi Jr. -- Director, Ridgewood Water<br />
+**We moved in here in '22, fall...</p>
+<p>**Jordan Gass-Pooré -- Host<br />
+**HE SHOWED ME AROUND... PAST CUSTOMER SERVICE...</p>
+<p>**Richard Calbi Jr. -- Director, Ridgewood Water<br />
+**These people have the toughest job. They're the frontline. They get all the phone calls.</p>
+<p>**Jordan Gass-Pooré -- Host<br />
+**FIELDING QUESTIONS FROM CUSTOMERS ABOUT WHY THEIR UTILITY BILL HAS GONE UP BECAUSE OF PFAS CONTAMINATION.</p>
+<p>CALBI SAYS THEY'RE ON TRACK TO COMPLY WITH THE EPA'S NEW NATIONAL STANDARDS FOR PFAS IN DRINKING WATER BY 2026. THAT'S THREE YEARS BEFORE THE FED'S DEADLINE.</p>
+<p>MEETING THESE NEW LIMITS WON'T BE EASY... OR CHEAP.</p>
+<p>CALBI SAYS IT'S ESTIMATED TO COST THE UTILITY... AND ULTIMATELY THEIR CUSTOMERS... $140 MILLION TO REMOVE PFAS FROM ITS DRINKING WATER.</p>
+<p>**Richard Calbi Jr. -- Director, Ridgewood Water<br />
+**We're trying to hold the companies that made these contaminants and that found their way into our groundwater accountable. We're surcharging the customers, unfortunately, because at the end of the day, we have to continue to operate and pay for this until all that recovery comes in. So, we've created a separate PFAS charge on the bill. That way we could separate the costs of the investment and operations, maintain that, and then slowly offset that as income comes in.</p>
+<p>**Jordan Gass-Pooré -- Host<br />
+**TO BE CLEAR... RIDGEWOOD WATER IS NOT RESPONSIBLE FOR CONTAMINATING THE WATER WITH PFAS.</p>
+<p>DOWN THE BLOCK FROM RIDGEWOOD WATER'S OFFICE... IS THEIR FIRST PFAS TREATMENT FACILITY.</p>
+<p>**Richard Calbi Jr. -- Director, Ridgewood Water<br />
+**So we're at our Carr treatment facility...</p>
+<p>IT WENT ONLINE IN SEPTEMBER 2019.</p>
+<p>RICHARD SAYS THIS SITE WAS UNIQUE TO THE UTILITY'S OTHER FACILITIES BECAUSE ALL FIVE WELLS ON THE PROPERTY EXCEEDED THE EPA'S STANDARD.</p>
+<p>**Richard Calbi Jr. -- Director, Ridgewood Water<br />
+**So, this was very early on that we started planning, engineering and ultimately constructing this facility. Even before regulations were a thought, and being regulated for the state, because we knew this was above the EPA health advisory.</p>
+<p>WE WALKED AROUND THE SITE... WHICH IS TUCKED BEHIND A FIRE STATION AND A RECYCLING CENTER IN A RESIDENTIAL NEIGHBORHOOD... DODGING PATCHES OF SNOW AND ICY PUDDLES... TO GAWK AT THE FOUR MASSIVE GRAY TANKS THAT MAKE UP THE TREATMENT SYSTEM.</p>
+<p>THEY'RE A KEY PART OF RIDGEWOOD'S WATER SYSTEM, WHICH RICHARD SAID TYPICALLY PROCESSES FIVE MILLION GALLONS OF WATER IN A DAY... THOUGH THAT CAN TRIPLE TO AROUND 15 MILLION GALLONS DAILY IN THE SUMMER.</p>
+<p>THE PFAS IS REMOVED BY ABSORBING THE CHEMICALS INTO CARBON FILTERS.</p>
+<p>**Richard Calbi Jr. -- Director, Ridgewood Water<br />
+**When we do a change out, the carbon that's removed gets trucked out, goes back to the facility, the manufacturer, they incinerate the carbon to a high temperature to remove the PFAS and then recycle that carbon and return it to us.</p>
+<p>**Jordan Gass-Pooré -- Host<br />
+**HE SAYS THIS SITE'S A MODEL FOR THE OTHER 12 PLANTS THEY'LL BE BUILDING TO REMOVE PFAS FROM THE WATER.</p>
+<p>ABOUT AN HOUR AWAY FROM RIDGEWOOD... IN DOVER... MIKE FURREY AND HIS TEAM IS TRYING TO UNTANGLE THIS GORDIAN KNOT.</p>
+<p>MIKE IS THE OWNER OF AGRA ENVIRONMENTAL AND LABORATORY SERVICES. IT'S A SMALL LAB ON A RESIDENTIAL STREET.</p>
+<p>HERE... THEY CONDUCT TESTS FOR ABOUT 1,000 DIFFERENT WATER SYSTEMS AND CUSTOMERS IN NEW JERSEY.</p>
+<p>BUT WHAT MAKES THEIR LAB DIFFERENT FROM OTHERS... IS THEIR ABILITY TO FIND OUT HOW MUCH OF THE STATE'S DRINKING WATER IS CONTAMINATED WITH PFAS.</p>
+<p>I WALKED WITH MIKE INTO HIS NOISY LAB...</p>
+<p>HE POINTED TO THE MILLIONS OF DOLLARS WORTH OF EQUIPMENT HE AND HIS TEAM USE TO TEST FOR THE CHEMICALS.</p>
+<p>**Mike Furrey -- Owner, Agra Environmental and Laboratory Services<br />
+**This instrumentation uses liquid chromatography and mass spec to analyze for all the PFAS compounds. We're certified for several PFAS compounds.</p>
+<p>**Jordan Gass-Pooré -- Host<br />
+**MIKE HAS BEEN TESTING DRINKING WATER FOR AS LONG AS I'VE BEEN ALIVE.</p>
+<p>AND FOR THE PAST DECADE HE'S SERVED ON THE NEW JERSEY DRINKING WATER QUALITY INSTITUTE... WORKING WITH OTHER SCIENTISTS AND INDUSTRY REPRESENTATIVES TO PROPOSE THE STATE'S PFAS LIMITS.</p>
+<p>HIS SON... RYAN FURREY... JOINED THE FAMILY BUSINESS ABOUT THREE YEARS AGO... WHEN HE HELPED THE LAB TEST FOR PFAS IN RIDGEWOOD'S DRINKING WATER.</p>
+<p>**Ryan Furrey -- CEO, Agra Environmental and Laboratory Services<br />
+**You know, I got to see it from start to finish and was involved with, like, the pilot work and the analytical side of it and, you know, also the public side of it like dealing with people and explaining to people how things worked. I learned everything from operations, to lab, to public, to legal, you know, so that kind of put it all into one for me.</p>
+<p>**Jordan Gass-Pooré -- Host<br />
+**RYAN DESCRIBES WHAT HAPPENS WHEN THE WATER GOES THROUGH A FILTRATION SYSTEM LIKE THE ONE IN RIDGEWOOD.</p>
+<p>**Ryan Furrey -- CEO, Agra Environmental and Laboratory Services<br />
+**So, like a Brita filter, right? As you're using a Brita filter, you know, you get that little red light and it tells you that it's spent. So it's like the same idea, right? So for water treatment plants, you know, we're retreating millions of gallons of water a day. So as you can imagine, the vessels are pretty big. But with that being said, the media that you put inside there, there's millions of active sites on there. So those millions of active sites, you know, are basically pulling in those PFAS molecules towards it. And then that's how it's filtering out. So like, you know, it attaches itself, it adsorbs to the media, and then the, the clean water comes through. And then the effluent side is what we give to the people, right, and distribute to the, for our customers.</p>
+<p>**Jordan Gass-Pooré -- Host<br />
+**MILLIONS OF GALLONS OF WATER GO THROUGH THAT FILTRATION SYSTEM IN RIDGEWOOD... AND OTHERS LIKE IT THROUGHOUT THE COUNTRY.</p>
+<p>NEW JERSEY ALONE HAS MORE THAN 600 WATER SYSTEMS THAT ARE REQUIRED TO BE TESTED FOR PFAS. IF RESULTS EXCEED STATE GUIDELINES... THE WATER UTILITY HAS TO LET CUSTOMERS KNOW.</p>
+<p>THE FURREYS RECOGNIZE THERE'S A NEED FOR MORE LABS LIKE THEIRS... AND THE IMPORTANCE OF TESTING.</p>
+<p>**Mike Furrey -- Owner, Agra Environmental and Laboratory Services<br />
+**So, it does begin with the testing. If you don't test it and find it, it's hard. It's hard to actually treat for it. For most chemists or people that do testing, it is a difficult thing to do and time consuming, but pretty fascinating. So those who like to do it, they like to do it.</p>
+<p>**Jordan Gass-Pooré -- Host<br />
+**THIS ISN'T JUST A RIDGEWOOD PROBLEM... OR A NEW JERSEY PROBLEM... PFAS IS SO PERVASIVE THAT IF IT'S NOT IN YOUR COMMUNITY DRINKING WATER... IT'S PROBABLY IN A PLACE YOU KNOW OR HAVE VISITED.</p>
+<p>THE PLANS BY THE STATE AND EPA TO LIMIT PFAS IN DRINKING WATER WILL BE EXPENSIVE... BUT WILL REDUCE PEOPLE'S EXPOSURE TO THE CHEMICALS... AND PROTECT THEIR HEALTH.</p>
+<p>ON THE NEXT EPISODE OF HAZARD NJ... WE DIVE DEEPER INTO THE HEALTH IMPACTS OF PFAS.</p>
+<p>FOR DECADES... THE CHEMICAL COMPANY SOLVAY POLLUTED THE SOUTH JERSEY TOWN OF PAULSBORO WITH PFAS.</p>
+<p>RESIDENTS THERE ARE NOW PART OF A STUDY BY RUTGERS TO SEE IF PFAS IS IN THEIR BLOOD.</p>
+<p>HAZARD NJ IS AN NJ SPOTLIGHT NEWS PRODUCTION... YOU CAN SUPPORT OUR REPORTING BY HEADING TO <a href="http://njspotlightnews.org/DONATE" target="_blank">NJSPOTLIGHTNEWS.ORG/DONATE</a></p>
+<h3 id="credits" tabindex="-1">Credits</h3>
+<p>Hazard NJ is reported and written by host Jordan Gass-Pooré and producer Michael Sol Warren</p>
+<p>Executive Producer – Jamie Kraft</p>
+<p>Executive in Charge of Production – Joe Lee</p>
+<p>Production Manager – Chloe Motisi</p>
+<p>Research Assistant — Judah Duke</p>
+<p>Sound Designer &amp; Engineer – Mark Bush</p>
+<p>Composer – Nick Pennington</p>
+<p>Art – Matthew Fleming</p>
+]]></content:encoded>
+        <enclosure length="67962368" type="audio/mpeg" url="https://mcdn.podbean.com/mf/web/x8vx3epcasnjsi47/Hazard-NJ_S2E2_MB_10042024.mp3" />
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:duration>00:28:19</itunes:duration>
+	</item>
 	
 	<item>
 		<title>Hazard NJ Podcast - First a Miracle, Then a Curse. Teflon at Dupont in far South Jersey - Season 3: Episode 1</title>
@@ -48,7 +798,7 @@
 		<guid isPermaLink="true">https://hazardpodcast.com/episode/episode-14-nj-s2-first-a-miracle-then-a-curse-dupont-teflon-south-jersey/</guid>
         <itunes:image href="https://hazardpodcast.com/img/HazardNJ-Album-Cover.jpg" />
 		<description>It was 1938 at a DuPont laboratory in far South Jersey when scientists stumbled upon the chemical that would become known as Teflon. The accidental discovery became a scientific miracle, laying the groundwork for an entirely new class of incredibly durable chemicals that would be used for all sorts of purposes. But that progress came with a toxic hidden cost that has only recently become fully understood. Now, the small town where it all started is on the front lines of a global pollution crisis.</description>
-        <itunes:subtitle><![CDATA[It was 1938 at a DuPont laboratory in far South Jersey when scientists stumbled upon the chemical that would become known as Teflon. The accidental discovery became a scientific miracle, laying the groundwork for an entirely new class of incredibly durable chemicals that would be used for all sorts of purposes. But that progress came with a toxic hidden cost that has only recently become fully understood. Now, the small town where it all started is on the front lines of a global pollution crisis.]]></itunes:subtitle>
+        <itunes:subtitle><![CDATA[It was 1938 at a DuPont laboratory in far South Jersey when scientists stumbled upon the chemical that would become known as Teflon]]></itunes:subtitle>
         <itunes:summary><![CDATA[It was 1938 at a DuPont laboratory in far South Jersey when scientists stumbled upon the chemical that would become known as Teflon. The accidental discovery became a scientific miracle, laying the groundwork for an entirely new class of incredibly durable chemicals that would be used for all sorts of purposes. But that progress came with a toxic hidden cost that has only recently become fully understood. Now, the small town where it all started is on the front lines of a global pollution crisis.]]></itunes:summary>
 		<content:encoded><![CDATA[<iframe title="Hazard NJ Season 2, Episode 1: First a Miracle, Then a Curse" height="400" width="100%" style="border: none;" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=ixq2p-173835c-pb&from=pb6admin&pbad=0&square=1&share=1&download=1&rtl=0&fonts=Arial&skin=f6f6f6&font-color=auto&logo_link=episode_page&btn-skin=7&size=300" allowfullscreen=""></iframe>
 <p>It was 1938 at a DuPont laboratory in far South Jersey when scientists stumbled upon the chemical that would become known as Teflon. The accidental discovery became a scientific miracle, laying the groundwork for an entirely new class of incredibly durable chemicals that would be used for all sorts of purposes. But that progress came with a toxic hidden cost that has only recently become fully understood. Now, the small town where it all started is on the front lines of a global pollution crisis.</p>
@@ -244,10 +994,19 @@ PFAS... THEY'RE THE CHEMICALS FOUND IN NEARLY EVERYONE.</p>
 <p>THIS SEASON OF HAZARD NJ... WE'RE SERVING UP THE TOXIC TRUTH ABOUT PFAS IN NEW JERSEY'S WATER... ONE GLASS AT A TIME.</p>
 <p>ON EPISODE TWO... WE LOOK AT HOW PFAS ARE FUELING A PUBLIC HEALTH CRISIS.</p>
 <p>HAZARD NJ IS AN NJ SPOTLIGHT NEWS PRODUCTION... YOU CAN SUPPORT OUR REPORTING BY HEADING TO <a href="http://njspotlightnews.org/DONATE" target="_blank">NJSPOTLIGHTNEWS.ORG/DONATE</a></p>
+<h3 id="credits" tabindex="-1">Credits</h3>
+<p>Hazard NJ is reported and written by host Jordan Gass-Pooré and producer Michael Sol Warren</p>
+<p>Executive Producer – Jamie Kraft</p>
+<p>Executive in Charge of Production – Joe Lee</p>
+<p>Production Manager – Chloe Motisi</p>
+<p>Research Assistant — Judah Duke</p>
+<p>Sound Designer &amp; Engineer – Mark Bush</p>
+<p>Composer – Nick Pennington</p>
+<p>Art – Matthew Fleming</p>
 ]]></content:encoded>
         <enclosure length="67161728" type="audio/mpeg" url="https://mcdn.podbean.com/mf/download/bppfzhqmt6jm3cfm/Hazard-NJ_S2E1_FINAL_MB_06212024.mp3" />
         <itunes:episodeType>full</itunes:episodeType>
-        <itunes:explicit>no</itunes:explicit>
+        <itunes:explicit>false</itunes:explicit>
         <itunes:duration>00:27:59</itunes:duration>
 	</item>
 	
@@ -259,7 +1018,7 @@ PFAS... THEY'RE THE CHEMICALS FOUND IN NEARLY EVERYONE.</p>
 		<guid isPermaLink="true">https://hazardpodcast.com/episode/episode-13-nyc-episode-04-gowanus-canal-poonamis-apartments-superfund-pollution-hazardnyc-faqnyc-podcast/</guid>
         <itunes:image href="https://hazardpodcast.com/img/HAZARD_NYC_3000x3000.png" />
 		<description>The Gowanus Canal is a “toxic Wonderland” in the midst of a neighborhood undergoing a complicated transformation. Hear from locals, government officials and developers about the future of the area — and what challenges stand in the way of a cleaner, more resilient community. Samantha Maldonado, senior reporter at THE CITY, and independent journalist Jordan Gass-Pooré dig in on the final episode of Hazard NYC, a four-part FAQ NYC Presents limited series exploring the city’s Superfund sites.</description>
-        <itunes:subtitle><![CDATA[The Gowanus Canal is a “toxic Wonderland” in the midst of a neighborhood undergoing a complicated transformation. Hear from locals, government officials and developers about the future of the area — and what challenges stand in the way of a cleaner, more resilient community. Samantha Maldonado, senior reporter at THE CITY, and independent journalist Jordan Gass-Pooré dig in on the final episode of Hazard NYC, a four-part FAQ NYC Presents limited series exploring the city’s Superfund sites.]]></itunes:subtitle>
+        <itunes:subtitle><![CDATA[The Gowanus Canal is a “toxic Wonderland” in the midst of a neighborhood undergoing a complicated transformation]]></itunes:subtitle>
         <itunes:summary><![CDATA[The Gowanus Canal is a “toxic Wonderland” in the midst of a neighborhood undergoing a complicated transformation. Hear from locals, government officials and developers about the future of the area — and what challenges stand in the way of a cleaner, more resilient community. Samantha Maldonado, senior reporter at THE CITY, and independent journalist Jordan Gass-Pooré dig in on the final episode of Hazard NYC, a four-part FAQ NYC Presents limited series exploring the city’s Superfund sites.]]></itunes:summary>
 		<content:encoded><![CDATA[<iframe src="https://fireside.fm/player/v2/OS-Y7tt8+3bOhvM7H" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 <p>This story was originally published by THE CITY. Sign up to get the latest <a href="https://nyc.us20.list-manage.com/subscribe?u=73d98c6dfc90032198ec7bdee&amp;id=aa6c8f62b7" target="_blank">New York City news</a> delivered to you each morning.</p>
@@ -567,7 +1326,7 @@ PFAS... THEY'RE THE CHEMICALS FOUND IN NEARLY EVERYONE.</p>
 ]]></content:encoded>
         <enclosure length="21727798" type="audio/mpeg" url="https://aphid.fireside.fm/d/1437767933/77c0e88f-43d7-42c8-9e27-504220a0287b/c8a22841-d185-4b8b-b234-31c7c9029b56.mp3" />
         <itunes:episodeType>full</itunes:episodeType>
-        <itunes:explicit>no</itunes:explicit>
+        <itunes:explicit>false</itunes:explicit>
         <itunes:duration>00:21:25</itunes:duration>
 	</item>
 	
@@ -579,7 +1338,7 @@ PFAS... THEY'RE THE CHEMICALS FOUND IN NEARLY EVERYONE.</p>
 		<guid isPermaLink="true">https://hazardpodcast.com/episode/episode-12-nyc-episode-03-wolff-alport-chemical-company-manhattan-project-superfund-pollution-radiation-cancer-hazardnyc-faqnyc-podcast/</guid>
         <itunes:image href="https://hazardpodcast.com/img/HAZARD_NYC_3000x3000.png" />
 		<description>A small patch of land and the buildings located on it contain radiological contamination, posing a cancer risk for workers on the site and nearby neighbors. Work is ongoing to get rid of the threat — but it hasn’t been easy to get there. Samantha Maldonado, senior reporter at THE CITY,  and independent journalist Jordan Gass-Pooré dig in on episode three of Hazard NYC, a four-part FAQ NYC Presents limited series exploring the city’s Superfund sites.</description>
-        <itunes:subtitle><![CDATA[A small patch of land and the buildings located on it contain radiological contamination, posing a cancer risk for workers on the site and nearby neighbors. Work is ongoing to get rid of the threat — but it hasn’t been easy to get there. Samantha Maldonado, senior reporter at THE CITY,  and independent journalist Jordan Gass-Pooré dig in on episode three of Hazard NYC, a four-part FAQ NYC Presents limited series exploring the city’s Superfund sites.]]></itunes:subtitle>
+        <itunes:subtitle><![CDATA[A small patch of land and the buildings located on it contain radiological contamination, posing a cancer risk for workers on the site and nearby neighbors. Work is ongoing to get rid of the threat — but it hasn’t been easy to get there]]></itunes:subtitle>
         <itunes:summary><![CDATA[A small patch of land and the buildings located on it contain radiological contamination, posing a cancer risk for workers on the site and nearby neighbors. Work is ongoing to get rid of the threat — but it hasn’t been easy to get there. Samantha Maldonado, senior reporter at THE CITY,  and independent journalist Jordan Gass-Pooré dig in on episode three of Hazard NYC, a four-part FAQ NYC Presents limited series exploring the city’s Superfund sites.]]></itunes:summary>
 		<content:encoded><![CDATA[<iframe src="https://fireside.fm/player/v2/OS-Y7tt8+Yf-dkiR9" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 <p>This story was originally published by THE CITY. Sign up to get the latest <a href="https://nyc.us20.list-manage.com/subscribe?u=73d98c6dfc90032198ec7bdee&amp;id=aa6c8f62b7" target="_blank">New York City news</a> delivered to you each morning.</p>
@@ -842,7 +1601,7 @@ PFAS... THEY'RE THE CHEMICALS FOUND IN NEARLY EVERYONE.</p>
 ]]></content:encoded>
         <enclosure length="21727798" type="audio/mpeg" url="https://aphid.fireside.fm/d/1437767933/77c0e88f-43d7-42c8-9e27-504220a0287b/e4e2ff84-0f10-43b2-b49d-a9a2aec3df40.mp3" />
         <itunes:episodeType>full</itunes:episodeType>
-        <itunes:explicit>no</itunes:explicit>
+        <itunes:explicit>false</itunes:explicit>
         <itunes:duration>00:21:25</itunes:duration>
 	</item>
 	
@@ -854,7 +1613,7 @@ PFAS... THEY'RE THE CHEMICALS FOUND IN NEARLY EVERYONE.</p>
 		<guid isPermaLink="true">https://hazardpodcast.com/episode/episode-11-nyc-episode-02-meeker-avenue-plume-superfund-pollution-hazardnyc-faqnyc-podcast/</guid>
         <itunes:image href="https://hazardpodcast.com/img/HAZARD_NYC_3000x3000.png" />
 		<description>An underground spill of chemicals in North Brooklyn is the latest focus of community efforts to clean up a neighborhood that’s long dealt with industrial pollution. Hear from locals who live on top of the so-called Meeker Avenue Plume and want people to remember, as one neighbor said, “It’s more than just a toxic site.” THE CITY’s senior reporter Samantha Maldonado and independent journalist Jordan Gass-Pooré dive in on episode two of Hazard NYC, a four-part FAQ NYC Presents limited series exploring the city’s Superfund sites.</description>
-        <itunes:subtitle><![CDATA[An underground spill of chemicals in North Brooklyn is the latest focus of community efforts to clean up a neighborhood that’s long dealt with industrial pollution. Hear from locals who live on top of the so-called Meeker Avenue Plume and want people to remember, as one neighbor said, “It’s more than just a toxic site.” THE CITY’s senior reporter Samantha Maldonado and independent journalist Jordan Gass-Pooré dive in on episode two of Hazard NYC, a four-part FAQ NYC Presents limited series exploring the city’s Superfund sites.]]></itunes:subtitle>
+        <itunes:subtitle><![CDATA[An underground spill of chemicals in North Brooklyn is the latest focus of community efforts to clean up a neighborhood that’s long dealt with industrial pollution]]></itunes:subtitle>
         <itunes:summary><![CDATA[An underground spill of chemicals in North Brooklyn is the latest focus of community efforts to clean up a neighborhood that’s long dealt with industrial pollution. Hear from locals who live on top of the so-called Meeker Avenue Plume and want people to remember, as one neighbor said, “It’s more than just a toxic site.” THE CITY’s senior reporter Samantha Maldonado and independent journalist Jordan Gass-Pooré dive in on episode two of Hazard NYC, a four-part FAQ NYC Presents limited series exploring the city’s Superfund sites.]]></itunes:summary>
 		<content:encoded><![CDATA[<iframe src="https://fireside.fm/player/v2/OS-Y7tt8+p1TD2etU" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 <p>This story was originally published by THE CITY. Sign up to get the latest <a href="https://nyc.us20.list-manage.com/subscribe?u=73d98c6dfc90032198ec7bdee&amp;id=aa6c8f62b7" target="_blank">New York City news</a> delivered to you each morning.</p>
@@ -1113,7 +1872,7 @@ SOME LOCALS ARE PUSHING FOR THEIR NEIGHBORS TO GET IT DONE.</p>
 ]]></content:encoded>
         <enclosure length="22212990" type="audio/mpeg" url="https://aphid.fireside.fm/d/1437767933/77c0e88f-43d7-42c8-9e27-504220a0287b/28a320cc-09d2-4a09-827f-624ccc7abfcb.mp3" />
         <itunes:episodeType>full</itunes:episodeType>
-        <itunes:explicit>no</itunes:explicit>
+        <itunes:explicit>false</itunes:explicit>
         <itunes:duration>00:21:56</itunes:duration>
 	</item>
 	
@@ -1125,7 +1884,7 @@ SOME LOCALS ARE PUSHING FOR THEIR NEIGHBORS TO GET IT DONE.</p>
 		<guid isPermaLink="true">https://hazardpodcast.com/episode/episode-10-nyc-episode-01/</guid>
         <itunes:image href="https://hazardpodcast.com/img/HAZARD_NYC_3000x3000.png" />
 		<description>Newtown Creek is one of the country’s most polluted waterways. Flooding from sea level rise and storms threatens to spread the creek’s contamination and bring pollution from outside the water into it. The feds are figuring out how to include climate change into the clean-up plan they’re developing. THE CITY’s senior reporter Samantha Maldonado and independent journalist Jordan Gass-Pooré dive in on episode one of Hazard NYC, a four-part FAQ NYC Presents limited series exploring the city’s Superfund sites.</description>
-        <itunes:subtitle><![CDATA[Newtown Creek is one of the country’s most polluted waterways. Flooding from sea level rise and storms threatens to spread the creek’s contamination and bring pollution from outside the water into it. The feds are figuring out how to include climate change into the clean-up plan they’re developing. THE CITY’s senior reporter Samantha Maldonado and independent journalist Jordan Gass-Pooré dive in on episode one of Hazard NYC, a four-part FAQ NYC Presents limited series exploring the city’s Superfund sites.]]></itunes:subtitle>
+        <itunes:subtitle><![CDATA[Newtown Creek is one of the country’s most polluted waterways. Flooding from sea level rise and storms threatens to spread the creek’s contamination and bring pollution from outside the water into it]]></itunes:subtitle>
         <itunes:summary><![CDATA[Newtown Creek is one of the country’s most polluted waterways. Flooding from sea level rise and storms threatens to spread the creek’s contamination and bring pollution from outside the water into it. The feds are figuring out how to include climate change into the clean-up plan they’re developing. THE CITY’s senior reporter Samantha Maldonado and independent journalist Jordan Gass-Pooré dive in on episode one of Hazard NYC, a four-part FAQ NYC Presents limited series exploring the city’s Superfund sites.]]></itunes:summary>
 		<content:encoded><![CDATA[<iframe src="https://fireside.fm/player/v2/OS-Y7tt8+lCLHYJ4L" width="100%" height="200" frameborder="0" scrolling="no"></iframe>
 <p>This story was originally published by THE CITY. Sign up to get the latest <a href="https://nyc.us20.list-manage.com/subscribe?u=73d98c6dfc90032198ec7bdee&amp;id=aa6c8f62b7" target="_blank">New York City news</a> delivered to you each morning.</p>
@@ -1418,7 +2177,7 @@ SOME LOCALS ARE PUSHING FOR THEIR NEIGHBORS TO GET IT DONE.</p>
 ]]></content:encoded>
         <enclosure length="24888642" type="audio/mpeg" url="https://aphid.fireside.fm/d/1437767933/77c0e88f-43d7-42c8-9e27-504220a0287b/71348c6f-22aa-4c9e-a62b-9f82ea9abf22.mp3" />
         <itunes:episodeType>full</itunes:episodeType>
-        <itunes:explicit>no</itunes:explicit>
+        <itunes:explicit>false</itunes:explicit>
         <itunes:duration>00:24:43</itunes:duration>
 	</item>
 	
@@ -1442,7 +2201,7 @@ SOME LOCALS ARE PUSHING FOR THEIR NEIGHBORS TO GET IT DONE.</p>
 ]]></content:encoded>
         <enclosure length="3603968" type="audio/mpeg" url="https://hazardpodcast.com/assets/podcasts//Hazard-NYC-Trailer_MB_FINAL_01102024.mp3" />
         <itunes:episodeType>full</itunes:episodeType>
-        <itunes:explicit>no</itunes:explicit>
+        <itunes:explicit>false</itunes:explicit>
         <itunes:duration>00:01:30</itunes:duration>
 	</item>
 	
@@ -1462,7 +2221,7 @@ SOME LOCALS ARE PUSHING FOR THEIR NEIGHBORS TO GET IT DONE.</p>
 ]]></content:encoded>
         <enclosure length="42308970" type="audio/mpeg" url="https://mcdn.podbean.com/mf/download/xe9q8x/Hazard-NJ_Bonus-Episode_Earth-Day_Final.mp3" />
         <itunes:episodeType>full</itunes:episodeType>
-        <itunes:explicit>no</itunes:explicit>
+        <itunes:explicit>false</itunes:explicit>
         <itunes:duration>00:29:22</itunes:duration>
 	</item>
 	
@@ -1482,7 +2241,7 @@ SOME LOCALS ARE PUSHING FOR THEIR NEIGHBORS TO GET IT DONE.</p>
 ]]></content:encoded>
         <enclosure length="9194194" type="audio/mpeg" url="https://mcdn.podbean.com/mf/download/ff64ze/Hazard-NJ_Bonus-EP_OxyChem.mp3" />
         <itunes:episodeType>full</itunes:episodeType>
-        <itunes:explicit>no</itunes:explicit>
+        <itunes:explicit>false</itunes:explicit>
         <itunes:duration>00:06:22</itunes:duration>
 	</item>
 	
@@ -1636,7 +2395,7 @@ SOME LOCALS ARE PUSHING FOR THEIR NEIGHBORS TO GET IT DONE.</p>
 ]]></content:encoded>
         <enclosure length="42259328" type="audio/mpeg" url="https://mcdn.podbean.com/mf/download/4efhfp/Hazard-NJ_Episode-Eight_MB_FINAL_01242023_16b0eq.mp3" />
         <itunes:episodeType>full</itunes:episodeType>
-        <itunes:explicit>no</itunes:explicit>
+        <itunes:explicit>false</itunes:explicit>
         <itunes:duration>00:17:36</itunes:duration>
 	</item>
 	
@@ -1656,7 +2415,7 @@ SOME LOCALS ARE PUSHING FOR THEIR NEIGHBORS TO GET IT DONE.</p>
 ]]></content:encoded>
         <enclosure length="7081519" type="audio/mpeg" url="https://mcdn.podbean.com/mf/download/y66agk/Hazard-N-J-Bonus_Passaic-Settlement.mp3" />
         <itunes:episodeType>full</itunes:episodeType>
-        <itunes:explicit>no</itunes:explicit>
+        <itunes:explicit>false</itunes:explicit>
         <itunes:duration>00:04:54</itunes:duration>
 	</item>
 	
@@ -1675,7 +2434,7 @@ SOME LOCALS ARE PUSHING FOR THEIR NEIGHBORS TO GET IT DONE.</p>
 ]]></content:encoded>
         <enclosure length="45683770" type="audio/mpeg" url="https://mcdn.podbean.com/mf/download/f6aw7r/Hazard-NJ_Damages-Bonus-Episode.mp3" />
         <itunes:episodeType>full</itunes:episodeType>
-        <itunes:explicit>no</itunes:explicit>
+        <itunes:explicit>false</itunes:explicit>
         <itunes:duration>00:31:42</itunes:duration>
 	</item>
 	
@@ -1810,7 +2569,7 @@ SOME LOCALS ARE PUSHING FOR THEIR NEIGHBORS TO GET IT DONE.</p>
 ]]></content:encoded>
         <enclosure length="26006016" type="audio/mpeg" url="https://mcdn.podbean.com/mf/download/ivkzif/Hazard-NJ_Episode-Seven.mp3" />
         <itunes:episodeType>full</itunes:episodeType>
-        <itunes:explicit>no</itunes:explicit>
+        <itunes:explicit>false</itunes:explicit>
         <itunes:duration>00:13:32</itunes:duration>
 	</item>
 	
@@ -1829,7 +2588,7 @@ SOME LOCALS ARE PUSHING FOR THEIR NEIGHBORS TO GET IT DONE.</p>
 ]]></content:encoded>
         <enclosure length="22966396" type="audio/mpeg" url="https://mcdn.podbean.com/mf/download/yyw9u7/Hazard-NJ_Bonus-Episode_Drilled.mp3" />
         <itunes:episodeType>full</itunes:episodeType>
-        <itunes:explicit>no</itunes:explicit>
+        <itunes:explicit>false</itunes:explicit>
         <itunes:duration>00:15:56</itunes:duration>
 	</item>
 	
@@ -2107,7 +2866,7 @@ SOME LOCALS ARE PUSHING FOR THEIR NEIGHBORS TO GET IT DONE.</p>
 ]]></content:encoded>
         <enclosure length="51618368" type="audio/mpeg" url="https://mcdn.podbean.com/mf/download/y9vkdv/Hazard-NJ_Episode-Six_Final_Mix_Mid_Roll_MB_110720228nvho.mp3" />
         <itunes:episodeType>full</itunes:episodeType>
-        <itunes:explicit>no</itunes:explicit>
+        <itunes:explicit>false</itunes:explicit>
         <itunes:duration>00:21:30</itunes:duration>
 	</item>
 	
@@ -2127,7 +2886,7 @@ SOME LOCALS ARE PUSHING FOR THEIR NEIGHBORS TO GET IT DONE.</p>
 ]]></content:encoded>
         <enclosure length="39971142" type="audio/mpeg" url="https://mcdn.podbean.com/mf/download/u9vhvm/Hazard-NJ_Sweaty-Penguin-Episode-Swap.mp3" />
         <itunes:episodeType>full</itunes:episodeType>
-        <itunes:explicit>no</itunes:explicit>
+        <itunes:explicit>false</itunes:explicit>
         <itunes:duration>00:27:44</itunes:duration>
 	</item>
 	
@@ -2284,7 +3043,7 @@ SOME LOCALS ARE PUSHING FOR THEIR NEIGHBORS TO GET IT DONE.</p>
 ]]></content:encoded>
         <enclosure length="52892288" type="audio/mpeg" url="https://mcdn.podbean.com/mf/download/4fv5yf/Hazard-NJ_Episode-Five_Final_MIX_MB_100520226ebqj.mp3" />
         <itunes:episodeType>full</itunes:episodeType>
-        <itunes:explicit>no</itunes:explicit>
+        <itunes:explicit>false</itunes:explicit>
         <itunes:duration>00:22:02</itunes:duration>
 	</item>
 	
@@ -2305,7 +3064,7 @@ SOME LOCALS ARE PUSHING FOR THEIR NEIGHBORS TO GET IT DONE.</p>
 ]]></content:encoded>
         <enclosure length="31716953" type="audio/mpeg" url="https://mcdn.podbean.com/mf/download/pcky8u/Hazard_Florio-Bonus-Episode_V4.mp3" />
         <itunes:episodeType>full</itunes:episodeType>
-        <itunes:explicit>no</itunes:explicit>
+        <itunes:explicit>false</itunes:explicit>
         <itunes:duration>00:22:00</itunes:duration>
 	</item>
 	
@@ -2325,7 +3084,7 @@ SOME LOCALS ARE PUSHING FOR THEIR NEIGHBORS TO GET IT DONE.</p>
 ]]></content:encoded>
         <enclosure length="46930418" type="audio/mpeg" url="https://mcdn.podbean.com/mf/download/qw2wi2/Revised-Hazard-NJ-Best-Of-Ep.mp3" />
         <itunes:episodeType>full</itunes:episodeType>
-        <itunes:explicit>no</itunes:explicit>
+        <itunes:explicit>false</itunes:explicit>
         <itunes:duration>00:32:34</itunes:duration>
 	</item>
 	
@@ -2345,7 +3104,7 @@ SOME LOCALS ARE PUSHING FOR THEIR NEIGHBORS TO GET IT DONE.</p>
 ]]></content:encoded>
         <enclosure length="5701001" type="audio/mpeg" url="https://mcdn.podbean.com/mf/download/25hjj6/Hazard_Superfund-Bonus_V3.mp3" />
         <itunes:episodeType>full</itunes:episodeType>
-        <itunes:explicit>no</itunes:explicit>
+        <itunes:explicit>false</itunes:explicit>
         <itunes:duration>00:03:56</itunes:duration>
 	</item>
 	
@@ -2367,7 +3126,7 @@ SOME LOCALS ARE PUSHING FOR THEIR NEIGHBORS TO GET IT DONE.</p>
 ]]></content:encoded>
         <enclosure length="21346688" type="audio/mpeg" url="https://mcdn.podbean.com/mf/download/mzxqu7/Hazard-Bonus-Episode_V2.mp3" />
         <itunes:episodeType>full</itunes:episodeType>
-        <itunes:explicit>no</itunes:explicit>
+        <itunes:explicit>false</itunes:explicit>
         <itunes:duration>00:08:53</itunes:duration>
 	</item>
 	
@@ -2561,7 +3320,7 @@ SOME LOCALS ARE PUSHING FOR THEIR NEIGHBORS TO GET IT DONE.</p>
 ]]></content:encoded>
         <enclosure length="51477248" type="audio/mpeg" url="https://mcdn.podbean.com/mf/download/z7urzc/HAZARDEP4SSV399yb5.mp3" />
         <itunes:episodeType>full</itunes:episodeType>
-        <itunes:explicit>no</itunes:explicit>
+        <itunes:explicit>false</itunes:explicit>
         <itunes:duration>00:21:26</itunes:duration>
 	</item>
 	
@@ -2898,7 +3657,7 @@ SOME LOCALS ARE PUSHING FOR THEIR NEIGHBORS TO GET IT DONE.</p>
 ]]></content:encoded>
         <enclosure length="97183808" type="audio/mpeg" url="https://mcdn.podbean.com/mf/web/8ew9df/Hazard-Episode-Three_Ringwood-Mines_V2_MB_06202022.mp3" />
         <itunes:episodeType>full</itunes:episodeType>
-        <itunes:explicit>no</itunes:explicit>
+        <itunes:explicit>false</itunes:explicit>
         <itunes:duration>00:40:29</itunes:duration>
 	</item>
 	
@@ -3140,7 +3899,7 @@ SOME LOCALS ARE PUSHING FOR THEIR NEIGHBORS TO GET IT DONE.</p>
 ]]></content:encoded>
         <enclosure length="68271488" type="audio/mpeg" url="https://mcdn.podbean.com/mf/web/3qtnyc/Hazard-Episode-Two_Diamond-Alkali_MB_05312022.mp3" />
         <itunes:episodeType>full</itunes:episodeType>
-        <itunes:explicit>no</itunes:explicit>
+        <itunes:explicit>false</itunes:explicit>
         <itunes:duration>00:28:26</itunes:duration>
 	</item>
 	
@@ -3348,7 +4107,7 @@ SOME LOCALS ARE PUSHING FOR THEIR NEIGHBORS TO GET IT DONE.</p>
 ]]></content:encoded>
         <enclosure length="47570048" type="audio/mpeg" url="https://mcdn.podbean.com/mf/download/m8jfsh/Hazard-Episode-One_American-Cyanamid_MB_05172022.mp3" />
         <itunes:episodeType>full</itunes:episodeType>
-        <itunes:explicit>no</itunes:explicit>
+        <itunes:explicit>false</itunes:explicit>
         <itunes:duration>00:19:49</itunes:duration>
 	</item>
 	
@@ -3375,7 +4134,7 @@ SOME LOCALS ARE PUSHING FOR THEIR NEIGHBORS TO GET IT DONE.</p>
 ]]></content:encoded>
         <enclosure length="9103808" type="audio/mpeg" url="https://mcdn.podbean.com/mf/download/8mnfvr/Hazard_Trailera9yp5.mp3" />
         <itunes:episodeType>full</itunes:episodeType>
-        <itunes:explicit>no</itunes:explicit>
+        <itunes:explicit>false</itunes:explicit>
         <itunes:duration>00:03:47</itunes:duration>
 	</item>
 	</channel>
