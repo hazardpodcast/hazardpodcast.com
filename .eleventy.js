@@ -5,7 +5,6 @@ const path = require("path");
 const del = require("del");
 var mdProcessor = require("markdown-it");
 const sitemap = require("@quasibit/eleventy-plugin-sitemap");
-const UpgradeHelper = require("@11ty/eleventy-upgrade-help");
 const Image = require("@11ty/eleventy-img");
 
 let Nunjucks = require("nunjucks");
@@ -30,6 +29,35 @@ process.env.DOMAIN = domain_name;
 
 module.exports = function (eleventyConfig) {
 	// eleventyConfig.addPlugin(UpgradeHelper);
+	// https://www.martingunnarsson.com/posts/eleventy-excerpts/
+	class ExcerptGenerator {
+		getExcerpt(content, length) {
+			let excerptParagraphs = [];
+			let currentLength = 0;
+			const paragraphs = content.split('. ') || [];
+			if (paragraphs.length === 0) {
+				return "A Hazard Podcast episode.";
+			}
+			for (let paragraph of paragraphs) {
+				// Strip HTML from the paragraph
+				const text = paragraph.replace(/(<([^>]+)>)/gi, "");
+
+				if (currentLength > 0 && currentLength + text.length > length) {
+					break;
+				}
+
+				excerptParagraphs.push(text);
+				currentLength += text.length;
+			}
+			console.log("excerptParagraphs", excerptParagraphs);
+			return excerptParagraphs.join(". ");
+		}
+	}
+
+	eleventyConfig.addFilter("excerpt", function (content) {
+        return new ExcerptGenerator().getExcerpt(content, 254);
+    });
+
 	var siteConfiguration = {
 		// Control which files Eleventy will process
 		// e.g.: *.md, *.njk, *.html

@@ -25,8 +25,11 @@
     xmlns:atom="http://www.w3.org/2005/Atom"
     xmlns:cc="http://web.resource.org/cc/"
     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/"
-    xmlns:content="http://purl.org/rss/1.0/modules/content/"  xmlns:podcast="https://podcastindex.org/namespace/1.0"  xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
-    xmlns:dc="https://dublincore.org/schemas/xmls/qdc/2008/02/11/dc.xsd" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:podcast="https://podcastindex.org/namespace/1.0"
+    xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 
 <channel>
 	<title>{{ metadata.title }}</title>
@@ -42,6 +45,8 @@
 		{{ metadata.author.email }} ({{ metadata.author.name }})
 	</managingEditor>
     <itunes:summary><![CDATA[{{ site.description }}]]></itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <podcast:guid>c4e4952a-3899-5bf3-92ed-5e8d043d4f77</podcast:guid>
     <image>
 		<url>{{ metadata.feedImage }}</url>
 		<title>{{ metadata.title }}</title>
@@ -53,7 +58,6 @@
     </itunes:category>
     <itunes:category text="News"/>
     <itunes:image href="{{ metadata.feedImage }}" />
-    <itunes:explicit>clean</itunes:explicit>
     <itunes:owner>
         <itunes:name><![CDATA[{{ metadata.author.name }}]]></itunes:name>
         <itunes:email>{{ metadata.author.email }}</itunes:email>
@@ -70,7 +74,7 @@
 		<guid isPermaLink="true">{{ absolutePostUrl }}</guid>
         <itunes:image href="{{ site.site_url }}/img/{{post.data.featuredImage}}" />
 		<description>{{ post.data.excerpt or post.data.description or "A Hazard Podcast Episode." }}</description>
-        <itunes:subtitle><![CDATA[{{ post.data.excerpt or post.data.description or "A Hazard Podcast Episode." }}]]></itunes:subtitle>
+        <itunes:subtitle><![CDATA[{{ post.data.description | excerpt }}]]></itunes:subtitle>
         <itunes:summary><![CDATA[{{ post.data.excerpt or post.data.description or "A Hazard Podcast Episode." }}]]></itunes:summary>
 		<content:encoded><![CDATA[{{ post.templateContent | htmlToAbsoluteUrls(absolutePostUrl) | safe }}]]></content:encoded>
 		{%- for tag in post.tags %}
@@ -78,7 +82,7 @@
 		{%- endfor %}
         <enclosure length="{{ post.data.length or "0000" }}" type="audio/mpeg" url="{{ post.data.isBasedOnAudio or post.data.episodeFile or "no" }}" />
         <itunes:episodeType>{{ post.data.episodeType or "full" }}</itunes:episodeType>
-        <itunes:explicit>{{ post.data.explicit or "no" }}</itunes:explicit>
+        <itunes:explicit>{{ post.data.explicit or "false" }}</itunes:explicit>
         <itunes:duration>{{ post.data.duration or "00:01" }}</itunes:duration>
 	</item>
 	{%- endfor %}
