@@ -23,8 +23,8 @@
     font-display: swap;
 }
 </style>
-        <link rel="stylesheet" href="/assets/css/style.css"/>
-        <link rel="stylesheet" href="/assets/css/template-feed.css"/>
+        <link rel="stylesheet" href="/css/style.css"/>
+        <link rel="stylesheet" href="/css/template-feed.css"/>
         <!-- The Author meta propagates the byline in a number of social networks -->
 <meta name="author" content="Jordan Gass-Poore'" ></meta>
 
