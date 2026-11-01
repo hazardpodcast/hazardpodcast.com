@@ -128,8 +128,8 @@ module.exports = async function (eleventyConfig) {
 
 	}
 
-	async function imageShortcode(src, alt, sizes, width) {
-		//console.log('[imageShortcode] called with', src, alt, sizes, width);
+	async function imageShortcode(src, alt, sizes) {
+		// console.log('[imageShortcode] called with', src, alt, sizes);
 		const imageOptions = {
 			widths: [260, 540, 890, 1280],
 			formats: ["png", "jpeg"],
@@ -140,7 +140,7 @@ module.exports = async function (eleventyConfig) {
 				return `${name}-${width}w.${format}`;
 			},
 		}
-		//console.log('[imageShortcode] metadata setup', imageOptions);
+		// console.log('[imageShortcode] metadata setup', imageOptions);
 		try {
 			const metadata = await Image(src, imageOptions);
 
@@ -148,11 +148,11 @@ module.exports = async function (eleventyConfig) {
 
 			const htmlResult = generateHTML(metadata, {
 				alt, // required
-				sizes: sizes || "(min-width: 1024px) 1024px, 100vw",
-				loading: "lazy",
-				decoding: "async",
+				sizes,
+				loading: "eager",
+				decoding: "sync",
 			});
-			//console.log('[imageShortcode] HTML result', htmlResult);
+			// console.log('[imageShortcode] HTML result', htmlResult);
 			return htmlResult;
 		} catch (error) {
 			console.error('[imageShortcode] error generating image', src, error);
@@ -165,8 +165,8 @@ module.exports = async function (eleventyConfig) {
 	// eleventyConfig.addGlobalData("domain_name", domain_name);
 	//console.log("eleventyConfig", eleventyConfig);
 
-	const dirToClean = path.join(siteConfiguration.dir.output, "*");
-	deleteAsync(dirToClean, { dot: true });
+	//const dirToClean = path.join(siteConfiguration.dir.output, "*");
+	//deleteAsync(dirToClean, { dot: true });
 
 	// https://www.11ty.dev/docs/data-deep-merge/
 	eleventyConfig.setDataDeepMerge(true);
@@ -200,13 +200,6 @@ module.exports = async function (eleventyConfig) {
 		// changedFiles is an array of files that changed
 		// to trigger the watch/serve build
 		// sassBuild(domain_name);
-	});
-	eleventyConfig.addPlugin(require("eleventy-plugin-dart-sass"), {
-		sassLocation: path.join(path.resolve("."), "src/_sass/"),
-		perTemplateFiles: "template-",
-		outDir: path.join(path.resolve("."), "docs"),
-		outPath: "/css/",
-		domainName: domain_name,
 	});
 
 	// https://www.npmjs.com/package/@quasibit/eleventy-plugin-sitemap
@@ -552,6 +545,14 @@ module.exports = async function (eleventyConfig) {
 	};
 
 	eleventyConfig.setLibrary("md", markdownSetup);
+
+	eleventyConfig.addPlugin(require("eleventy-plugin-dart-sass"), {
+		sassLocation: path.join(path.resolve("."), "src/_sass/"),
+		perTemplateFiles: "template-",
+		outDir: path.join(path.resolve("."), "docs"),
+		outPath: "/css/",
+		domainName: domain_name,
+	});
 
 	return siteConfiguration;
 };
