@@ -1,11 +1,9 @@
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
-const pluginRss = require("@11ty/eleventy-plugin-rss");
-const getCollectionItem = require("@11ty/eleventy/src/Filters/GetCollectionItem");
+const pluginRss = require("@11ty/eleventy-plugin-rss").default;
 const path = require("path");
-const del = require("del");
+const { deleteAsync } = require("del");
 var mdProcessor = require("markdown-it");
 const sitemap = require("@quasibit/eleventy-plugin-sitemap");
-const Image = require("@11ty/eleventy-img");
 
 let Nunjucks = require("nunjucks");
 const normalize = require("normalize-path");
@@ -27,9 +25,10 @@ if (process.env.IS_LOCAL) {
 
 process.env.DOMAIN = domain_name;
 
-module.exports = function (eleventyConfig) {
-	// eleventyConfig.addPlugin(UpgradeHelper);
-	// https://www.martingunnarsson.com/posts/eleventy-excerpts/
+module.exports = async function (eleventyConfig) {
+	const imageModule = await import("@11ty/eleventy-img");
+	const Image = imageModule.default; // This is the queueImage function
+	const { generateHTML } = imageModule;
 	class ExcerptGenerator {
 		getExcerpt(content, length) {
 			let excerptParagraphs = [];
@@ -49,7 +48,7 @@ module.exports = function (eleventyConfig) {
 				excerptParagraphs.push(text);
 				currentLength += text.length;
 			}
-			console.log("excerptParagraphs", excerptParagraphs);
+			// console.log("excerptParagraphs", excerptParagraphs);
 			return excerptParagraphs.join(". ");
 		}
 	}
@@ -96,33 +95,9 @@ module.exports = function (eleventyConfig) {
 		},
 	};
 
-	async function imageShortcode(src, alt, sizes, customSize = 250) {
-		let metadata = await Image(src, {
-			widths: [parseInt(customSize), 300, 600, 800],
-			formats: ["png", "jpeg", "svg"],
-			outputDir: path.join(eleventyConfig.dir.output, "img"),
-			filenameFormat: function (id, src, width, format, options) {
-				const extension = path.extname(src);
-				const name = path.basename(src, extension);
-
-				return `${name}-${width}w.${format}`;
-			},
-			whitespaceMode: "inline",
-		});
-
-		let imageAttributes = {
-			alt,
-			sizes,
-			loading: "lazy",
-			decoding: "async",
-		};
-
-		// You bet we throw an error on missing alt in `imageAttributes` (alt="" works okay)
-		return Image.generateHTML(metadata, imageAttributes);
-	}
-
 	async function imageSmallShortcode(src, alt, sizes) {
-		let metadata = await Image(src, {
+		// console.log('[imageSmallShortcode] called with', src, alt, sizes);
+		const imageOptions = {
 			widths: [50, 150],
 			formats: ["png", "jpeg"],
 			outputDir: path.join(eleventyConfig.dir.output, "img"),
@@ -131,17 +106,59 @@ module.exports = function (eleventyConfig) {
 				const name = path.basename(src, extension);
 				return `${name}-${width}w.${format}`;
 			},
-		});
+		}
+		// console.log('[imageSmallShortcode] metadata setup', imageOptions);
+		try {
+			const metadata = await Image(src, imageOptions);
 
-		let imageAttributes = {
-			alt,
-			sizes,
-			loading: "eager",
-			decoding: "sync",
-		};
+			//console.log('[imageSmallShortcode] metadata generated', src, metadata);
 
-		// You bet we throw an error on missing alt in `imageAttributes` (alt="" works okay)
-		return Image.generateHTML(metadata, imageAttributes);
+			const htmlResult = generateHTML(metadata, {
+				alt, // required
+				sizes,
+				loading: "eager",
+				decoding: "sync",
+			});
+			// console.log('[imageSmallShortcode] HTML result', htmlResult);
+			return htmlResult;
+		} catch (error) {
+			console.error('[imageSmallShortcode] error generating image', src, error);
+			throw error;
+		}
+
+	}
+
+	async function imageShortcode(src, alt, sizes, width) {
+		//console.log('[imageShortcode] called with', src, alt, sizes, width);
+		const imageOptions = {
+			widths: [260, 540, 890, 1280],
+			formats: ["png", "jpeg"],
+			outputDir: path.join(eleventyConfig.dir.output, "img"),
+			filenameFormat: function (id, src, width, format, options) {
+				const extension = path.extname(src);
+				const name = path.basename(src, extension);
+				return `${name}-${width}w.${format}`;
+			},
+		}
+		//console.log('[imageShortcode] metadata setup', imageOptions);
+		try {
+			const metadata = await Image(src, imageOptions);
+
+			// console.log('[imageShortcode] metadata generated', src, metadata);
+
+			const htmlResult = generateHTML(metadata, {
+				alt, // required
+				sizes: sizes || "(min-width: 1024px) 1024px, 100vw",
+				loading: "lazy",
+				decoding: "async",
+			});
+			//console.log('[imageShortcode] HTML result', htmlResult);
+			return htmlResult;
+		} catch (error) {
+			console.error('[imageShortcode] error generating image', src, error);
+			throw error;
+		}
+
 	}
 
 	// Not in place until v1
@@ -149,7 +166,7 @@ module.exports = function (eleventyConfig) {
 	//console.log("eleventyConfig", eleventyConfig);
 
 	const dirToClean = path.join(siteConfiguration.dir.output, "*");
-	del.sync(dirToClean, { dot: true });
+	deleteAsync(dirToClean, { dot: true });
 
 	// https://www.11ty.dev/docs/data-deep-merge/
 	eleventyConfig.setDataDeepMerge(true);
@@ -188,6 +205,7 @@ module.exports = function (eleventyConfig) {
 		sassLocation: path.join(path.resolve("."), "src/_sass/"),
 		perTemplateFiles: "template-",
 		outDir: path.join(path.resolve("."), "docs"),
+		outPath: "/css/",
 		domainName: domain_name,
 	});
 
