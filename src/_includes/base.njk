@@ -16,10 +16,10 @@
             <title>{{ title }}</title>
 
             {% include "partials/fonts.njk" %}
-            <!-- <link rel="stylesheet" href="{{site.site_url}}/assets/css/style.css?v={{ site.github.build_revision}}" /> -->
+            <!-- <link rel="stylesheet" href="{{site.site_url}}/css/style.css?v={{ site.github.build_revision}}" /> -->
             {% sassFile false, "?v=" + site.github.build_revision %}
             {% if templateName %}
-                <!-- <link rel="stylesheet" href="{{site.site_url}}/assets/css/template-{{ templateName }}.css?v={{ site.github.build_revision}}" /> -->
+                <!-- <link rel="stylesheet" href="{{site.site_url}}/css/template-{{ templateName }}.css?v={{ site.github.build_revision}}" /> -->
                 {% sassFile templateName, "?v=" + site.github.build_revision %}
             {% endif %}
             <!-- Build Revision: {{ site.github.build_revision }} & Sha: {{ site.github.build_sha }} -->
@@ -49,6 +49,7 @@
 
         {% endblock %}
         {% block stylehead %}{% endblock %}
+        <script defer src="/assets/site.js"></script>
         </head>
         <body {% block bodytags %}{% endblock %}>
             <div class="wrapper">
